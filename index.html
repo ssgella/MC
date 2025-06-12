@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anatomy Practice - Setup</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body class="bg-gray-100 flex items-center justify-center min-h-screen p-4 font-inter">
+    <div class="container bg-white p-8 rounded-lg shadow-md max-w-2xl w-full">
+        <h1 class="text-3xl font-bold text-center text-gray-800 mb-6">Set Up Your Practice Session</h1>
+
+        <div class="mb-5">
+            <label for="num-questions" class="block text-gray-700 text-sm font-semibold mb-2">Number of Questions:</label>
+            <select id="num-questions" class="form-select block w-full px-3 py-2 border border-gray-300 rounded-md shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-blue-500">
+                <option value="5">5 Questions</option>
+                <option value="10">10 Questions</option>
+                <option value="20">20 Questions</option>
+                <option value="50">50 Questions</option>
+                <option value="all">All Available</option>
+            </select>
+        </div>
+
+        <div class="mb-5">
+            <label class="block text-gray-700 text-sm font-semibold mb-2">Filter by Topic:</label>
+            <div id="topic-filters" class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                <!-- Topic checkboxes will be dynamically inserted here by JavaScript -->
+                <p class="text-gray-500">Loading topics...</p>
+            </div>
+        </div>
+
+        <div class="mb-6">
+            <label class="block text-gray-700 text-sm font-semibold mb-2">Filter by Previous Performance:</label>
+            <div class="space-y-2">
+                <label class="flex items-center text-gray-800 cursor-pointer">
+                    <input type="checkbox" id="include-answered" class="form-checkbox h-4 w-4 text-blue-600 rounded focus:ring-blue-500" checked>
+                    <span class="ml-2">Include previously answered questions <span id="answered-count" class="text-gray-500 text-sm"></span></span>
+                </label>
+                <label class="flex items-center text-gray-800 cursor-pointer">
+                    <input type="checkbox" id="only-answered-wrong" class="form-checkbox h-4 w-4 text-blue-600 rounded focus:ring-blue-500">
+                    <span class="ml-2">Only include questions I answered wrong previously <span id="wrong-count" class="text-gray-500 text-sm"></span></span>
+                </label>
+            </div>
+        </div>
+
+        <div class="mb-6 flex items-center justify-between p-3 bg-blue-50 rounded-md text-blue-800">
+            <span class="text-lg font-bold">Total Questions Available:</span>
+            <span id="total-questions-count" class="text-2xl font-extrabold">0</span>
+        </div>
+
+        <div class="mb-5">
+            <label class="block text-gray-700 text-sm font-semibold mb-2">Results Feedback:</label>
+            <label class="flex items-center text-gray-800 cursor-pointer">
+                <input type="checkbox" id="immediate-feedback" class="form-checkbox h-4 w-4 text-blue-600 rounded focus:ring-blue-500">
+                <span class="ml-2">Show results immediately after each question</span>
+            </label>
+        </div>
+
+        <button id="start-practice-btn" class="w-full bg-blue-600 text-white py-3 rounded-md font-semibold text-lg hover:bg-blue-700 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-offset-2 transition duration-200 disabled:opacity-50 disabled:cursor-not-allowed" disabled>
+            Start Practice
+        </button>
+
+        <div class="mt-8 pt-6 border-t border-gray-200">
+            <h2 class="text-2xl font-bold text-gray-800 mb-4 text-center">Your Performance</h2>
+            
+            <div class="mb-6">
+                <h3 class="text-lg font-semibold text-gray-700 mb-2">Overall Performance:</h3>
+                <div id="overall-performance-bar" class="progress-bar-container">
+                    <!-- Overall performance bar will be rendered here -->
+                </div>
+                <div id="overall-performance-text" class="text-sm text-gray-600 mt-2 text-center"></div>
+            </div>
+
+            <div class="mb-6">
+                <h3 class="text-lg font-semibold text-gray-700 mb-2">Performance by Topic:</h3>
+                <div id="topic-performance-bars" class="space-y-4">
+                    <!-- Topic-specific performance bars will be rendered here -->
+                    <p class="text-gray-500 text-center">Answer some questions to see performance by topic.</p>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        inter: ['Inter', 'sans-serif'],
+                    }
+                }
+            }
+        }
+    </script>
+    <script src="app.js"></script>
+</body>
+</html>

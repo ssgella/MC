@@ -1,0 +1,120 @@
+/* style.css */
+
+/* Custom styles for the app */
+/* Tailwind CSS classes are heavily used for design, but this file can be extended for more specific global styles. */
+
+body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Base styles for form elements, to ensure consistency */
+.form-select, .form-checkbox {
+    /* Add any custom base styling here if needed,
+       though Tailwind's utility classes will handle most of the visuals. */
+}
+
+/* Styles for feedback messages */
+.feedback-correct {
+    background-color: #d1fae5; /* Green-100 */
+    color: #065f46; /* Green-800 */
+}
+
+.feedback-incorrect {
+    background-color: #fee2e2; /* Red-100 */
+    color: #991b1b; /* Red-800 */
+}
+
+/* Specific styling for the practice session options */
+.option-label {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    border-radius: 0.5rem; /* rounded-md */
+    border: 1px solid #d1d5db; /* border-gray-300 */
+    transition: all 0.2s ease-in-out;
+}
+
+.option-label.hover\:bg-gray-50.cursor-pointer:hover { /* Specificity for hover effect */
+    background-color: #f3f4f6; /* gray-50 */
+    border-color: #9ca3af; /* gray-400 */
+}
+
+
+.option-input[type="radio"] {
+    margin-right: 0.75rem; /* mr-3 */
+    transform: scale(1.2); /* Slightly larger radio button */
+    accent-color: #3b82f6; /* blue-600 */
+}
+
+/* Styles for selected option in non-immediate mode */
+.option-label.selected {
+    background-color: #e0f2fe; /* blue-50 */
+    border-color: #3b82f6; /* blue-600 */
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.2); /* ring-blue-200 */
+}
+
+/* Styles for correct/incorrect display on review or immediate feedback */
+.option-label.correct-answer {
+    background-color: #d1fae5; /* Green-100 */
+    border-color: #10b981; /* Green-500 */
+}
+
+.option-label.incorrect-selected {
+    background-color: #fee2e2; /* Red-100 */
+    border-color: #ef4444; /* Red-500 */
+}
+
+/* Style for sidebar question numbers */
+.question-nav-item {
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    text-align: center;
+    background-color: #4b5563; /* gray-700 */
+    color: #d1d5db; /* gray-300 */
+}
+
+.question-nav-item:hover {
+    background-color: #6b7280; /* gray-600 */
+}
+
+.question-nav-item.current {
+    background-color: #3b82f6; /* blue-600 */
+    color: white;
+    font-weight: bold;
+}
+
+.question-nav-item.answered {
+    background-color: #e5e7eb; /* gray-200 */
+    color: #4b5563; /* gray-700 */
+}
+
+/* --- Progress Bar Styles --- */
+.progress-bar-container {
+    display: flex;
+    width: 100%;
+    height: 20px; /* Adjust height as needed */
+    background-color: #e2e8f0; /* bg-gray-200 for overall empty bar */
+    border-radius: 9999px; /* Full rounded corners */
+    overflow: hidden; /* Ensures segments stay within bounds */
+}
+
+.progress-bar-segment {
+    height: 100%;
+    /* Flex-grow will be set by JS width, so flex-shrink-0 is important */
+    flex-shrink: 0;
+}
+
+.correct-segment {
+    background-color: #10b981; /* green-500 */
+}
+
+.incorrect-segment {
+    background-color: #ef4444; /* red-500 */
+}
+
+.unanswered-segment {
+    background-color: #94a3b8; /* slate-400 or a neutral grey */
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "q001",
+    "topic": "Skeletal System",
+    "sub_topic": "Axial Skeleton",
+    "question": "Which bone is commonly known as the 'collarbone'?",
+    "options": [
+      "Scapula",
+      "Clavicle",
+      "Humerus",
+      "Femur"
+    ],
+    "correct_answer_index": 1,
+    "explanation": "The clavicle, or collarbone, connects the scapula and sternum, forming part of the shoulder girdle, providing support and allowing for a wide range of shoulder motion."
+  },
+  {
+    "id": "q002",
+    "topic": "Muscular System",
+    "sub_topic": "Upper Limb Muscles",
+    "question": "The deltoid muscle is primarily responsible for which action at the shoulder joint?",
+    "options": [
+      "Adduction",
+      "Flexion",
+      "Abduction",
+      "Extension"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The deltoid is the primary abductor of the arm at the shoulder joint, meaning it moves the arm away from the midline of the body."
+  },
+  {
+    "id": "q003",
+    "topic": "Cardiovascular System",
+    "sub_topic": "Heart Anatomy",
+    "question": "Which chamber of the heart receives oxygenated blood from the lungs?",
+    "options": [
+      "Right Atrium",
+      "Right Ventricle",
+      "Left Atrium",
+      "Left Ventricle"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The left atrium receives oxygenated blood from the pulmonary veins, coming from the lungs, and then pumps it to the left ventricle."
+  },
+  {
+    "id": "q004",
+    "topic": "Nervous System",
+    "sub_topic": "Brain Structures",
+    "question": "The cerebrum is primarily responsible for which functions?",
+    "options": [
+      "Coordination and balance",
+      "Breathing and heart rate",
+      "Thought, language, and voluntary movement",
+      "Hormone regulation"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The cerebrum is the largest part of the brain and is associated with higher brain functions such as thought, language, and voluntary movement."
+  },
+  {
+    "id": "q005",
+    "topic": "Digestive System",
+    "sub_topic": "Organs",
+    "question": "Where does the majority of nutrient absorption occur in the digestive system?",
+    "options": [
+      "Stomach",
+      "Large Intestine",
+      "Small Intestine",
+      "Esophagus"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The small intestine, particularly the jejunum and ileum, is where most chemical digestion and absorption of nutrients take place."
+  },
+  {
+    "id": "q006",
+    "topic": "Skeletal System",
+    "sub_topic": "Appendicular Skeleton",
+    "question": "Which of these is a bone of the lower limb?",
+    "options": [
+      "Radius",
+      "Ulna",
+      "Tibia",
+      "Humerus"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The tibia is the larger of the two bones in the lower leg, commonly known as the shin bone. The others are upper limb bones."
+  },
+  {
+    "id": "q007",
+    "topic": "Muscular System",
+    "sub_topic": "Lower Limb Muscles",
+    "question": "The quadriceps femoris group is located in which part of the body?",
+    "options": [
+      "Upper arm",
+      "Lower leg",
+      "Thigh",
+      "Back"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The quadriceps femoris is a group of four muscles located in the front of the thigh, primarily responsible for extending the knee."
+  },
+  {
+    "id": "q008",
+    "topic": "Cardiovascular System",
+    "sub_topic": "Blood Vessels",
+    "question": "Which type of blood vessel carries blood away from the heart?",
+    "options": [
+      "Veins",
+      "Capillaries",
+      "Arteries",
+      "Venules"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "Arteries carry oxygenated blood away from the heart to the rest of the body, except for the pulmonary artery which carries deoxygenated blood to the lungs."
+  },
+  {
+    "id": "q009",
+    "topic": "Nervous System",
+    "sub_topic": "Peripheral Nervous System",
+    "question": "Which cranial nerve is primarily responsible for vision?",
+    "options": [
+      "Oculomotor (III)",
+      "Trochlear (IV)",
+      "Optic (II)",
+      "Abducens (VI)"
+    ],
+    "correct_answer_index": 2,
+    "explanation": "The Optic nerve (Cranial Nerve II) transmits visual information from the retina to the brain."
+  },
+  {
+    "id": "q010",
+    "topic": "Respiratory System",
+    "sub_topic": "Airways",
+    "question": "What is the medical term for the windpipe?",
+    "options": [
+      "Larynx",
+      "Pharynx",
+      "Bronchi",
+      "Trachea"
+    ],
+    "correct_answer_index": 3,
+    "explanation": "The trachea is also known as the windpipe; it's a cartilaginous tube that connects the larynx (voice box) to the bronchi of the lungs, allowing passage of air."
+  }
+]
