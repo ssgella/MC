@@ -1,7 +1,7 @@
 // app.js
 
 // --- Global Variables and Constants ---
-const QUESTIONS_FILE = 'questions.json';
+const QUESTIONS_FILE = '/MC/questions.json';
 const LOCAL_STORAGE_KEY = 'anatomy_practice_performance'; // Key for storing performance data
 
 let allQuestions = []; // Stores all questions loaded from JSON
