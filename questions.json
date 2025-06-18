@@ -9977,5 +9977,845 @@
     "question": "The vomiting reflex involves a predictable set of reflexes. Which of the following is an action performed during the vomiting reflex, triggered by the phrenic nerve?",
     "options": ["Increased salivation", "Glottis closed", "Sharp contraction of the diaphragm inferiorly", "Abdominal wall muscle relaxation", "Larynx depressed"],
     "correct_answer_index": 2
+  },
+  {
+    "id": "q1381",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The oral cavity is the most proximal region of the alimentary canal. It communicates with the oropharynx posteriorly by the oropharyngeal isthmus. The size of the oral fissure (mouth) is controlled by which peri-oral muscles?",
+    "options": ["Masseter and temporalis", "Buccinator and orbicularis oris", "Medial and lateral pterygoids", "Zygomaticus major and minor", "Platysma and stylohyoid"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1382",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The tongue's sensory innervation includes general sensation to the anterior two-thirds provided by the lingual nerve. Special sensation (taste) to the anterior two-thirds is provided by which nerve, a branch of CN VII?",
+    "options": ["Lingual nerve", "Chorda tympani", "Glossopharyngeal nerve", "Vagus nerve", "Hypoglossal nerve"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1383",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The submandibular gland is one of the major salivary glands located beneath the floor of the oral cavity. Its secretions drain via Wharton's (submandibular) duct, which drains into the oral cavity at the base of the frenulum of the tongue. This gland is innervated by parasympathetic fibers from which cranial nerve, passing via the submandibular ganglion?",
+    "options": ["Trigeminal nerve (CN V)", "Facial nerve (CN VII)", "Glossopharyngeal nerve (CN IX)", "Vagus nerve (CN X)", "Hypoglossal nerve (CN XII)"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1384",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The temporomandibular joint (TMJ) is a bicondylar joint. Movements of the TMJ are produced by the muscles of mastication. Which of the following muscles is a primary jaw CLOSER and is innervated by the mandibular branch of the trigeminal nerve?",
+    "options": ["Lateral pterygoid", "Temporalis", "Masseter", "Both B and C", "Digastric"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1385",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Which muscle of mastication is responsible for opening the jaw, grinding action side to side, and protrusion, and is innervated by the mandibular branch of the trigeminal nerve?",
+    "options": ["Masseter", "Temporalis", "Medial pterygoid", "Lateral pterygoid", "Buccinator"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1386",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The pharynx is divided into three parts. The posterosuperior wall of the nasopharynx contains which tonsils, which are particularly prominent in children?",
+    "options": ["Tubal tonsils", "Palatine tonsils", "Lingual tonsils", "Adenoid tonsils", "Retropharyngeal tonsils"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1387",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The anterior abdominal wall is formed from skin, superficial fascia, muscles, and parietal peritoneum. The superficial fascia can be divided into fatty (Camper) and membranous (Scarpa) layers. The deepest layer of the anterior abdominal wall, lining the cavity, is the:",
+    "options": ["External oblique", "Internal oblique", "Transversus abdominis", "Rectus abdominis", "Parietal peritoneum"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1388",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The rectus abdominis muscle forms the 'six-pack' muscles. Towards the mid-line, the aponeuroses of the other abdominal wall muscles create which sheath that surrounds the rectus abdominis muscle?",
+    "options": ["Linea alba", "Conjoint tendon", "Rectus sheath", "Transversalis fascia", "Aponeurotic layer"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1389",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "All of the neurovascular structures supplying the abdominal muscles run in the plane between the internal oblique and transversus abdominis muscles, EXCEPT for which two nerves?",
+    "options": ["Thoracoabdominal nerves", "Intercostal nerves", "Iliohypogastric and ilioinguinal nerves", "Femoral nerve", "Obturator nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1390",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The oesophagus contains three constriction points. Which two structures cause the thoracic constrictions of the oesophagus by crossing its anterior surface?",
+    "options": ["Diaphragm and cricopharyngeus muscle", "Aortic arch and left main bronchus", "Right main bronchus and SVC", "Pulmonary trunk and descending aorta", "Left atrium and heart apex"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1391",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The stomach's arterial supply is primarily from branches of the coeliac trunk. Which artery arises from the common hepatic artery and passes along the lesser curvature to supply the stomach from its superior aspect?",
+    "options": ["Left gastric artery", "Right gastric artery", "Left gastro-omental artery", "Right gastro-omental artery", "Short gastric arteries"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1392",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The duodenum is the most proximal part of the small intestine. Its D2 (descending part) receives the drainage from the ampulla of Vater via the major duodenal papilla. This drainage is controlled by a circular muscle thickening called the:",
+    "options": ["Pyloric sphincter", "Ileocaecal valve", "Upper oesophageal sphincter", "Sphincter of Oddi", "Anal sphincter"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1393",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The jejunum and ileum are suspended from the posterior abdominal wall by which anatomical structure, which contains the nerves and blood vessels supplying the bowel?",
+    "options": ["Greater omentum", "Lesser omentum", "Mesentery (small bowel mesentery)", "Transverse mesocolon", "Sigmoid mesocolon"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1394",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The large intestine has several distinguishing features. Which of the following is a characteristic feature of the large intestine, absent in the small intestine?",
+    "options": ["Presence of villi", "Valvulae conniventes", "Larger diameter (<6cm)", "Central location in abdominal radiograph", "Longitudinal bands of smooth muscle called taenia coli"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1395",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The rectum usually only contains faeces immediately prior to defecation. Distally, the rectum widens to form the rectal ampulla, which is highly distensible. What structures form along the length of the rectum to support the weight of accumulating faecal matter?",
+    "options": ["Anal columns", "Anal valves", "Transverse folds (valves) of mucosa", "Pectinate line", "Ischioanal fossae"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1396",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The superior rectal artery, a branch of the inferior mesenteric artery, supplies the whole of the rectal mucosa and upper part of the anal canal. The middle rectal artery, a branch of the internal iliac artery, predominantly supplies which part of the rectum?",
+    "options": ["Upper part of mucosa", "Lower part of mucosa", "Muscle layers of the rectum", "Anal canal", "Anal cushions"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1397",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The lymphatic drainage of the abdominal GI tract converges on pre-aortic lymph nodes. Derivatives of the hindgut (distal 1/3 transverse colon, descending colon, sigmoid colon, rectum) drain to which lymph nodes?",
+    "options": ["Coeliac nodes", "Superior mesenteric nodes", "Inferior mesenteric nodes", "Para-aortic nodes", "Inguinal nodes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1398",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The GI tract is under both sympathetic and parasympathetic autonomic control. The parasympathetic innervation to the transverse, descending, and sigmoid colons, rectum, and anal canal is primarily provided by the:",
+    "options": ["Vagus nerve (CN X)", "Splanchnic nerves (thoracic)", "Pelvic splanchnic nerves (S2-S4)", "Pudendal nerves", "Lumbar sympathetic chain"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1399",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The enteric nervous system consists of the myenteric plexus and the submucous plexus. The myenteric plexus is primarily responsible for the generation of:",
+    "options": ["Glandular secretion", "Electrolyte transport across mucosa", "Peristaltic movements", "Blood flow regulation", "Pain sensation"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1400",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Visceral afferent fibers travel with the autonomic fibers to diffusely terminate within the spinal cord. In general, visceral sensory information from foregut structures is referred to which abdominal region?",
+    "options": ["Umbilical region", "Hypogastric region", "Epigastric region", "Right lower quadrant", "Left upper quadrant"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1401",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The liver is the largest visceral organ within the abdomen, occupying much of the right upper quadrant and extending partially into which other abdominal quadrant?",
+    "options": ["Left lower quadrant", "Right lower quadrant", "Left upper quadrant", "Epigastric region", "Umbilical region"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1402",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The liver is surrounded by peritoneum, aside from a small part of the superior surface of the right lobe. This unprotected area is known as the:",
+    "options": ["Falciform ligament", "Ligamentum teres", "Porta hepatis", "Bare area", "Ligamentum venosum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1403",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Anteriorly, the liver may be grossly divided into the larger right lobe and smaller left lobe, separated by the falciform ligament. When viewed from the inferior surface, which two additional lobes can be identified?",
+    "options": ["Quadrate and caudate lobes", "Superior and inferior lobes", "Anterior and posterior lobes", "Medial and lateral lobes", "Spigelian and Reidel's lobes"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1404",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The porta hepatis is a deep fissure on the inferior surface of the liver. It transmits the portal triad, which includes the proper hepatic artery, hepatic portal vein, and which other structure?",
+    "options": ["Cystic duct", "Right hepatic duct", "Left hepatic duct", "Common hepatic duct", "Common bile duct"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1405",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "In surgery, it is more common to refer to the liver's functionally independent segments. How many such segments are there?",
+    "options": ["2", "4", "6", "8", "10"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1406",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The gallbladder is a pear-shaped, sac-like organ located within the gallbladder fossa on the inferior surface of the liver. Its fundus is typically found posterior to the anterior end of which specific rib's costal cartilage?",
+    "options": ["7th", "8th", "9th", "10th", "11th"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1407",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The hepatic portal vein provides the majority of the liver's blood supply. Approximately what percentage of the liver's blood supply does it account for?",
+    "options": ["25%", "50%", "60%", "75%", "90%"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1408",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Cirrhosis is the end-stage of liver fibrosis. Which of the following is explicitly mentioned as a cause of liver cirrhosis in the provided text?",
+    "options": ["Acute hepatitis A infection", "Excessive iron accumulation (hemochromatosis)", "Chronic alcoholism or chronic hepatitis B/C infection", "Congenital liver cysts", "Gallstone formation only"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1409",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Portal hypertension is the most common, serious complication of liver cirrhosis. It may cause GI bleeding through oesophageal/rectal varices and ascites. It may also cause re-canalisation of the obliterated paraumbilical veins within the ligamentum teres, resulting in the appearance of which clinical sign around the umbilicus?",
+    "options": ["Spider angiomata", "Palmar erythema", "Caput medusae", "Jaundice", "Asterixis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1410",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The most common form of liver tumor is metastatic deposits from primary tumors located elsewhere. What percentage of metastatic lesions within the liver are derived from GI tract malignancies?",
+    "options": ["10%", "25%", "50%", "75%", "90%"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1411",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The falciform ligament is a peritoneal attachment to the liver. It is a remnant of which fetal structure?",
+    "options": ["Umbilical vein", "Umbilical artery", "Ductus venosus", "Ventral mesentery", "Dorsal mesentery"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1412",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The biliary tree begins as small canaliculi that drain bile from hepatocytes. Interlobar bile ducts then join to form the extra-hepatic right and left hepatic ducts, which combine to form the common hepatic duct just distal to the:",
+    "options": ["Cystic duct", "Common bile duct", "Ampulla of Vater", "Porta hepatis", "Sphincter of Oddi"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1413",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The common hepatic duct travels as part of the portal triad within the free edge of the lesser omentum. After 6-8cm, it is joined at its right side by which duct, allowing bile to move in and out of the gallbladder?",
+    "options": ["Main pancreatic duct", "Accessory pancreatic duct", "Right hepatic duct", "Left hepatic duct", "Cystic duct"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1414",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Calot's Triangle is an anatomical region demarcating the location of the cystic artery and Lund's node (the sentinel lymph node of the gallbladder). This triangle is formed by the cystic duct, common hepatic duct, and the inferior edge of the:",
+    "options": ["Pancreas", "Spleen", "Duodenum", "Liver", "Right kidney"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1415",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The common bile duct continues within the free edge of the lesser omentum. It is joined by the main pancreatic duct as it reaches the level of the descending duodenum to form the Ampulla of Vater. Drainage into the duodenum is controlled by a circular muscle thickening called the:",
+    "options": ["Pyloric sphincter", "Ileocaecal valve", "Upper oesophageal sphincter", "Sphincter of Oddi", "Anal sphincter"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1416",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The gallbladder is innervated by sympathetic and visceral afferent fibers from the coeliac plexus and parasympathetic fibers from the Vagus nerve. If the gallbladder becomes infected (cholecystitis), involvement of the parietal peritoneum can cause well-localized, sharp pain in the right upper quadrant. This pain may be referred, via the phrenic nerve, to which dermatome, due to diaphragmatic peritoneal irritation?",
+    "options": ["C2", "C3", "C4", "C5", "T1"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1417",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "One of the most common causes of pancreatitis is the presence of gallstones within the distal biliary tree, blocking the common outflow. This blockage leads to a backlog of pancreatic juice into the pancreas parenchyma, causing:",
+    "options": ["Cholecystitis", "Cholangitis", "Auto-digestion and tissue necrosis", "Liver cirrhosis", "Portal hypertension"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1418",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The pancreas is a lobulated endocrine and exocrine organ. Its head, with an uncinate process, sits in the C-shape of which anatomical structure?",
+    "options": ["Stomach", "Spleen", "Duodenum", "Jejunum", "Transverse colon"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1419",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The pancreas produces exocrine products like trypsinogen, lipase, and amylase. These are drained from the parenchyma into the duodenum via the main pancreatic duct. This duct runs along the length of the pancreas and joins with the common bile duct to form the:",
+    "options": ["Ampulla of Vater", "Sphincter of Oddi", "Minor duodenal papilla", "Cystic duct", "Hepatic duct"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1420",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The spleen is a fist-sized, intra-peritoneal secondary lymphoid organ found within the left upper quadrant of the abdomen, behind which ribs?",
+    "options": ["5th-7th", "7th-9th", "9th-11th", "11th-12th", "8th-10th"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1421",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The liver is predominantly an intra-peritoneal organ. However, a small part of the superior surface of its right lobe is not surrounded by peritoneum. This area is referred to as the:",
+    "options": ["Falciform ligament", "Ligamentum teres", "Porta hepatis", "Bare area", "Ligamentum venosum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1422",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "When viewed from the inferior surface, the liver reveals two additional lobes besides the main right and left lobes. These are the caudate and quadrate lobes. They are separated by the:",
+    "options": ["Falciform ligament", "Ligamentum teres", "Porta hepatis", "Gallbladder fossa", "Inferior vena cava"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1423",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The portal triad enters and leaves the liver parenchyma through the porta hepatis. This triad includes the proper hepatic artery, common hepatic duct, and the:",
+    "options": ["Cystic duct", "Common bile duct", "Hepatic portal vein", "Main pancreatic duct", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1424",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The gallbladder is a pear-shaped, sac-like organ. Its primary function is to:",
+    "options": ["Produce bile", "Filter blood", "Store and ultra-concentrate bile", "Synthesize cholesterol", "Produce digestive enzymes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1425",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The arterial blood supply to the liver is provided by the proper hepatic artery, which conducts highly oxygenated blood. What percentage of the liver's blood supply does the proper hepatic artery account for?",
+    "options": ["Approximately 25%", "Approximately 50%", "Approximately 60%", "Approximately 75%", "Approximately 90%"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1426",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Liver cirrhosis is the end-stage of liver fibrosis. Which of the following is explicitly mentioned as a potential symptom of declining liver function in cirrhosis?",
+    "options": ["Weight gain", "Increased appetite", "Jaundice and ascites", "Increased exercise tolerance", "Hyperglycemia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1427",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Portal hypertension, a common complication of liver cirrhosis, may cause oesophageal varices due to shunting into the systemic venous system. Surgical treatment to relieve portal pressure often involves the insertion of a:",
+    "options": ["Surgical bypass graft", "Transjugular intrahepatic porto-systemic shunt (TIPS)", "Endoscopic band ligation", "Sclerotherapy injection", "Portacaval shunt"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1428",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The liver is a common site for metastatic tumors. Why is the liver particularly susceptible to metastatic disease?",
+    "options": ["Its small size makes it a target.", "Its high metabolic rate attracts cancer cells.", "Its extensive, dual blood supply and porous sinusoids.", "It has a unique lymphatic drainage system.", "It produces growth factors that promote metastasis."],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1429",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The falciform ligament is a peritoneal attachment to the liver. It is a remnant of which fetal structure?",
+    "options": ["Umbilical vein", "Umbilical artery", "Ductus venosus", "Ventral mesentery", "Dorsal mesentery"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1430",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The biliary tree begins as small canaliculi. These drain into Canals of Hering, which ultimately form interlobular then interlobar bile ducts. These then join to form the extra-hepatic right and left hepatic ducts, which combine to form the:",
+    "options": ["Cystic duct", "Common bile duct", "Ampulla of Vater", "Common hepatic duct", "Sphincter of Oddi"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1431",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The common hepatic duct is joined at its right side by the cystic duct to form the common bile duct. Which anatomical region demarcates the location of the cystic artery and Lund's node?",
+    "options": ["Porta hepatis", "Epiploic foramen", "Triangle of Calot", "Quadrate lobe", "Uncinate process"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1432",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The common bile duct passes posterior to the proximal duodenum and head of the pancreas. It joins with the main pancreatic duct to form the Ampulla of Vater, which opens into the descending duodenum through the:",
+    "options": ["Minor duodenal papilla", "Major duodenal papilla", "Pyloric sphincter", "Ligament of Treitz", "Sphincter of Oddi"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1433",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Gallstones can block the biliary tree at various points. Biliary colic is most commonly caused by gallstones lodging within which specific anatomical out-pouching at the junction of the neck of the gallbladder and origin of the cystic duct?",
+    "options": ["Fundus of gallbladder", "Body of gallbladder", "Hartmann's pouch", "Sphincter of Oddi", "Ampulla of Vater"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1434",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Cholecystitis, inflammation of the gallbladder, usually occurs due to blockage of the cystic duct. The pain is classically felt in the right upper quadrant and may radiate to which region via the phrenic nerve?",
+    "options": ["Left upper quadrant", "Epigastric region", "Left shoulder", "Beneath the right breast to the back, below the inferior angle of the right scapula", "Umbilical region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1435",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Choledocholithiasis is the presence of gallstones within the common bile duct. Unlike biliary colic and cholecystitis, this obstruction prevents bile from draining into the duodenum, resulting in:",
+    "options": ["Projectile vomiting", "Diarrhea", "Jaundice", "Abdominal distension without pain", "Increased pancreatic enzyme levels"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1436",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The pancreas is a lobulated endocrine and exocrine organ that runs horizontally across the posterior abdominal wall. Its tail passes within which ligament to reach the splenic hilum?",
+    "options": ["Falciform ligament", "Lesser omentum", "Greater omentum", "Splenorenal ligament", "Transverse mesocolon"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1437",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The exocrine products of the pancreas are drained from the parenchyma into the duodenum via the main pancreatic duct. This duct runs along the length of the pancreas. The endocrine units of the pancreas, the islets of Langerhans, produce insulin, glucagon, and somatostatin, and drain directly into the:",
+    "options": ["Duodenum", "Hepatic portal vein", "Lymphatic system", "Bloodstream", "Common bile duct"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1438",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The head of the pancreas is supplied by the superior and inferior pancreatico-duodenal arteries, which arise from the gastroduodenal and which other artery respectively?",
+    "options": ["Hepatic artery proper", "Splenic artery", "Superior mesenteric artery", "Inferior mesenteric artery", "Coeliac trunk"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1439",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The spleen is a fist-sized, intra-peritoneal secondary lymphoid organ found within the left upper quadrant of the abdomen, behind which ribs?",
+    "options": ["5th-7th", "7th-9th", "9th-11th", "11th-12th", "8th-10th"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1440",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The spleen is supplied by the highly tortuous splenic artery, which arises from which major artery?",
+    "options": ["Superior mesenteric artery", "Inferior mesenteric artery", "Renal artery", "Coeliac trunk", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1441",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The liver is predominantly an intra-peritoneal organ. However, a small part of the superior surface of its right lobe is not surrounded by peritoneum. This area is referred to as the:",
+    "options": ["Falciform ligament", "Ligamentum teres", "Porta hepatis", "Bare area", "Ligamentum venosum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1442",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "When viewed from the inferior surface, the liver reveals two additional lobes besides the main right and left lobes. These are the caudate and quadrate lobes. They are separated by the:",
+    "options": ["Falciform ligament", "Ligamentum teres", "Porta hepatis", "Gallbladder fossa", "Inferior vena cava"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1443",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The portal triad enters and leaves the liver parenchyma through the porta hepatis. This triad includes the proper hepatic artery, common hepatic duct, and the:",
+    "options": ["Cystic duct", "Common bile duct", "Hepatic portal vein", "Main pancreatic duct", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1444",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The gallbladder is a pear-shaped, sac-like organ. Its primary function is to:",
+    "options": ["Produce bile", "Filter blood", "Store and ultra-concentrate bile", "Synthesize cholesterol", "Produce digestive enzymes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1445",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The arterial blood supply to the liver is provided by the proper hepatic artery, which conducts highly oxygenated blood. What percentage of the liver's blood supply does the proper hepatic artery account for?",
+    "options": ["Approximately 25%", "Approximately 50%", "Approximately 60%", "Approximately 75%", "Approximately 90%"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1446",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Liver cirrhosis is the end-stage of liver fibrosis. Which of the following is explicitly mentioned as a potential symptom of declining liver function in cirrhosis?",
+    "options": ["Weight gain", "Increased appetite", "Jaundice and ascites", "Increased exercise tolerance", "Hyperglycemia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1447",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Portal hypertension, a common complication of liver cirrhosis, may cause oesophageal varices due to shunting into the systemic venous system. Surgical treatment to relieve portal pressure often involves the insertion of a:",
+    "options": ["Surgical bypass graft", "Transjugular intrahepatic porto-systemic shunt (TIPS)", "Endoscopic band ligation", "Sclerotherapy injection", "Portacaval shunt"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1448",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The liver is a common site for metastatic tumors. Why is the liver particularly susceptible to metastatic disease?",
+    "options": ["Its small size makes it a target.", "Its high metabolic rate attracts cancer cells.", "Its extensive, dual blood supply and porous sinusoids.", "It has a unique lymphatic drainage system.", "It produces growth factors that promote metastasis."],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1449",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The falciform ligament is a peritoneal attachment to the liver. It is a remnant of which fetal structure?",
+    "options": ["Umbilical vein", "Umbilical artery", "Ductus venosus", "Ventral mesentery", "Dorsal mesentery"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1450",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The biliary tree begins as small canaliculi. These drain into Canals of Hering, which ultimately form interlobular then interlobar bile ducts. These then join to form the extra-hepatic right and left hepatic ducts, which combine to form the:",
+    "options": ["Cystic duct", "Common bile duct", "Ampulla of Vater", "Common hepatic duct", "Sphincter of Oddi"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1451",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The common hepatic duct is joined at its right side by the cystic duct to form the common bile duct. Which anatomical region demarcates the location of the cystic artery and Lund's node?",
+    "options": ["Porta hepatis", "Epiploic foramen", "Triangle of Calot", "Quadrate lobe", "Uncinate process"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1452",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The common bile duct passes posterior to the proximal duodenum and head of the pancreas. It joins with the main pancreatic duct to form the Ampulla of Vater, which opens into the descending duodenum through the:",
+    "options": ["Minor duodenal papilla", "Major duodenal papilla", "Pyloric sphincter", "Ligament of Treitz", "Sphincter of Oddi"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1453",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Gallstones can block the biliary tree at various points. Biliary colic is most commonly caused by gallstones lodging within which specific anatomical out-pouching at the junction of the neck of the gallbladder and origin of the cystic duct?",
+    "options": ["Fundus of gallbladder", "Body of gallbladder", "Hartmann's pouch", "Sphincter of Oddi", "Ampulla of Vater"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1454",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Cholecystitis, inflammation of the gallbladder, usually occurs due to blockage of the cystic duct. The pain is classically felt in the right upper quadrant and may radiate to which region via the phrenic nerve?",
+    "options": ["Left upper quadrant", "Epigastric region", "Left shoulder", "Beneath the right breast to the back, below the inferior angle of the right scapula", "Umbilical region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1455",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Choledocholithiasis is the presence of gallstones within the common bile duct. Unlike biliary colic and cholecystitis, this obstruction prevents bile from draining into the duodenum, resulting in:",
+    "options": ["Projectile vomiting", "Diarrhea", "Jaundice", "Abdominal distension without pain", "Increased pancreatic enzyme levels"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1456",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The pancreas is a lobulated endocrine and exocrine organ that runs horizontally across the posterior abdominal wall. Its tail passes within which ligament to reach the splenic hilum?",
+    "options": ["Falciform ligament", "Lesser omentum", "Greater omentum", "Splenorenal ligament", "Transverse mesocolon"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1457",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The exocrine products of the pancreas are drained from the parenchyma into the duodenum via the main pancreatic duct. This duct runs along the length of the pancreas. The endocrine units of the pancreas, the islets of Langerhans, produce insulin, glucagon, and somatostatin, and drain directly into the:",
+    "options": ["Duodenum", "Hepatic portal vein", "Lymphatic system", "Bloodstream", "Common bile duct"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1458",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The head of the pancreas is supplied by the superior and inferior pancreatico-duodenal arteries, which arise from the gastroduodenal and which other artery respectively?",
+    "options": ["Hepatic artery proper", "Splenic artery", "Superior mesenteric artery", "Inferior mesenteric artery", "Coeliac trunk"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1459",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The spleen is a fist-sized, intra-peritoneal secondary lymphoid organ found within the left upper quadrant of the abdomen, behind which ribs?",
+    "options": ["5th-7th", "7th-9th", "9th-11th", "11th-12th", "8th-10th"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1460",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The spleen is supplied by the highly tortuous splenic artery, which arises from which major artery?",
+    "options": ["Superior mesenteric artery", "Inferior mesenteric artery", "Renal artery", "Coeliac trunk", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1461",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The liver is predominantly an intra-peritoneal organ. However, a small part of the superior surface of its right lobe is not surrounded by peritoneum. This area is referred to as the:",
+    "options": ["Falciform ligament", "Ligamentum teres", "Porta hepatis", "Bare area", "Ligamentum venosum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1462",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "When viewed from the inferior surface, the liver reveals two additional lobes besides the main right and left lobes. These are the caudate and quadrate lobes. They are separated by the:",
+    "options": ["Falciform ligament", "Ligamentum teres", "Porta hepatis", "Gallbladder fossa", "Inferior vena cava"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1463",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The portal triad enters and leaves the liver parenchyma through the porta hepatis. This triad includes the proper hepatic artery, common hepatic duct, and the:",
+    "options": ["Cystic duct", "Common bile duct", "Hepatic portal vein", "Main pancreatic duct", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1464",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The gallbladder is a pear-shaped, sac-like organ. Its primary function is to:",
+    "options": ["Produce bile", "Filter blood", "Store and ultra-concentrate bile", "Synthesize cholesterol", "Produce digestive enzymes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1465",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The arterial blood supply to the liver is provided by the proper hepatic artery, which conducts highly oxygenated blood. What percentage of the liver's blood supply does the proper hepatic artery account for?",
+    "options": ["Approximately 25%", "Approximately 50%", "Approximately 60%", "Approximately 75%", "Approximately 90%"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1466",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Liver cirrhosis is the end-stage of liver fibrosis. Which of the following is explicitly mentioned as a potential symptom of declining liver function in cirrhosis?",
+    "options": ["Weight gain", "Increased appetite", "Jaundice and ascites", "Increased exercise tolerance", "Hyperglycemia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1467",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Portal hypertension, a common complication of liver cirrhosis, may cause oesophageal varices due to shunting into the systemic venous system. Surgical treatment to relieve portal pressure often involves the insertion of a:",
+    "options": ["Surgical bypass graft", "Transjugular intrahepatic porto-systemic shunt (TIPS)", "Endoscopic band ligation", "Sclerotherapy injection", "Portacaval shunt"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1468",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The liver is a common site for metastatic tumors. Why is the liver particularly susceptible to metastatic disease?",
+    "options": ["Its small size makes it a target.", "Its high metabolic rate attracts cancer cells.", "Its extensive, dual blood supply and porous sinusoids.", "It has a unique lymphatic drainage system.", "It produces growth factors that promote metastasis."],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1469",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The falciform ligament is a peritoneal attachment to the liver. It is a remnant of which fetal structure?",
+    "options": ["Umbilical vein", "Umbilical artery", "Ductus venosus", "Ventral mesentery", "Dorsal mesentery"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1470",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The biliary tree begins as small canaliculi. These drain into Canals of Hering, which ultimately form interlobular then interlobar bile ducts. These then join to form the extra-hepatic right and left hepatic ducts, which combine to form the:",
+    "options": ["Cystic duct", "Common bile duct", "Ampulla of Vater", "Common hepatic duct", "Sphincter of Oddi"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1471",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The common hepatic duct is joined at its right side by the cystic duct to form the common bile duct. Which anatomical region demarcates the location of the cystic artery and Lund's node?",
+    "options": ["Porta hepatis", "Epiploic foramen", "Triangle of Calot", "Quadrate lobe", "Uncinate process"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1472",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The common bile duct passes posterior to the proximal duodenum and head of the pancreas. It joins with the main pancreatic duct to form the Ampulla of Vater, which opens into the descending duodenum through the:",
+    "options": ["Minor duodenal papilla", "Major duodenal papilla", "Pyloric sphincter", "Ligament of Treitz", "Sphincter of Oddi"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1473",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Gallstones can block the biliary tree at various points. Biliary colic is most commonly caused by gallstones lodging within which specific anatomical out-pouching at the junction of the neck of the gallbladder and origin of the cystic duct?",
+    "options": ["Fundus of gallbladder", "Body of gallbladder", "Hartmann's pouch", "Sphincter of Oddi", "Ampulla of Vater"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1474",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Cholecystitis, inflammation of the gallbladder, usually occurs due to blockage of the cystic duct. The pain is classically felt in the right upper quadrant and may radiate to which region via the phrenic nerve?",
+    "options": ["Left upper quadrant", "Epigastric region", "Left shoulder", "Beneath the right breast to the back, below the inferior angle of the right scapula", "Umbilical region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1475",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Choledocholithiasis is the presence of gallstones within the common bile duct. Unlike biliary colic and cholecystitis, this obstruction prevents bile from draining into the duodenum, resulting in:",
+    "options": ["Projectile vomiting", "Diarrhea", "Jaundice", "Abdominal distension without pain", "Increased pancreatic enzyme levels"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1476",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The pancreas is a lobulated endocrine and exocrine organ that runs horizontally across the posterior abdominal wall. Its tail passes within which ligament to reach the splenic hilum?",
+    "options": ["Falciform ligament", "Lesser omentum", "Greater omentum", "Splenorenal ligament", "Transverse mesocolon"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1477",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The exocrine products of the pancreas are drained from the parenchyma into the duodenum via the main pancreatic duct. This duct runs along the length of the pancreas. The endocrine units of the pancreas, the islets of Langerhans, produce insulin, glucagon, and somatostatin, and drain directly into the:",
+    "options": ["Duodenum", "Hepatic portal vein", "Lymphatic system", "Bloodstream", "Common bile duct"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1478",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The head of the pancreas is supplied by the superior and inferior pancreatico-duodenal arteries, which arise from the gastroduodenal and which other artery respectively?",
+    "options": ["Hepatic artery proper", "Splenic artery", "Superior mesenteric artery", "Inferior mesenteric artery", "Coeliac trunk"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1479",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The spleen is a fist-sized, intra-peritoneal secondary lymphoid organ found within the left upper quadrant of the abdomen, behind which ribs?",
+    "options": ["5th-7th", "7th-9th", "9th-11th", "11th-12th", "8th-10th"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1480",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The spleen is supplied by the highly tortuous splenic artery, which arises from which major artery?",
+    "options": ["Superior mesenteric artery", "Inferior mesenteric artery", "Renal artery", "Coeliac trunk", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1481",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The liver is predominantly an intra-peritoneal organ. However, a small part of the superior surface of its right lobe is not surrounded by peritoneum. This area is referred to as the:",
+    "options": ["Falciform ligament", "Ligamentum teres", "Porta hepatis", "Bare area", "Ligamentum venosum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1482",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "When viewed from the inferior surface, the liver reveals two additional lobes besides the main right and left lobes. These are the caudate and quadrate lobes. They are separated by the:",
+    "options": ["Falciform ligament", "Ligamentum teres", "Porta hepatis", "Gallbladder fossa", "Inferior vena cava"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1483",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The portal triad enters and leaves the liver parenchyma through the porta hepatis. This triad includes the proper hepatic artery, common hepatic duct, and the:",
+    "options": ["Cystic duct", "Common bile duct", "Hepatic portal vein", "Main pancreatic duct", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1484",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The gallbladder is a pear-shaped, sac-like organ. Its primary function is to:",
+    "options": ["Produce bile", "Filter blood", "Store and ultra-concentrate bile", "Synthesize cholesterol", "Produce digestive enzymes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1485",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The arterial blood supply to the liver is provided by the proper hepatic artery, which conducts highly oxygenated blood. What percentage of the liver's blood supply does the proper hepatic artery account for?",
+    "options": ["Approximately 25%", "Approximately 50%", "Approximately 60%", "Approximately 75%", "Approximately 90%"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1486",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Liver cirrhosis is the end-stage of liver fibrosis. Which of the following is explicitly mentioned as a potential symptom of declining liver function in cirrhosis?",
+    "options": ["Weight gain", "Increased appetite", "Jaundice and ascites", "Increased exercise tolerance", "Hyperglycemia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1487",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Portal hypertension, a common complication of liver cirrhosis, may cause oesophageal varices due to shunting into the systemic venous system. Surgical treatment to relieve portal pressure often involves the insertion of a:",
+    "options": ["Surgical bypass graft", "Transjugular intrahepatic porto-systemic shunt (TIPS)", "Endoscopic band ligation", "Sclerotherapy injection", "Portacaval shunt"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1488",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The liver is a common site for metastatic tumors. Why is the liver particularly susceptible to metastatic disease?",
+    "options": ["Its small size makes it a target.", "Its high metabolic rate attracts cancer cells.", "Its extensive, dual blood supply and porous sinusoids.", "It has a unique lymphatic drainage system.", "It produces growth factors that promote metastasis."],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1489",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The falciform ligament is a peritoneal attachment to the liver. It is a remnant of which fetal structure?",
+    "options": ["Umbilical vein", "Umbilical artery", "Ductus venosus", "Ventral mesentery", "Dorsal mesentery"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1490",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The biliary tree begins as small canaliculi. These drain into Canals of Hering, which ultimately form interlobular then interlobar bile ducts. These then join to form the extra-hepatic right and left hepatic ducts, which combine to form the:",
+    "options": ["Cystic duct", "Common bile duct", "Ampulla of Vater", "Common hepatic duct", "Sphincter of Oddi"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1491",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The common hepatic duct is joined at its right side by the cystic duct to form the common bile duct. Which anatomical region demarcates the location of the cystic artery and Lund's node?",
+    "options": ["Porta hepatis", "Epiploic foramen", "Triangle of Calot", "Quadrate lobe", "Uncinate process"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1492",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The common bile duct passes posterior to the proximal duodenum and head of the pancreas. It joins with the main pancreatic duct to form the Ampulla of Vater, which opens into the descending duodenum through the:",
+    "options": ["Minor duodenal papilla", "Major duodenal papilla", "Pyloric sphincter", "Ligament of Treitz", "Sphincter of Oddi"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1493",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Gallstones can block the biliary tree at various points. Biliary colic is most commonly caused by gallstones lodging within which specific anatomical out-pouching at the junction of the neck of the gallbladder and origin of the cystic duct?",
+    "options": ["Fundus of gallbladder", "Body of gallbladder", "Hartmann's pouch", "Sphincter of Oddi", "Ampulla of Vater"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1494",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Cholecystitis, inflammation of the gallbladder, usually occurs due to blockage of the cystic duct. The pain is classically felt in the right upper quadrant and may radiate to which region via the phrenic nerve?",
+    "options": ["Left upper quadrant", "Epigastric region", "Left shoulder", "Beneath the right breast to the back, below the inferior angle of the right scapula", "Umbilical region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1495",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "Choledocholithiasis is the presence of gallstones within the common bile duct. Unlike biliary colic and cholecystitis, this obstruction prevents bile from draining into the duodenum, resulting in:",
+    "options": ["Projectile vomiting", "Diarrhea", "Jaundice", "Abdominal distension without pain", "Increased pancreatic enzyme levels"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1496",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The pancreas is a lobulated endocrine and exocrine organ that runs horizontally across the posterior abdominal wall. Its tail passes within which ligament to reach the splenic hilum?",
+    "options": ["Falciform ligament", "Lesser omentum", "Greater omentum", "Splenorenal ligament", "Transverse mesocolon"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1497",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The exocrine products of the pancreas are drained from the parenchyma into the duodenum via the main pancreatic duct. This duct runs along the length of the pancreas. The endocrine units of the pancreas, the islets of Langerhans, produce insulin, glucagon, and somatostatin, and drain directly into the:",
+    "options": ["Duodenum", "Hepatic portal vein", "Lymphatic system", "Bloodstream", "Common bile duct"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1498",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The head of the pancreas is supplied by the superior and inferior pancreatico-duodenal arteries, which arise from the gastroduodenal and which other artery respectively?",
+    "options": ["Hepatic artery proper", "Splenic artery", "Superior mesenteric artery", "Inferior mesenteric artery", "Coeliac trunk"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1499",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The spleen is a fist-sized, intra-peritoneal secondary lymphoid organ found within the left upper quadrant of the abdomen, behind which ribs?",
+    "options": ["5th-7th", "7th-9th", "9th-11th", "11th-12th", "8th-10th"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1500",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "question": "The spleen is supplied by the highly tortuous splenic artery, which arises from which major artery?",
+    "options": ["Superior mesenteric artery", "Inferior mesenteric artery", "Renal artery", "Coeliac trunk", "Abdominal aorta"],
+    "correct_answer_index": 3
   }
 ]
