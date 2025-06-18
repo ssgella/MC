@@ -10817,5 +10817,1405 @@
     "question": "The spleen is supplied by the highly tortuous splenic artery, which arises from which major artery?",
     "options": ["Superior mesenteric artery", "Inferior mesenteric artery", "Renal artery", "Coeliac trunk", "Abdominal aorta"],
     "correct_answer_index": 3
+  },
+  {
+    "id": "q1501",
+    "topic": "ANATOMY OF THENAL SYSTEM",
+    "question": "The kidneys are paired, bean-shaped organs located lateral to the T12-L3 transverse processes. They are classified as which type of peritoneal organs?",
+    "options": ["Intra-peritoneal", "Secondary retroperitoneal", "Primary retroperitoneal", "Infraperitoneal", "Mesenteric"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1502",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidneys are found within the para-vertebral gutters. The superior pole of the right kidney sits around 2.5cm lower than the left kidney's superior pole due to the presence of which organ?",
+    "options": ["Spleen", "Pancreas", "Liver", "Stomach", "Duodenum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1503",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Which of the following is a primary function of the kidneys?",
+    "options": ["Produce bile", "Synthesize red blood cells directly", "Filter blood and form urine", "Store urine temporarily", "Secrete digestive enzymes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1504",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The vasculature supplying the kidney and the ureters enter the renal parenchyma at the renal hila. Which vessel is the most anterior structure within the renal hilum?",
+    "options": ["Renal artery", "Ureter", "Renal vein", "Lymphatic vessel", "Adrenal artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1505",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The renal pelvis expands into the major calyces within the renal parenchyma. These major calyces subdivide into minor calyces, which surround the apices of the renal pyramids. How many renal pyramids are typically found within the renal medulla?",
+    "options": ["2-5", "5-10", "10-18", "20-30", "More than 30"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1506",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The glomeruli, proximal and distal convoluted tubules are found within which part of the kidney parenchyma?",
+    "options": ["Renal medulla", "Renal pelvis", "Renal cortex", "Renal papilla", "Renal column"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1507",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Sympathetic fibers primarily control blood flow within the kidney. They arise from the renal plexus and travel along which vessels to reach each kidney?",
+    "options": ["Renal veins", "Ureters", "Gonadal arteries", "Renal arteries", "Inferior vena cava"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1508",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The ureters convey urine from the renal pelvis to the urinary bladder. They are muscular tubes, approximately how long?",
+    "options": ["5 cm", "10 cm", "15 cm", "25 cm", "50 cm"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1509",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The ureters pass inferiorly along the medial border of which muscle, just medial to the tips of L2-L5 transverse processes?",
+    "options": ["Iliacus", "Quadratus lumborum", "Psoas major", "Rectus abdominis", "Transversus abdominis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1510",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Nephrolithiasis is the presence of stones within the urinary system. Which of the following is a physiological constriction point where renal calculi usually lodge?",
+    "options": ["At the hilum of the kidney", "As the ureter crosses over the common iliac bifurcation", "At the mid-point of the ureter", "At the posterior abdominal wall", "At the renal artery origin"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1511",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The urinary bladder is a highly distensible, muscular organ. When empty, it lies almost entirely within the pelvis, resting on the pelvic floor and which other bone?",
+    "options": ["Ilium", "Ischium", "Sacrum", "Coccyx", "Pubis"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1512",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The bladder may be divided into five regions: apex, body, fundus, base, and neck. The apex is the anterior-most part of the superior aspect of the bladder, lying behind the pubic symphysis. It attaches to the umbilicus via the:",
+    "options": ["Lateral umbilical ligament", "Median umbilical ligament", "Medial umbilical ligaments", "Urachus", "Round ligament"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1513",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The base of the bladder is its posterior surface, extending from the two ureteric orifices superiorly to the single internal urethral orifice inferiorly. Internally, the base is largely formed by the:",
+    "options": ["Fundus", "Neck", "Bladder trigone", "Detrusor muscle", "Ureteric openings"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1514",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The bladder fundus is supplied by the superior vesical artery. The base of the bladder is supplied by the inferior vesical artery. Both of these vesical arteries arise from which major artery?",
+    "options": ["External iliac artery", "Femoral artery", "Obturator artery", "Internal iliac artery", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1515",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Parasympathetic innervation of the bladder, which stimulates micturition through contraction of the detrusor muscle, is provided by which nerves?",
+    "options": ["Lumbar splanchnic nerves", "Sacral sympathetic nerves", "Pelvic splanchnic nerves", "Pudendal nerve", "Hypogastric nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1516",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Overflow incontinence can result from blockage of the bladder outflow tract, such as from prostate cancer or urethral strictures. This can also occur following damage to detrusor innervation and bladder wall:",
+    "options": ["Hypertrophy", "Spasticity", "Atony", "Infection", "Inflammation"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1517",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The urethra conducts urine from the bladder to the external environment. Due to the irritant nature of urine, it is lined by which type of epithelium with mucus glands?",
+    "options": ["Simple squamous epithelium", "Simple cuboidal epithelium", "Pseudostratified columnar epithelium", "Stratified squamous epithelium", "Stratified columnar epithelium"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1518",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "In males, the urethra has different parts. Which part is the widest and passes from the bladder neck through the prostate gland, containing the urethral crest and prostatic sinuses?",
+    "options": ["Membranous urethra", "Penile urethra", "Bulbous urethra", "Prostatic urethra", "Spongy urethra"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1519",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Benign Prostatic Hyperplasia (BPH) is a non-malignant growth of the prostate gland. Due to its close association with the urethra, symptoms, if present, are ones of:",
+    "options": ["Pain on urination", "Hematuria", "Bladder outlet obstruction", "Increased urine volume", "Urinary tract infections only"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1520",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The two adrenal glands are primary retroperitoneal endocrine glands. They sit superior to the kidneys within the renal fascia and which other tissue?",
+    "options": ["Visceral fat", "Perirenal fat", "Adipose tissue", "Gerota's fascia", "Parietal peritoneum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1521",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidneys are paired, bean-shaped primary retroperitoneal organs. They are located lateral to which vertebral transverse processes?",
+    "options": ["C1-C5", "T1-T5", "T12-L3", "L4-S1", "S2-S5"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1522",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidneys have several functions, including filtration of blood and formation of urine. They also play a role in maintaining systemic blood pressure through which axis?",
+    "options": ["Hypothalamic-pituitary-adrenal axis", "Renin-angiotensin-aldosterone (RAA) axis", "Thyroid-stimulating hormone axis", "Growth hormone-IGF axis", "Insulin-glucagon axis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1523",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The renal hilum contains the renal artery, renal vein, and renal pelvis. In what order are these structures arranged from anterior to posterior within the renal hilum?",
+    "options": ["Renal artery, renal vein, renal pelvis", "Renal pelvis, renal artery, renal vein", "Renal vein, renal artery, renal pelvis", "Renal artery, renal pelvis, renal vein", "Renal pelvis, renal vein, renal artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1524",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The renal pelvis expands into major calyces, which subdivide into minor calyces. These minor calyces surround the apices of the renal pyramids. The renal pyramids are located within which part of the kidney?",
+    "options": ["Renal cortex", "Renal medulla", "Renal sinus", "Renal column", "Renal capsule"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1525",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidney parenchyma is surrounded by a fibrous renal capsule, which supports the kidney mass. Within the renal cortex, which structures are found?",
+    "options": ["Loops of Henle and renal collecting ducts", "Renal pyramids and papillae", "Glomeruli, proximal and distal convoluted tubules", "Major and minor calyces", "Renal pelvis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1526",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The two adrenal glands are primary retroperitoneal endocrine glands. They sit superior to the kidneys at which vertebral level?",
+    "options": ["T8-T9", "T10-T11", "T11-T12", "L1-L2", "L3-L4"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1527",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The ureters are muscular tubes that convey urine from the renal pelvis to the urinary bladder. They pass inferiorly along the medial border of the psoas major muscle, just medial to the tips of which vertebral transverse processes?",
+    "options": ["T12-L1", "L1-L2", "L2-L5", "S1-S2", "Coccyx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1528",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "As the ureters course inferiorly to the sacroiliac joints, they pass anterior to the bifurcation of which major arteries?",
+    "options": ["Femoral arteries", "External iliac arteries", "Internal iliac arteries", "Common iliac arteries", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1529",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Which of the following describes the approximate normal diameter of the ureter, often cited in relation to renal calculi lodging?",
+    "options": ["1 mm", "2 mm", "3 mm", "5 mm", "10 mm"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1530",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The urinary bladder is a highly distensible, muscular organ. When empty, it lies almost entirely within the pelvis, resting on the pelvic floor and which bone?",
+    "options": ["Ilium", "Ischium", "Pubis", "Sacrum", "Coccyx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1531",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "As the bladder fills, it ascends into the abdomen and may ultimately reach the height of the:",
+    "options": ["Xiphisternum", "Costal margin", "Umbilicus", "Pubic symphysis", "ASIS"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1532",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The bladder is divided into five regions. The fundus is the posterior surface of the bladder, extending from the two ureteric orifices superiorly to the single internal urethral orifice inferiorly. Internally, the base is largely formed by the:",
+    "options": ["Apex", "Body", "Bladder trigone", "Neck", "Ureteric openings"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1533",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The peritoneum reflects onto the superior aspect of the bladder, creating a pouch posterior to the bladder where fluid can collect. In males, this area is known as the:",
+    "options": ["Vesicouterine pouch", "Rectouterine pouch (Pouch of Douglas)", "Rectovesical pouch", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1534",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Both the superior vesical artery (supplying the bladder fundus) and the inferior vesical artery (supplying the bladder base) arise from which major artery?",
+    "options": ["External iliac artery", "Femoral artery", "Obturator artery", "Internal iliac artery", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1535",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Parasympathetic innervation of the bladder stimulates micturition through contraction of the detrusor muscle. Afferent fibers sensing bladder distension typically pass along which nerves to the lumbar spinal cord?",
+    "options": ["Vagus nerves", "Phrenic nerves", "Sympathetic nerves", "Pelvic splanchnic nerves", "Pudendal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1536",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The urethra conducts urine from the bladder to the external environment. Which of the following best describes the lining epithelium of the urethra, given the irritant nature of urine?",
+    "options": ["Simple squamous", "Simple cuboidal", "Pseudostratified columnar", "Stratified squamous", "Stratified columnar"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1537",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "In males, the prostatic urethra passes from the bladder neck through the prostate. It contains the urethral crest with lateral prostatic sinuses through which prostate secretions drain. The ejaculatory ducts drain onto which central elevation of the urethral crest?",
+    "options": ["Prostatic utricle", "Seminal colliculus", "Bulbourethral gland opening", "Membranous urethra", "Penile urethra"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1538",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "In males, the membranous urethra is the shortest part, passing from the inferior part of the prostate through the pelvic floor and perineal membrane. The voluntary external urethral sphincter, supplied by the pudendal nerve, lies between which two layers in relation to this part of the urethra?",
+    "options": ["Rectus abdominis and transversus abdominis", "Superficial and deep fascia", "Parietal and visceral peritoneum", "Pelvic floor and perineal membrane", "Internal and external oblique"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1539",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Urethral strictures, caused by scarring (e.g., from trauma or STIs), can result in obstruction of the urethral lumen. Which of the following is a symptom associated with urethral strictures?",
+    "options": ["Increased urine volume", "Urinary incontinence (stress)", "Double urinary stream", "Absence of urge to urinate", "Polydipsia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1540",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Which specific components of the urinary system are typically outlined by radio-opaque dyes in diagnostic images referred to as 'urograms'?",
+    "options": ["Kidneys and adrenal glands", "Kidneys, ureters, bladder, and urethra", "Bladder and prostate gland", "Kidneys and liver", "Ureters and seminal vesicles"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1541",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidneys are paired, bean-shaped primary retroperitoneal organs. They are located lateral to which vertebral transverse processes?",
+    "options": ["C1-C5", "T1-T5", "T12-L3", "L4-S1", "S2-S5"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1542",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidneys have several functions, including filtration of blood and formation of urine. They also play a role in maintaining systemic blood pressure through which axis?",
+    "options": ["Hypothalamic-pituitary-adrenal axis", "Renin-angiotensin-aldosterone (RAA) axis", "Thyroid-stimulating hormone axis", "Growth hormone-IGF axis", "Insulin-glucagon axis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1543",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The renal hilum contains the renal artery, renal vein, and renal pelvis. In what order are these structures arranged from anterior to posterior within the renal hilum?",
+    "options": ["Renal artery, renal vein, renal pelvis", "Renal pelvis, renal artery, renal vein", "Renal vein, renal artery, renal pelvis", "Renal artery, renal pelvis, renal vein", "Renal pelvis, renal vein, renal artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1544",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The renal pelvis expands into major calyces, which subdivide into minor calyces. These minor calyces surround the apices of the renal pyramids. The renal pyramids are located within which part of the kidney?",
+    "options": ["Renal cortex", "Renal medulla", "Renal sinus", "Renal column", "Renal capsule"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1545",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidney parenchyma is surrounded by a fibrous renal capsule, which supports the kidney mass. Within the renal cortex, which structures are found?",
+    "options": ["Loops of Henle and renal collecting ducts", "Renal pyramids and papillae", "Glomeruli, proximal and distal convoluted tubules", "Major and minor calyces", "Renal pelvis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1546",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The two adrenal glands are primary retroperitoneal endocrine glands. They sit superior to the kidneys at which vertebral level?",
+    "options": ["T8-T9", "T10-T11", "T11-T12", "L1-L2", "L3-L4"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1547",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The ureters are muscular tubes that convey urine from the renal pelvis to the urinary bladder. They pass inferiorly along the medial border of the psoas major muscle, just medial to the tips of which vertebral transverse processes?",
+    "options": ["T12-L1", "L1-L2", "L2-L5", "S1-S2", "Coccyx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1548",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "As the ureters course inferiorly to the sacroiliac joints, they pass anterior to the bifurcation of which major arteries?",
+    "options": ["Femoral arteries", "External iliac arteries", "Internal iliac arteries", "Common iliac arteries", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1549",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Which of the following describes the approximate normal diameter of the ureter, often cited in relation to renal calculi lodging?",
+    "options": ["1 mm", "2 mm", "3 mm", "5 mm", "10 mm"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1550",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The urinary bladder is a highly distensible, muscular organ. When empty, it lies almost entirely within the pelvis, resting on the pelvic floor and which bone?",
+    "options": ["Ilium", "Ischium", "Pubis", "Sacrum", "Coccyx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1551",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "As the bladder fills, it ascends into the abdomen and may ultimately reach the height of the:",
+    "options": ["Xiphisternum", "Costal margin", "Umbilicus", "Pubic symphysis", "ASIS"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1552",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The bladder is divided into five regions. The fundus is the posterior surface of the bladder, extending from the two ureteric orifices superiorly to the single internal urethral orifice inferiorly. Internally, the base is largely formed by the:",
+    "options": ["Apex", "Body", "Bladder trigone", "Neck", "Ureteric openings"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1553",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The peritoneum reflects onto the superior aspect of the bladder, creating a pouch posterior to the bladder where fluid can collect. In males, this area is known as the:",
+    "options": ["Vesicouterine pouch", "Rectouterine pouch (Pouch of Douglas)", "Rectovesical pouch", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1554",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Both the superior vesical artery (supplying the bladder fundus) and the inferior vesical artery (supplying the bladder base) arise from which major artery?",
+    "options": ["External iliac artery", "Femoral artery", "Obturator artery", "Internal iliac artery", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1555",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Parasympathetic innervation of the bladder stimulates micturition through contraction of the detrusor muscle. Afferent fibers sensing bladder distension typically pass along which nerves to the lumbar spinal cord?",
+    "options": ["Vagus nerves", "Phrenic nerves", "Sympathetic nerves", "Pelvic splanchnic nerves", "Pudendal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1556",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The urethra conducts urine from the bladder to the external environment. Which of the following best describes the lining epithelium of the urethra, given the irritant nature of urine?",
+    "options": ["Simple squamous", "Simple cuboidal", "Pseudostratified columnar", "Stratified squamous", "Stratified columnar"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1557",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "In males, the prostatic urethra passes from the bladder neck through the prostate. It contains the urethral crest with lateral prostatic sinuses through which prostate secretions drain. The ejaculatory ducts drain onto which central elevation of the urethral crest?",
+    "options": ["Prostatic utricle", "Seminal colliculus", "Bulbourethral gland opening", "Membranous urethra", "Penile urethra"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1558",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "In males, the membranous urethra is the shortest part, passing from the inferior part of the prostate through the pelvic floor and perineal membrane. The voluntary external urethral sphincter, supplied by the pudendal nerve, lies between which two layers in relation to this part of the urethra?",
+    "options": ["Rectus abdominis and transversus abdominis", "Superficial and deep fascia", "Parietal and visceral peritoneum", "Pelvic floor and perineal membrane", "Internal and external oblique"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1559",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Urethral strictures, caused by scarring (e.g., from trauma or STIs), can result in obstruction of the urethral lumen. Which of the following is a symptom associated with urethral strictures?",
+    "options": ["Increased urine volume", "Urinary incontinence (stress)", "Double urinary stream", "Absence of urge to urinate", "Polydipsia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1560",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Which specific components of the urinary system are typically outlined by radio-opaque dyes in diagnostic images referred to as 'urograms'?",
+    "options": ["Kidneys and adrenal glands", "Kidneys, ureters, bladder, and urethra", "Bladder and prostate gland", "Kidneys and liver", "Ureters and seminal vesicles"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1561",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidneys are paired, bean-shaped primary retroperitoneal organs. They are located lateral to which vertebral transverse processes?",
+    "options": ["C1-C5", "T1-T5", "T12-L3", "L4-S1", "S2-S5"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1562",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidneys have several functions, including filtration of blood and formation of urine. They also play a role in maintaining systemic blood pressure through which axis?",
+    "options": ["Hypothalamic-pituitary-adrenal axis", "Renin-angiotensin-aldosterone (RAA) axis", "Thyroid-stimulating hormone axis", "Growth hormone-IGF axis", "Insulin-glucagon axis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1563",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The renal hilum contains the renal artery, renal vein, and renal pelvis. In what order are these structures arranged from anterior to posterior within the renal hilum?",
+    "options": ["Renal artery, renal vein, renal pelvis", "Renal pelvis, renal artery, renal vein", "Renal vein, renal artery, renal pelvis", "Renal artery, renal pelvis, renal vein", "Renal pelvis, renal vein, renal artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1564",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The renal pelvis expands into major calyces, which subdivide into minor calyces. These minor calyces surround the apices of the renal pyramids. The renal pyramids are located within which part of the kidney?",
+    "options": ["Renal cortex", "Renal medulla", "Renal sinus", "Renal column", "Renal capsule"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1565",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidney parenchyma is surrounded by a fibrous renal capsule, which supports the kidney mass. Within the renal cortex, which structures are found?",
+    "options": ["Loops of Henle and renal collecting ducts", "Renal pyramids and papillae", "Glomeruli, proximal and distal convoluted tubules", "Major and minor calyces", "Renal pelvis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1566",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The two adrenal glands are primary retroperitoneal endocrine glands. They sit superior to the kidneys at which vertebral level?",
+    "options": ["T8-T9", "T10-T11", "T11-T12", "L1-L2", "L3-L4"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1567",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The ureters are muscular tubes that convey urine from the renal pelvis to the urinary bladder. They pass inferiorly along the medial border of the psoas major muscle, just medial to the tips of which vertebral transverse processes?",
+    "options": ["T12-L1", "L1-L2", "L2-L5", "S1-S2", "Coccyx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1568",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "As the ureters course inferiorly to the sacroiliac joints, they pass anterior to the bifurcation of which major arteries?",
+    "options": ["Femoral arteries", "External iliac arteries", "Internal iliac arteries", "Common iliac arteries", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1569",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Which of the following describes the approximate normal diameter of the ureter, often cited in relation to renal calculi lodging?",
+    "options": ["1 mm", "2 mm", "3 mm", "5 mm", "10 mm"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1570",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The urinary bladder is a highly distensible, muscular organ. When empty, it lies almost entirely within the pelvis, resting on the pelvic floor and which bone?",
+    "options": ["Ilium", "Ischium", "Pubis", "Sacrum", "Coccyx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1571",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "As the bladder fills, it ascends into the abdomen and may ultimately reach the height of the:",
+    "options": ["Xiphisternum", "Costal margin", "Umbilicus", "Pubic symphysis", "ASIS"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1572",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The bladder is divided into five regions. The fundus is the posterior surface of the bladder, extending from the two ureteric orifices superiorly to the single internal urethral orifice inferiorly. Internally, the base is largely formed by the:",
+    "options": ["Apex", "Body", "Bladder trigone", "Neck", "Ureteric openings"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1573",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The peritoneum reflects onto the superior aspect of the bladder, creating a pouch posterior to the bladder where fluid can collect. In males, this area is known as the:",
+    "options": ["Vesicouterine pouch", "Rectouterine pouch (Pouch of Douglas)", "Rectovesical pouch", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1574",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Both the superior vesical artery (supplying the bladder fundus) and the inferior vesical artery (supplying the bladder base) arise from which major artery?",
+    "options": ["External iliac artery", "Femoral artery", "Obturator artery", "Internal iliac artery", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1575",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Parasympathetic innervation of the bladder stimulates micturition through contraction of the detrusor muscle. Afferent fibers sensing bladder distension typically pass along which nerves to the lumbar spinal cord?",
+    "options": ["Vagus nerves", "Phrenic nerves", "Sympathetic nerves", "Pelvic splanchnic nerves", "Pudendal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1576",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The urethra conducts urine from the bladder to the external environment. Which of the following best describes the lining epithelium of the urethra, given the irritant nature of urine?",
+    "options": ["Simple squamous", "Simple cuboidal", "Pseudostratified columnar", "Stratified squamous", "Stratified columnar"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1577",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "In males, the prostatic urethra passes from the bladder neck through the prostate. It contains the urethral crest with lateral prostatic sinuses through which prostate secretions drain. The ejaculatory ducts drain onto which central elevation of the urethral crest?",
+    "options": ["Prostatic utricle", "Seminal colliculus", "Bulbourethral gland opening", "Membranous urethra", "Penile urethra"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1578",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "In males, the membranous urethra is the shortest part, passing from the inferior part of the prostate through the pelvic floor and perineal membrane. The voluntary external urethral sphincter, supplied by the pudendal nerve, lies between which two layers in relation to this part of the urethra?",
+    "options": ["Rectus abdominis and transversus abdominis", "Superficial and deep fascia", "Parietal and visceral peritoneum", "Pelvic floor and perineal membrane", "Internal and external oblique"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1579",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Urethral strictures, caused by scarring (e.g., from trauma or STIs), can result in obstruction of the urethral lumen. Which of the following is a symptom associated with urethral strictures?",
+    "options": ["Increased urine volume", "Urinary incontinence (stress)", "Double urinary stream", "Absence of urge to urinate", "Polydipsia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1580",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Which specific components of the urinary system are typically outlined by radio-opaque dyes in diagnostic images referred to as 'urograms'?",
+    "options": ["Kidneys and adrenal glands", "Kidneys, ureters, bladder, and urethra", "Bladder and prostate gland", "Kidneys and liver", "Ureters and seminal vesicles"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1581",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidneys are paired, bean-shaped primary retroperitoneal organs. They are located lateral to which vertebral transverse processes?",
+    "options": ["C1-C5", "T1-T5", "T12-L3", "L4-S1", "S2-S5"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1582",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidneys have several functions, including filtration of blood and formation of urine. They also play a role in maintaining systemic blood pressure through which axis?",
+    "options": ["Hypothalamic-pituitary-adrenal axis", "Renin-angiotensin-aldosterone (RAA) axis", "Thyroid-stimulating hormone axis", "Growth hormone-IGF axis", "Insulin-glucagon axis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1583",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The renal hilum contains the renal artery, renal vein, and renal pelvis. In what order are these structures arranged from anterior to posterior within the renal hilum?",
+    "options": ["Renal artery, renal vein, renal pelvis", "Renal pelvis, renal artery, renal vein", "Renal vein, renal artery, renal pelvis", "Renal artery, renal pelvis, renal vein", "Renal pelvis, renal vein, renal artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1584",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The renal pelvis expands into major calyces, which subdivide into minor calyces. These minor calyces surround the apices of the renal pyramids. The renal pyramids are located within which part of the kidney?",
+    "options": ["Renal cortex", "Renal medulla", "Renal sinus", "Renal column", "Renal capsule"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1585",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The kidney parenchyma is surrounded by a fibrous renal capsule, which supports the kidney mass. Within the renal cortex, which structures are found?",
+    "options": ["Loops of Henle and renal collecting ducts", "Renal pyramids and papillae", "Glomeruli, proximal and distal convoluted tubules", "Major and minor calyces", "Renal pelvis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1586",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The two adrenal glands are primary retroperitoneal endocrine glands. They sit superior to the kidneys at which vertebral level?",
+    "options": ["T8-T9", "T10-T11", "T11-T12", "L1-L2", "L3-L4"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1587",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The ureters are muscular tubes that convey urine from the renal pelvis to the urinary bladder. They pass inferiorly along the medial border of the psoas major muscle, just medial to the tips of which vertebral transverse processes?",
+    "options": ["T12-L1", "L1-L2", "L2-L5", "S1-S2", "Coccyx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1588",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "As the ureters course inferiorly to the sacroiliac joints, they pass anterior to the bifurcation of which major arteries?",
+    "options": ["Femoral arteries", "External iliac arteries", "Internal iliac arteries", "Common iliac arteries", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1589",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Which of the following describes the approximate normal diameter of the ureter, often cited in relation to renal calculi lodging?",
+    "options": ["1 mm", "2 mm", "3 mm", "5 mm", "10 mm"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1590",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The urinary bladder is a highly distensible, muscular organ. When empty, it lies almost entirely within the pelvis, resting on the pelvic floor and which bone?",
+    "options": ["Ilium", "Ischium", "Pubis", "Sacrum", "Coccyx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1591",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "As the bladder fills, it ascends into the abdomen and may ultimately reach the height of the:",
+    "options": ["Xiphisternum", "Costal margin", "Umbilicus", "Pubic symphysis", "ASIS"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1592",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The bladder is divided into five regions. The fundus is the posterior surface of the bladder, extending from the two ureteric orifices superiorly to the single internal urethral orifice inferiorly. Internally, the base is largely formed by the:",
+    "options": ["Apex", "Body", "Bladder trigone", "Neck", "Ureteric openings"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1593",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The peritoneum reflects onto the superior aspect of the bladder, creating a pouch posterior to the bladder where fluid can collect. In males, this area is known as the:",
+    "options": ["Vesicouterine pouch", "Rectouterine pouch (Pouch of Douglas)", "Rectovesical pouch", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1594",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Both the superior vesical artery (supplying the bladder fundus) and the inferior vesical artery (supplying the bladder base) arise from which major artery?",
+    "options": ["External iliac artery", "Femoral artery", "Obturator artery", "Internal iliac artery", "Abdominal aorta"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1595",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Parasympathetic innervation of the bladder stimulates micturition through contraction of the detrusor muscle. Afferent fibers sensing bladder distension typically pass along which nerves to the lumbar spinal cord?",
+    "options": ["Vagus nerves", "Phrenic nerves", "Sympathetic nerves", "Pelvic splanchnic nerves", "Pudendal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1596",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "The urethra conducts urine from the bladder to the external environment. Which of the following best describes the lining epithelium of the urethra, given the irritant nature of urine?",
+    "options": ["Simple squamous", "Simple cuboidal", "Pseudostratified columnar", "Stratified squamous", "Stratified columnar"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1597",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "In males, the prostatic urethra passes from the bladder neck through the prostate. It contains the urethral crest with lateral prostatic sinuses through which prostate secretions drain. The ejaculatory ducts drain onto which central elevation of the urethral crest?",
+    "options": ["Prostatic utricle", "Seminal colliculus", "Bulbourethral gland opening", "Membranous urethra", "Penile urethra"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1598",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "In males, the membranous urethra is the shortest part, passing from the inferior part of the prostate through the pelvic floor and perineal membrane. The voluntary external urethral sphincter, supplied by the pudendal nerve, lies between which two layers in relation to this part of the urethra?",
+    "options": ["Rectus abdominis and transversus abdominis", "Superficial and deep fascia", "Parietal and visceral peritoneum", "Pelvic floor and perineal membrane", "Internal and external oblique"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1599",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Urethral strictures, caused by scarring (e.g., from trauma or STIs), can result in obstruction of the urethral lumen. Which of the following is a symptom associated with urethral strictures?",
+    "options": ["Increased urine volume", "Urinary incontinence (stress)", "Double urinary stream", "Absence of urge to urinate", "Polydipsia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1600",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "question": "Which specific components of the urinary system are typically outlined by radio-opaque dyes in diagnostic images referred to as 'urograms'?",
+    "options": ["Kidneys and adrenal glands", "Kidneys, ureters, bladder, and urethra", "Bladder and prostate gland", "Kidneys and liver", "Ureters and seminal vesicles"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1601",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic (hip) girdle is formed from two hip bones. Which of the following is a component of the pelvis that forms the anatomy of the pelvic inlet?",
+    "options": ["Ischial tuberosity", "Pubic symphysis", "Sacral promontory", "Obturator foramen", "Inferior pubic ramus"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1602",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor, or pelvic diaphragm, functions to support the overlying pelvic viscera. It also plays a crucial role in:",
+    "options": ["Respiration", "Digestion", "Urinary and faecal continence", "Blood pressure regulation", "Reproduction only"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1603",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. This artery provides blood supply to all of the following EXCEPT:",
+    "options": ["Bladder", "Uterus", "External genitalia", "Rectum", "Testis"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1604",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes sympathetic and parasympathetic innervation. Which nerves provide parasympathetic innervation to the pelvic organs?",
+    "options": ["Superior hypogastric plexus", "Sacral splanchnic nerves", "Pelvic splanchnic nerves (S2-S4)", "Pudendal nerve", "Inferior hypogastric plexus"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1605",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are the female gonads. They are intra-peritoneal structures suspended within the peritoneal cavity by the suspensory ligament of the ovary, which passes to the:",
+    "options": ["Uterus", "Cervix", "Lateral pelvic wall", "Lateral abdominal wall", "Sacrum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1606",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) conduct ovulated oocytes from the peritoneal cavity to the uterine cavity. Which part of the oviduct is the widest and longest, and is the most common site of fertilization?",
+    "options": ["Infundibulum", "Ampulla", "Isthmus", "Uterine part", "Fimbriae"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1607",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The non-pregnant uterus normally lies within the pelvic cavity, with its body lying on the posterior wall of the bladder. The cervix is found between the bladder and the:",
+    "options": ["Vagina", "Rectum", "Pubic symphysis", "Sacrum", "Ovaries"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1608",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The adult uterus is normally in an anteverted and anteflexed orientation. What does 'anteverted' mean in this context?",
+    "options": ["Tilted posteriorly", "Flexed anteriorly", "Tilted anteriorly", "Flexed posteriorly", "Laterally displaced"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1609",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The uterus is supplied by the uterine artery, which arises from the internal iliac artery. This artery passes across the anterior aspect of which structure to reach the lateral walls of the uterus via the cardinal ligament?",
+    "options": ["Ovary", "Uterine tube", "Vagina", "Ureter", "Rectum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1610",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Lymphatic drainage from the ovaries passes to which lymph node group?",
+    "options": ["Internal iliac lymph nodes", "Superficial inguinal lymph nodes", "Deep inguinal lymph nodes", "Para-aortic lymph nodes", "Hilar lymph nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1611",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located outside of the pelvic cavity within the scrotum. The dartos muscle is contained within the subcutaneous tissue of the scrotum and acts to regulate scrotal temperature by:",
+    "options": ["Increasing blood flow", "Decreasing blood flow", "Wrinkling the overlying skin", "Relaxing the cremaster muscle", "Increasing surface area for heat loss"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1612",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The deep cremaster muscle, which spirals around the spermatic cord, can raise and lower the testis within the scrotum to control its temperature. The cremaster reflex may be elicited by touching the medial aspect of the:",
+    "options": ["Scrotum", "Abdomen", "Thigh", "Groin", "Perineum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1613",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "As the testis descends through the inguinal canal into the scrotum, a layer of parietal peritoneum is taken with it, creating a sac around the testis. This sac, covering its anterior, medial, and lateral aspects, is known as the:",
+    "options": ["Tunica albuginea", "Tunica vaginalis", "Dartos fascia", "Cremasteric fascia", "External spermatic fascia"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1614",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains several structures. Which testicular vein drains to the left renal vein, rather than directly into the inferior vena cava?",
+    "options": ["Right testicular vein", "Left testicular vein", "Pampiniform venous plexus", "Cremasteric vein", "Inferior epigastric vein"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1615",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminiferous tubules within the testis parenchyma are the site of spermatogenesis. These U-shaped structures open at both ends into the rete testis, which ultimately forms small efferent ducts that drain to the head of the:",
+    "options": ["Vas deferens", "Epididymis", "Seminal vesicle", "Prostate gland", "Ejaculatory duct"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1616",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It passes through the inguinal canal, entering through the superficial inguinal ring and leaving through the:",
+    "options": ["Femoral ring", "Obturator foramen", "Deep inguinal ring", "Pubic tubercle", "Hesselbach's triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1617",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland produces and secretes an alkaline fluid containing simple sugars and proteolytic enzymes, contributing to 30% of the volume of semen. Which histological region of the prostate accounts for around 70% of the prostate volume and is the site where prostate cancer typically occurs?",
+    "options": ["Central zone", "Transition zone", "Peripheral zone", "Anterior commissure", "Prostatic urethra"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1618",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of three columns of tissue: two corpora cavernosa and a single corpus spongiosum. The corpus spongiosum houses which anatomical structure?",
+    "options": ["Deep dorsal vein", "Cavernosal arteries", "Urethra", "Tunica albuginea", "Glans penis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1619",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Which phase of male ejaculation is characterized by spermatozoa moving into the prostatic urethra, primarily mediated by post-ganglionic sympathetic innervation causing contraction of the vas deferens, seminal vesicles, and prostate smooth muscle?",
+    "options": ["Expulsion", "Emission", "Erection", "Micturition", "Contraction"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1620",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Which of the following is an expected pattern of lymph node metastasis for testicular cancer?",
+    "options": ["Superficial inguinal lymph nodes", "Deep inguinal lymph nodes", "Mesorectal lymph nodes", "Para-aortic lymph nodes (retroperitoneal)", "Obturator lymph nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1621",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The skeletal and ligamentous components of the pelvis show sexual differences. When standing, the pelvis is tilted in such a way that the anterior superior iliac spines are in the same coronal plane as which other two anatomical landmarks?",
+    "options": ["Ischial tuberosities and coccyx", "Sacral promontory and iliac crest", "Pubic symphysis and pubic tubercles", "Obturator foramen and ischial spine", "Arcuate line and pectineal line"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1622",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is a funnel-shaped diaphragm of muscle and connective tissue. It functions to support the overlying pelvic viscera. Which of the following is a muscle component of the levator ani group that forms the pelvic floor?",
+    "options": ["Piriformis", "Obturator internus", "Pubococcygeus", "Psoas major", "Quadratus lumborum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1623",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The origin and distribution of arterial supply to the pelvic organs primarily stem from which major artery?",
+    "options": ["External iliac artery", "Femoral artery", "Abdominal aorta", "Internal iliac artery", "Obturator artery"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1624",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes somatic structures. The pudendal nerve (S2-S4) primarily innervates the muscles and skin of the:",
+    "options": ["Pelvic floor (only)", "Pelvic organs (visceral)", "Anterior thigh", "Perineum", "Gluteal region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1625",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. Each ovary is attached to the broad ligament of the uterus by the mesovarium and is suspended within the peritoneal cavity by the suspensory ligament of the ovary. This ligament transmits which artery and vein?",
+    "options": ["Uterine artery and vein", "Internal iliac artery and vein", "Ovarian artery and vein", "External iliac artery and vein", "Pudendal artery and vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1626",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (uterine tubes) conduct ovulated oocytes from the peritoneal cavity to the uterine cavity. The fimbriae are finger-like projections at the end of which part of the oviduct, which collects the ovulated oocyte?",
+    "options": ["Ampulla", "Isthmus", "Infundibulum", "Uterine part", "Mesosalpinx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1627",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The non-pregnant uterus normally lies within the pelvic cavity, with its body lying on the posterior wall of the bladder. The cylindrical inferior part of the uterus, which protrudes into the vagina, is called the:",
+    "options": ["Fundus", "Body", "Cervix", "Isthmus", "Vaginal fornix"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1628",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A retroverted uterus is one that is posteriorly tilted. In which percentage of females is a retroverted uterus typically observed?",
+    "options": ["Approximately 5%", "Approximately 10%", "Approximately 20%", "Approximately 30%", "Approximately 50%"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1629",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The uterus is supplied by the uterine artery, which arises from the internal iliac artery. This artery passes across the anterior aspect of which structure to reach the lateral walls of the uterus via the cardinal ligament?",
+    "options": ["Ovary", "Uterine tube", "Vagina", "Ureter", "Rectum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1630",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Lymphatic drainage of the body and cervix of the uterus primarily drains to which lymph node group?",
+    "options": ["Para-aortic lymph nodes", "Superficial inguinal lymph nodes", "Deep inguinal lymph nodes", "Internal iliac lymph nodes", "Obturator lymph nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1631",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located within the scrotum. The deep cremaster muscle spirals around the spermatic cord and can raise and lower the testis within the scrotum to control its temperature. The cremaster reflex is elicited by touching the medial aspect of the:",
+    "options": ["Scrotum", "Abdomen", "Thigh", "Groin", "Perineum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1632",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Which of the following layers of fascia surrounding the spermatic cord is formed from the external oblique aponeurosis as the testis descends?",
+    "options": ["Dartos fascia", "Cremasteric fascia", "Internal spermatic fascia", "External spermatic fascia", "Tunica vaginalis"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1633",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains various structures. Which artery within the spermatic cord originates from the abdominal aorta?",
+    "options": ["Artery to vas deferens", "Cremasteric artery", "Testicular artery", "Inferior epigastric artery", "External iliac artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1634",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminiferous tubules within the testis parenchyma are the site of spermatogenesis. These tubules open into the rete testis, which ultimately forms small efferent ducts that drain to the head of the:",
+    "options": ["Vas deferens", "Epididymis", "Seminal vesicle", "Prostate gland", "Ejaculatory duct"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1635",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. At its distal end, before joining the ejaculatory duct, the vas deferens expands to form the:",
+    "options": ["Epididymis head", "Seminal vesicle", "Ampulla of the vas", "Prostatic urethra", "Bulbourethral gland"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1636",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminal vesicles contribute around 2/3rds of the total volume of semen. Their ducts join with the vas deferens to form the ejaculatory duct, which drains into the prostatic urethra through the:",
+    "options": ["Prostatic utricle", "Seminal colliculus", "Bulbourethral gland opening", "Membranous urethra", "External urethral orifice"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1637",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland, located around the proximal urethra, produces and secretes an alkaline fluid. Which histological region of the prostate accounts for around 70% of the prostate volume and is the site where prostate cancer typically occurs?",
+    "options": ["Central zone", "Transition zone", "Peripheral zone", "Anterior commissure", "Prostatic urethra"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1638",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of three columns of tissue: two corpora cavernosa and a single corpus spongiosum. The glans penis, forming the distal end of the penis, surrounds which anatomical opening?",
+    "options": ["Urethral meatus", "Seminal colliculus", "Ejaculatory duct", "Bulbourethral gland opening", "Vas deferens opening"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1639",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Male genital reflexes include erection and ejaculation. Penile erection is caused by parasympathetic fibers from the pelvic splanchnic nerves (S2-S4) causing dilatation of the arteries and arterioles of the erectile tissue. Which specific erectile tissue primarily expands during erection?",
+    "options": ["Corpus spongiosum", "Corpora cavernosa", "Bulbus urethrae", "Glans penis", "Prepuce"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1640",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The cremasteric reflex is triggered by stroking the superomedial aspect of the thigh. The normal response is a contraction of the cremaster muscle, pulling up the scrotum and testis. Which nerves are responsible for the afferent and efferent limbs of this reflex arc?",
+    "options": ["Femoral nerve", "Obturator nerve", "Genitofemoral nerve (L1/L2)", "Sciatic nerve", "Pudendal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1641",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic inlet forms the boundary between the abdominal and pelvic cavities. It is defined by the pelvic brim, which is formed by the sacral ala, arcuate line of the ilium, pectineal line of the pubis, and the:",
+    "options": ["Ischial spine", "Obturator foramen", "Pubic crest", "Iliac crest", "Pubic symphysis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1642",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is formed by muscles and connective tissue. Which component of the levator ani forms a sling around the lower part of the rectum, creating a sphincter-like structure?",
+    "options": ["Pubococcygeus", "Iliococcygeus", "Puborectalis", "Coccygeus", "Perineal body"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1643",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. Which branch of the internal iliac artery supplies the gluteus medius, gluteus minimus, and tensor fasciae latae muscles?",
+    "options": ["Inferior gluteal artery", "Superior gluteal artery", "Obturator artery", "Internal pudendal artery", "External iliac artery"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1644",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pudendal nerve (S2-S4) exits the pelvis through the greater sciatic foramen and enters the perineum through the lesser sciatic foramen. It provides innervation to the:",
+    "options": ["Pelvic organs (visceral)", "Muscles and skin of the perineum", "Anterior thigh", "Adductor compartment of thigh", "Gluteal region"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1645",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. The suspensory ligament of the ovary transmits the ovarian artery, ovarian vein, and:",
+    "options": ["Uterine artery", "Internal iliac artery", "Ovarian nerve plexus", "Obturator nerve", "Superior gluteal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1646",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) extend to the uterine horns. The part of the oviduct that opens into the uterine cavity at the uterine ostium is the:",
+    "options": ["Infundibulum", "Ampulla", "Isthmus", "Uterine part", "Fimbriae"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1647",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vagina is a distensible musculomembranous tube extending between the cervix and the vaginal vestibule. Superiorly, the vagina surrounds the vaginal part of the cervix as the vaginal fornix, which has anterior, lateral, and:",
+    "options": ["Superior parts", "Inferior parts", "Posterior parts", "Medial parts", "Distal parts"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1648",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Which specific ligament supports the cervix and passes from the cervix to the lateral pelvic walls, and within which the uterine arteries pass?",
+    "options": ["Uterosacral ligament", "Pubocervical ligament", "Cardinal (lateral) ligaments", "Round ligament of the uterus", "Broad ligament"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1649",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Lymphatic drainage from the vagina includes drainage to the iliac lymph nodes and which other lymph node group?",
+    "options": ["Para-aortic lymph nodes", "Deep inguinal lymph nodes", "Superficial inguinal lymph nodes", "Mesorectal lymph nodes", "Obturator lymph nodes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1650",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Ovarian cysts can develop. Rupture of hemorrhagic corpus luteum cysts may cause sudden onset pain and signs of peritonitis. Pain from ovarian cyst rupture may occur in the lower abdomen and is typically unilateral and sharp in character due to irritation of the:",
+    "options": ["Visceral peritoneum", "Parietal peritoneum", "Ovary parenchyma", "Uterine wall", "Pelvic floor"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1651",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located outside the pelvic cavity within the scrotum. The dartos muscle, contained within the subcutaneous tissue of the scrotum, helps regulate scrotal temperature by:",
+    "options": ["Increasing blood flow to the testis", "Decreasing blood flow to the testis", "Wrinkling the overlying skin to reduce surface area", "Relaxing the scrotal skin to increase surface area", "Activating sweating glands on the scrotum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1652",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "As the testis descends through the inguinal canal, layers of the anterior abdominal wall are dragged along, creating three layers of fascia surrounding the spermatic cord. Which layer is formed from the internal oblique muscle and aponeurosis?",
+    "options": ["External spermatic fascia", "Cremaster fascia", "Internal spermatic fascia", "Dartos fascia", "Tunica vaginalis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1653",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminiferous tubules within the testis parenchyma are the site of spermatogenesis. These U-shaped structures open at both ends into the rete testis, which ultimately forms small efferent ducts that drain to the head of the:",
+    "options": ["Vas deferens", "Epididymis", "Seminal vesicle", "Prostate gland", "Ejaculatory duct"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1654",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It passes between which two structures before forming the ampulla of the vas?",
+    "options": ["Pubic symphysis and prostate", "Ureter posteriorly and bladder anteriorly", "Rectum and bladder", "Seminal vesicle and ejaculatory duct", "Epididymis and testis"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1655",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland is located around the proximal urethra. Which histological region of the prostate is located anterolateral to the proximal urethra and is the site where benign prostatic hyperplasia (BPH) typically occurs?",
+    "options": ["Central zone", "Peripheral zone", "Transition zone", "Anterior commissure", "Posterior lobe"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1656",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of two corpora cavernosa and a single corpus spongiosum. Which structure contains the urethra?",
+    "options": ["Corpora cavernosa", "Corpus spongiosum", "Glans penis", "Prepuce", "Tunica albuginea"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1657",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "During male ejaculation, which phase is characterized by spermatozoa moving into the prostatic urethra, mediated by sympathetic innervation causing contraction of the vas deferens, seminal vesicles, and prostate smooth muscle?",
+    "options": ["Expulsion", "Emission", "Erection", "Detumescence", "Refractory"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1658",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The lymphatic drainage from the testes follows the testicular arteries and ultimately passes to which lymph node group?",
+    "options": ["Superficial inguinal nodes", "Deep inguinal nodes", "Obturator nodes", "Para-aortic nodes", "External iliac nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1659",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A varicocoele is an abnormal dilatation of the testicular veins of the pampiniform venous plexus. Varicocoeles are more common on the left side due to the angle at which the left testicular vein drains into the:",
+    "options": ["Inferior vena cava", "Superior mesenteric vein", "Left renal vein", "Right renal vein", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1660",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
+    "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1661",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic inlet forms the boundary between the abdominal and pelvic cavities. Its anterior inclination to the horizontal when standing is approximately:",
+    "options": ["10-15°", "30-40°", "50-60°", "70-80°", "90°"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1662",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is formed by muscles and connective tissue. The perineal body is a fibromuscular structure into which many muscles of the perineum, as well as the levator ani, insert. It lies just deep to the skin, between which two anatomical triangles of the perineum?",
+    "options": ["Femoral triangle and obturator triangle", "Ischiorectal triangle and gluteal triangle", "Urogenital triangle and anal triangle", "Popliteal triangle and adductor triangle", "Carotid triangle and posterior triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1663",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. Which branch of the internal iliac artery supplies the obturator externus and adductor compartment of the thigh?",
+    "options": ["Superior gluteal artery", "Inferior gluteal artery", "Obturator artery", "Internal pudendal artery", "Femoral artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1664",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes somatic structures. The pudendal nerve (S2-S4) primarily innervates the muscles and skin of the:",
+    "options": ["Pelvic floor (only)", "Pelvic organs (visceral)", "Anterior thigh", "Perineum", "Gluteal region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1665",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. The ovarian arteries, which supply the ovaries, arise from the abdominal aorta at which vertebral level?",
+    "options": ["T10", "T12", "L1", "L2", "L4"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1666",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) are supplied by both the ovarian and ascending uterine arteries. The uterine part of the oviduct passes through the wall of the uterus to open into the uterine cavity at the:",
+    "options": ["Fimbriae", "Ampulla", "Isthmus", "Uterine ostium", "Fundus"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1667",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vagina is a distensible musculomembranous tube. Its posterior fornix is immediately anterior to which peritoneal pouch?",
+    "options": ["Vesicouterine pouch", "Rectovesical pouch", "Rectouterine pouch of Douglas", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1668",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Uterine prolapse refers to the descent of the uterus towards the external genitalia. For moderate prolapses, what is a common non-surgical treatment?",
+    "options": ["Hysterectomy", "Pelvic floor exercises only", "Insertion of a pessary", "Surgical strengthening of pelvic support structures", "Hormone replacement therapy"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1669",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Endometrial (uterine) cancer is the 4th most common cancer in females and typically affects postmenopausal women. Which of the following is explicitly mentioned as a risk factor for endometrial cancer?",
+    "options": ["Early menopause", "Multiple pregnancies", "Unopposed oestrogen use (e.g., HRT use)", "Low body mass index", "Regular exercise"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1670",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The perineum is a diamond-shaped region inferior to the pelvic outlet and pelvic floor muscles. It is divided into two anatomical triangles: the urogenital triangle and the:",
+    "options": ["Femoral triangle", "Obturator triangle", "Anal triangle", "Ischiorectal triangle", "Gluteal triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1671",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located within the scrotum. The tunica vaginalis is a sac around the testis, covering its anterior, medial, and lateral aspects. This sac is formed from a layer of:",
+    "options": ["Tunica albuginea", "Dartos fascia", "Parietal peritoneum", "Cremasteric fascia", "Internal spermatic fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1672",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains structures surrounded by three fascial layers. Which layer is formed from the internal oblique muscle and aponeurosis?",
+    "options": ["External spermatic fascia", "Cremasteric fascia", "Internal spermatic fascia", "Dartos fascia", "Tunica vaginalis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1673",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The epididymis is a highly coiled structure on the posterior aspect of the testis where sperm mature. The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the:",
+    "options": ["Rete testis", "Seminiferous tubules", "Seminal vesicle", "Ejaculatory duct", "Prostate gland"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1674",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It turns medially to pass between which two structures before passing along the posterior surface of the bladder?",
+    "options": ["Pubic symphysis and prostate", "Ureter posteriorly and bladder anteriorly", "Rectum and bladder", "Seminal vesicle and ejaculatory duct", "Epididymis and testis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1675",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland is located around the proximal urethra. Which histological region of the prostate accounts for around 70% of the prostate volume and is the site where prostate cancer typically occurs?",
+    "options": ["Central zone", "Transition zone", "Peripheral zone", "Anterior commissure", "Prostatic urethra"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1676",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of two corpora cavernosa and a single corpus spongiosum. The glans penis, forming the distal end, surrounds the urinary meatus and is surrounded by the:",
+    "options": ["Deep dorsal vein", "Cavernosal arteries", "Urethra", "Prepuce (foreskin)", "Tunica albuginea"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1677",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Male ejaculation involves two phases: emission and expulsion. Which phase is triggered by somatic pudendal nerve fibers, generating contractions of the striated bulbospongiosus muscle at the base of the penis?",
+    "options": ["Emission", "Erection", "Expulsion", "Detumescence", "Refractory"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1678",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The lymphatic drainage from the scrotum and skin of the perineal region primarily drains to which lymph node group?",
+    "options": ["Deep inguinal nodes", "Obturator nodes", "Superficial inguinal nodes", "External iliac nodes", "Internal iliac nodes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1679",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A varicocoele is an abnormal dilatation of the testicular veins of the pampiniform venous plexus. Varicocoeles are more common on the left side due to the angle at which the left testicular vein drains into the:",
+    "options": ["Inferior vena cava", "Superior mesenteric vein", "Left renal vein", "Right renal vein", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1680",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
+    "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1681",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic inlet forms the boundary between the abdominal and pelvic cavities. Its anterior inclination to the horizontal when standing is approximately:",
+    "options": ["10-15°", "30-40°", "50-60°", "70-80°", "90°"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1682",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is formed by muscles and connective tissue. The perineal body is a fibromuscular structure into which many muscles of the perineum, as well as the levator ani, insert. It lies just deep to the skin, between which two anatomical triangles of the perineum?",
+    "options": ["Femoral triangle and obturator triangle", "Ischiorectal triangle and gluteal triangle", "Urogenital triangle and anal triangle", "Popliteal triangle and adductor triangle", "Carotid triangle and posterior triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1683",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. Which branch of the internal iliac artery supplies the obturator externus and adductor compartment of the thigh?",
+    "options": ["Superior gluteal artery", "Inferior gluteal artery", "Obturator artery", "Internal pudendal artery", "Femoral artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1684",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes somatic structures. The pudendal nerve (S2-S4) primarily innervates the muscles and skin of the:",
+    "options": ["Pelvic floor (only)", "Pelvic organs (visceral)", "Anterior thigh", "Perineum", "Gluteal region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1685",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. The ovarian arteries, which supply the ovaries, arise from the abdominal aorta at which vertebral level?",
+    "options": ["T10", "T12", "L1", "L2", "L4"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1686",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) are supplied by both the ovarian and ascending uterine arteries. The uterine part of the oviduct passes through the wall of the uterus to open into the uterine cavity at the:",
+    "options": ["Fimbriae", "Ampulla", "Isthmus", "Uterine ostium", "Fundus"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1687",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vagina is a distensible musculomembranous tube. Its posterior fornix is immediately anterior to which peritoneal pouch?",
+    "options": ["Vesicouterine pouch", "Rectovesical pouch", "Rectouterine pouch of Douglas", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1688",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Uterine prolapse refers to the descent of the uterus towards the external genitalia. For moderate prolapses, what is a common non-surgical treatment?",
+    "options": ["Hysterectomy", "Pelvic floor exercises only", "Insertion of a pessary", "Surgical strengthening of pelvic support structures", "Hormone replacement therapy"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1689",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Endometrial (uterine) cancer is the 4th most common cancer in females and typically affects postmenopausal women. Which of the following is explicitly mentioned as a risk factor for endometrial cancer?",
+    "options": ["Early menopause", "Multiple pregnancies", "Unopposed oestrogen use (e.g., HRT use)", "Low body mass index", "Regular exercise"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1690",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The perineum is a diamond-shaped region inferior to the pelvic outlet and pelvic floor muscles. It is divided into two anatomical triangles: the urogenital triangle and the:",
+    "options": ["Femoral triangle", "Obturator triangle", "Anal triangle", "Ischiorectal triangle", "Gluteal triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1691",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located within the scrotum. The tunica vaginalis is a sac around the testis, covering its anterior, medial, and lateral aspects. This sac is formed from a layer of:",
+    "options": ["Tunica albuginea", "Dartos fascia", "Parietal peritoneum", "Cremasteric fascia", "Internal spermatic fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1692",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains structures surrounded by three fascial layers. Which layer is formed from the internal oblique muscle and aponeurosis?",
+    "options": ["External spermatic fascia", "Cremasteric fascia", "Internal spermatic fascia", "Dartos fascia", "Tunica vaginalis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1693",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The epididymis is a highly coiled structure on the posterior aspect of the testis where sperm mature. The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the:",
+    "options": ["Rete testis", "Seminiferous tubules", "Seminal vesicle", "Ejaculatory duct", "Prostate gland"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1694",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It turns medially to pass between which two structures before passing along the posterior surface of the bladder?",
+    "options": ["Pubic symphysis and prostate", "Ureter posteriorly and bladder anteriorly", "Rectum and bladder", "Seminal vesicle and ejaculatory duct", "Epididymis and testis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1695",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland is located around the proximal urethra. Which histological region of the prostate accounts for around 70% of the prostate volume and is the site where prostate cancer typically occurs?",
+    "options": ["Central zone", "Transition zone", "Peripheral zone", "Anterior commissure", "Prostatic urethra"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1696",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of two corpora cavernosa and a single corpus spongiosum. The glans penis, forming the distal end, surrounds the urinary meatus and is surrounded by the:",
+    "options": ["Deep dorsal vein", "Cavernosal arteries", "Urethra", "Prepuce (foreskin)", "Tunica albuginea"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1697",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Male ejaculation involves two phases: emission and expulsion. Which phase is triggered by somatic pudendal nerve fibers, generating contractions of the striated bulbospongiosus muscle at the base of the penis?",
+    "options": ["Emission", "Erection", "Expulsion", "Detumescence", "Refractory"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1698",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The lymphatic drainage from the scrotum and skin of the perineal region primarily drains to which lymph node group?",
+    "options": ["Deep inguinal nodes", "Obturator nodes", "Superficial inguinal nodes", "External iliac nodes", "Internal iliac nodes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1699",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A varicocoele is an abnormal dilatation of the testicular veins of the pampiniform venous plexus. Varicocoeles are more common on the left side due to the angle at which the left testicular vein drains into the:",
+    "options": ["Inferior vena cava", "Superior mesenteric vein", "Left renal vein", "Right renal vein", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1700",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
+    "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
+    "correct_answer_index": 2
   }
 ]
