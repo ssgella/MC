@@ -8717,5 +8717,1265 @@
     "options": ["Abdominal wall muscles", "Intercostal muscles (internal)", "Diaphragm (primary inspiratory)", "Sternocleidomastoid and Scalene muscles", "Transversus thoracis"],
     "correct_answer_index": 3,
     "source": [1311, 1312]
+  },
+  {
+    "id": "q1201",
+    "topic": "NECK ANATOMY",
+    "question": "The neck may be divided into two anatomical triangles. Which of these is bordered by the sternocleidomastoid and trapezius muscles?",
+    "options": ["Anterior triangle", "Posterior triangle", "Carotid triangle", "Submandibular triangle", "Muscular triangle"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1202",
+    "topic": "NECK ANATOMY",
+    "question": "The anterior triangle of the neck is bounded superiorly by which palpable landmark?",
+    "options": ["Mastoid process", "Clavicle", "Manubrium", "Lower jaw (mandible)", "Thyroid cartilage"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1203",
+    "topic": "NECK ANATOMY",
+    "question": "Within the divisions of the anterior triangle, which of the following structures is located within the carotid triangle?",
+    "options": ["External jugular vein", "Spinal accessory nerve", "Roots and trunks of the brachial plexus", "Internal jugular vein and common carotid artery", "External carotid artery only"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1204",
+    "topic": "NECK ANATOMY",
+    "question": "The posterior triangle of the neck is bounded inferiorly by which part of the clavicle?",
+    "options": ["Medial 1/3rd", "Middle 1/3rd", "Lateral 1/3rd", "Acromial end", "Sternal end"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1205",
+    "topic": "NECK ANATOMY",
+    "question": "Which of the following structures is found within the posterior triangle of the neck, specifically the occipital triangle subdivision?",
+    "options": ["Common carotid artery", "Internal jugular vein", "Spinal accessory nerve", "Thyroid gland", "Trachea"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1206",
+    "topic": "NECK ANATOMY",
+    "question": "The roof of the anatomical triangles of the neck is formed by which fascial layer that surrounds the neck like a collar, enclosing the sternocleidomastoid anteriorly and the trapezius posteriorly?",
+    "options": ["Superficial fascia", "Deep (investing) fascia", "Carotid sheath", "Pre-vertebral fascia", "Pre-tracheal fascia"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1207",
+    "topic": "NECK ANATOMY",
+    "question": "The carotid sheath is part of the cervical fascia and surrounds several neurovascular structures of the neck. Which of the following is enclosed within the carotid sheath?",
+    "options": ["External carotid artery", "Spinal accessory nerve", "Thyroid gland", "Vagus nerve", "Phrenic nerve"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1208",
+    "topic": "NECK ANATOMY",
+    "question": "The pre-vertebral fascia is a fascial layer in the neck. It surrounds which structures?",
+    "options": ["Thyroid and larynx", "Trachea and oesophagus", "Vascular structures of carotid sheath", "Deep pre-vertebral muscles of the neck", "Superficial muscles of the neck"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1209",
+    "topic": "NECK ANATOMY",
+    "question": "Which nerve provides motor innervation to the trapezius and sternocleidomastoid muscles?",
+    "options": ["Phrenic nerve", "Long thoracic nerve", "Accessory nerve (CN XI)", "Cervical plexus branches", "Vagus nerve (CN X)"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1210",
+    "topic": "NECK ANATOMY",
+    "question": "The scalene muscles are a group of three muscles within the lateral neck. They are innervated by which spinal nerves and function to elevate the thoracic cage and bend the neck ipsilaterally?",
+    "options": ["C1-C3", "C4-C7", "T1-T4", "L1-L2", "S1-S3"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1211",
+    "topic": "NECK ANATOMY",
+    "question": "The strap muscles (infrahyoid muscles) are a group of four muscles in the anterior part of the neck. Their primary function is to:",
+    "options": ["Elevate the hyoid bone during swallowing", "Depress the hyoid bone and larynx during swallowing and speech", "Rotate the head", "Flex the cervical spine unilaterally", "Control vocal cord tension"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1212",
+    "topic": "NECK ANATOMY",
+    "question": "The Vagus nerve (CN X) passes within the carotid sheath in the neck. It produces pharyngeal and laryngeal branches. Which of the following functions is primarily associated with the Vagus nerve in the neck?",
+    "options": ["Motor to muscles of mastication", "Sensory to anterior 2/3rds of tongue", "Motor to sternocleidomastoid", "Parasympathetic innervation of heart", "Motor to muscles of facial expression"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1213",
+    "topic": "NECK ANATOMY",
+    "question": "The phrenic nerves (C3-C5) provide motor supply to the diaphragm and sensation to its central part. In the neck, these nerves pass over which specific muscle?",
+    "options": ["Sternocleidomastoid", "Scalenus anterior", "Scalenus medius", "Trapezius", "Platysma"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1214",
+    "topic": "NECK ANATOMY",
+    "question": "The sympathetic chain passes vertically and bilaterally along the surface of the vertebral column in the pre-vertebral fascia. It forms superior, middle, and inferior cervical ganglia, which provide much of the sympathetic innervation to structures of the head, neck, and:",
+    "options": ["Upper limb", "Thorax", "Abdomen", "Pelvis", "Mediastinum"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1215",
+    "topic": "NECK ANATOMY",
+    "question": "Horner's syndrome results from a lesion of the cervical sympathetic trunk. Which of the following is a classic clinical sign of Horner's syndrome related to the eye?",
+    "options": ["Mydriasis (pupillary dilation)", "Pupillary constriction (miosis)", "Exophthalmos (protruding eyeball)", "Loss of corneal reflex", "Vertical diplopia"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1216",
+    "topic": "NECK ANATOMY",
+    "question": "The superficial fascial layers of the neck include the superficial fascia and the investing fascia. The 'danger space' bounded by cervical fascial layers may permit the spread of infection (e.g., from retropharyngeal abscesses) into which anatomical region?",
+    "options": ["Anterior mediastinum", "Middle mediastinum", "Posterior mediastinum", "Superior mediastinum", "Axilla"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1217",
+    "topic": "NECK ANATOMY",
+    "question": "The major groups of lymph nodes in the neck and head include the submental, submandibular, parotid, mastoid, and occipital nodes. All lymphatic vessels from the head and neck ultimately drain to which central group of lymph nodes?",
+    "options": ["Superficial cervical nodes", "Deep cervical lymph nodes", "Jugular lymphatic trunk", "Thoracic duct", "Supraclavicular lymph nodes"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1218",
+    "topic": "NECK ANATOMY",
+    "question": "The hyoid bone lies in the anterior part of the neck, at the level of approximately which cervical vertebra?",
+    "options": ["C1", "C2", "C3", "C4", "C5"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1219",
+    "topic": "NECK ANATOMY",
+    "question": "The palpable position of the thyroid and cricoid cartilages are important landmarks. The isthmus of the thyroid gland typically lies at the level of which tracheal cartilage rings?",
+    "options": ["1st and 2nd", "2nd and 3rd", "3rd and 4th", "4th and 5th", "5th and 6th"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1220",
+    "topic": "NECK ANATOMY",
+    "question": "Which of the following nerves is explicitly mentioned as passing under the roof of the posterior triangle of the neck and providing motor innervation to the trapezius and sternocleidomastoid?",
+    "options": ["Phrenic nerve", "Vagus nerve (CN X)", "Cervical plexus branches", "Spinal Accessory nerve (CN XI)", "Brachial plexus trunks"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1221",
+    "topic": "NECK ANATOMY",
+    "question": "The neck is a major conduit for vessels, nerves, and muscles. Which of the following is a palpable landmark of the neck, located anteriorly at approximately the C3 vertebral level?",
+    "options": ["Cricoid cartilage", "Thyroid cartilage", "Hyoid bone", "Spine of C7", "Mastoid process"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1222",
+    "topic": "NECK ANATOMY",
+    "question": "The anterior triangle of the neck is defined by the midline anteriorly, the anterior border of the sternocleidomastoid posteriorly, and the lower jaw superiorly. Which of the following is a subdivision of the anterior triangle?",
+    "options": ["Occipital triangle", "Omoclavicular triangle", "Submandibular triangle", "Cervical triangle", "Lateral triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1223",
+    "topic": "NECK ANATOMY",
+    "question": "Within the divisions of the anterior triangle, the submandibular triangle contains the submandibular gland and submandibular lymph nodes. It also contains which cranial nerve?",
+    "options": ["Vagus nerve", "Spinal accessory nerve", "Hypoglossal nerve", "Facial nerve", "Glossopharyngeal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1224",
+    "topic": "NECK ANATOMY",
+    "question": "The posterior triangle of the neck is bounded by the sternocleidomastoid and trapezius muscles. Its floor is formed by which fascial layer that surrounds the deep pre-vertebral muscles of the neck?",
+    "options": ["Deep (investing) fascia", "Carotid sheath", "Pre-vertebral fascia", "Pre-tracheal fascia", "Superficial fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1225",
+    "topic": "NECK ANATOMY",
+    "question": "The carotid sheath surrounds the common carotid artery, internal jugular vein, and vagus nerve. It is part of which fascial layer system in the neck?",
+    "options": ["Superficial fascia", "Investing fascia", "Deep (cervical) fascia", "Pre-vertebral fascia", "Pre-tracheal fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1226",
+    "topic": "NECK ANATOMY",
+    "question": "The sternocleidomastoid muscle passes from the manubrium and clavicle to insert into the mastoid process of the temporal bone. When contracting unilaterally, it tilts the head to the same side and rotates the face to the:",
+    "options": ["Same side", "Contralateral side", "Only tilts the head", "Only rotates the head", "Anteriorly"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1227",
+    "topic": "NECK ANATOMY",
+    "question": "Which muscle, innervated by the spinal accessory nerve (CN XI), originates from the external occipital protuberance and spinous processes of C7-T12, and functions to elevate, retract, and rotate the scapulae?",
+    "options": ["Sternocleidomastoid", "Rhomboids", "Levator scapulae", "Trapezius", "Splenius capitis"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1228",
+    "topic": "NECK ANATOMY",
+    "question": "The 'danger space' is a potential space bounded by the cervical fascial layers. Infections in this space may permit spread to which anatomical region due to its direct communication?",
+    "options": ["Anterior mediastinum", "Middle mediastinum", "Posterior mediastinum", "Superior mediastinum", "Axilla"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1229",
+    "topic": "NECK ANATOMY",
+    "question": "The major groups of lymph nodes in the neck and head ultimately drain to the deep cervical lymph nodes. This lymph is then passed to the jugular lymphatic trunk, which drains to the thoracic duct on the left side or the internal jugular vein on the:",
+    "options": ["Left side as well", "Right side", "Subclavian vein", "Brachiocephalic vein", "Axillary vein"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1230",
+    "topic": "NECK ANATOMY",
+    "question": "The common carotid artery is a major vessel in the neck. Its pulse can be located in which specific subdivision of the anterior triangle?",
+    "options": ["Submental triangle", "Submandibular triangle", "Carotid triangle", "Muscular triangle", "Occipital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1231",
+    "topic": "NECK ANATOMY",
+    "question": "The spinal accessory nerve (CN XI) is found within the posterior triangle. Its clinical relevance includes providing motor innervation to which two muscles?",
+    "options": ["Platysma and sternohyoid", "Masseter and temporalis", "Sternocleidomastoid and trapezius", "Scalenes and longus colli", "Digastric and stylohyoid"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1232",
+    "topic": "NECK ANATOMY",
+    "question": "The origin, course, and major branches of the common, internal, and external carotid arteries are crucial in neck anatomy. The common carotid artery typically bifurcates at approximately which cervical vertebral level?",
+    "options": ["C2", "C4", "C6", "C7", "T1"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1233",
+    "topic": "NECK ANATOMY",
+    "question": "Which nerve provides motor supply to the diaphragm and sensation to the central part of the diaphragm, passing over the anterior scalene muscle in the neck?",
+    "options": ["Vagus nerve (CN X)", "Accessory nerve (CN XI)", "Phrenic nerve (C3-C5)", "Cervical plexus", "Sympathetic chain"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1234",
+    "topic": "NECK ANATOMY",
+    "question": "The sympathetic innervation of the head and neck is provided by sympathetic fibers from T1-T6 of the spinal cord that ascend to enter the sympathetic chain. This chain forms superior, middle, and inferior cervical ganglia, which provide much of the sympathetic innervation to structures of the head, neck, and:",
+    "options": ["Upper limb", "Thorax", "Abdomen", "Pelvis", "Mediastinum"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1235",
+    "topic": "NECK ANATOMY",
+    "question": "Horner's syndrome, characterized by miosis, ptosis, and anhidrosis, results from a lesion of which nervous structure in the neck?",
+    "options": ["Vagus nerve (CN X)", "Phrenic nerve", "Cervical sympathetic trunk", "Brachial plexus", "Accessory nerve (CN XI)"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1236",
+    "topic": "NECK ANATOMY",
+    "question": "The fascial planes and spaces of the neck envelope various structures. The pre-tracheal fascia encloses all of the following EXCEPT:",
+    "options": ["Thyroid gland", "Larynx", "Trachea", "Pharynx", "Carotid sheath"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1237",
+    "topic": "NECK ANATOMY",
+    "question": "The major groups of lymph nodes in the neck and head include the submental, submandibular, parotid, mastoid, and occipital nodes. Infections of the retropharyngeal lymph nodes can lead to the formation of a retropharyngeal abscess. This abscess can cause:",
+    "options": ["Facial swelling", "Hearing loss", "Airway obstruction", "Difficulty opening jaw", "Visual disturbances"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1238",
+    "topic": "NECK ANATOMY",
+    "question": "The retropharyngeal lymph nodes lie behind the superior pharynx. These nodes are responsible for draining the nasopharynx and which other structures?",
+    "options": ["Oropharynx", "Laryngopharynx", "Auditory meati", "Oral cavity", "Parotid gland"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1239",
+    "topic": "NECK ANATOMY",
+    "question": "Waldeyer's Tonsillar Ring is a ring of lymphatic tissue that surrounds the naso- and oropharynx. It consists of all of the following EXCEPT:",
+    "options": ["Adenoid tonsils", "Tubal tonsils", "Palatine tonsils", "Lingual tonsil", "Deep cervical tonsils"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1240",
+    "topic": "NECK ANATOMY",
+    "question": "Which anatomical landmark is described as the prominent spinous process of the C7 vertebra, often referred to as the vertebra prominens?",
+    "options": ["C3 (hyoid bone level)", "C6 (cricoid cartilage level)", "C7 (prominens)", "T1 (first thoracic vertebra)", "T4 (sternal angle level)"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1241",
+    "topic": "NECK ANATOMY",
+    "question": "Which of the following is a palpable landmark of the neck, described as the prominent spinous process of the C7 vertebra?",
+    "options": ["Hyoid bone", "Thyroid cartilage", "Cricoid cartilage", "Vertebra prominens", "Mastoid process"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1242",
+    "topic": "NECK ANATOMY",
+    "question": "The neck is divided into anterior and posterior triangles by the sternocleidomastoid muscle. The anterior triangle is bounded posteriorly by the anterior border of the:",
+    "options": ["Trapezius muscle", "Platysma muscle", "Sternocleidomastoid muscle", "Scalene muscles", "Longus colli muscle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1243",
+    "topic": "NECK ANATOMY",
+    "question": "Within the divisions of the anterior triangle, the muscular triangle contains the trachea, larynx, thyroid and parathyroid glands. Which of the following is also located in this region?",
+    "options": ["Common carotid artery", "Internal jugular vein", "Vagus nerve", "Thyroid cartilage", "Spinal accessory nerve"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1244",
+    "topic": "NECK ANATOMY",
+    "question": "The posterior triangle of the neck is bounded by the sternocleidomastoid and trapezius muscles. Which of the following structures is located within the subdivisions of the posterior triangle?",
+    "options": ["Common carotid artery", "Internal jugular vein", "External jugular vein", "Thyroid gland", "Hypoglossal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1245",
+    "topic": "NECK ANATOMY",
+    "question": "The floor of the posterior triangle of the neck is formed by which fascial layer that also surrounds the deep pre-vertebral muscles?",
+    "options": ["Superficial investing cervical fascia", "Buccopharyngeal fascia", "Carotid sheath", "Pre-tracheal fascia", "Pre-vertebral fascia"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1246",
+    "topic": "NECK ANATOMY",
+    "question": "The carotid sheath, part of the deep cervical fascia, surrounds the common carotid artery, internal jugular vein, and vagus nerve. It also encloses which other neurovascular structure?",
+    "options": ["External carotid artery", "Spinal accessory nerve", "Phrenic nerve", "Deep cervical lymph nodes", "Sympathetic trunk"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1247",
+    "topic": "NECK ANATOMY",
+    "question": "The sternocleidomastoid muscle, when contracting bilaterally, causes which movement of the cervical vertebrae?",
+    "options": ["Extension", "Lateral flexion to one side", "Rotation of head to contralateral side", "Flexion (chin approaches manubrium)", "Only tilting of head"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1248",
+    "topic": "NECK ANATOMY",
+    "question": "The spinal accessory nerve (CN XI) innervates the sternocleidomastoid and trapezius muscles. What is a functional consequence of paralysis of the trapezius muscle due to injury to this nerve?",
+    "options": ["Inability to flex the arm", "Impaired shoulder adduction", "Inability to shrug the shoulder normally", "Difficulty in head rotation to the same side", "Loss of sensation in the neck"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1249",
+    "topic": "NECK ANATOMY",
+    "question": "The cervical plexus (anterior rami C1-C4) provides cutaneous innervation to the face and neck, and motor supply to the scalene muscles. It also contributes to the innervation of which major nerve involved in diaphragm function?",
+    "options": ["Vagus nerve", "Accessory nerve", "Phrenic nerve", "Hypoglossal nerve", "Lingual nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1250",
+    "topic": "NECK ANATOMY",
+    "question": "The sympathetic chain passes vertically and bilaterally along the surface of the vertebral column in the pre-vertebral fascia. Its fibers originate from which spinal cord levels?",
+    "options": ["C1-C3", "C3-C5", "T1-T6", "T7-T12", "L1-L2"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1251",
+    "topic": "NECK ANATOMY",
+    "question": "Horner's syndrome is a result of a lesion of the cervical sympathetic trunk. The resulting pupillary constriction (miosis) occurs due to the unopposed parasympathetic innervation of which muscle?",
+    "options": ["Dilator pupillae", "Ciliary muscle", "Sphincter pupillae", "Levator palpebrae superioris", "Orbicularis oculi"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1252",
+    "topic": "NECK ANATOMY",
+    "question": "The 'danger space' is a potential space bounded by cervical fascial layers. Which fascial layer forms its posterior boundary, extending from the skull base to the posterior mediastinum?",
+    "options": ["Investing fascia", "Carotid sheath", "Pre-vertebral fascia (Alar fascia)", "Pre-tracheal fascia", "Superficial fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1253",
+    "topic": "NECK ANATOMY",
+    "question": "The major groups of lymph nodes in the neck and head include the submental, submandibular, parotid, mastoid, and occipital nodes. Which of these nodes drains lymph from the tongue?",
+    "options": ["Parotid nodes", "Mastoid nodes", "Submental and submandibular nodes", "Occipital nodes", "Deep cervical lymph nodes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1254",
+    "topic": "NECK ANATOMY",
+    "question": "Infections of the retropharyngeal space can cause the formation of a retropharyngeal abscess, which can lead to airway obstruction and frequently requires surgical drainage. This space is located in the mid-line, posterior to the pharynx and:",
+    "options": ["Larynx", "Trachea", "Oesophageal posterior walls", "Carotid sheath", "Vertebral column"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1255",
+    "topic": "NECK ANATOMY",
+    "question": "The hyoid bone, thyroid cartilage, and cricoid cartilage are palpable landmarks in the neck. The hyoid bone is suspended by muscles connecting it to all of the following EXCEPT:",
+    "options": ["Mandible", "Styloid process", "Thyroid cartilage", "Manubrium", "Clavicle"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1256",
+    "topic": "NECK ANATOMY",
+    "question": "The external carotid artery has a number of branches in the neck. Which branch supplies the superior part of the thyroid and the larynx?",
+    "options": ["Ascending pharyngeal artery", "Lingual artery", "Facial artery", "Maxillary artery", "Superior thyroid artery"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1257",
+    "topic": "NECK ANATOMY",
+    "question": "The venous drainage of the head and neck involves the external jugular vein. This vein passes down the neck anterior to which muscle?",
+    "options": ["Trapezius", "Platysma", "Sternocleidomastoid", "Scalenus anterior", "Omohyoid"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1258",
+    "topic": "NECK ANATOMY",
+    "question": "The external jugular vein drains into the subclavian vein underneath the clavicle. Which other vein drains the anterior aspect of the neck into the external jugular vein?",
+    "options": ["Retromandibular vein", "Posterior auricular vein", "Facial vein", "Anterior jugular vein", "Lingual vein"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1259",
+    "topic": "NECK ANATOMY",
+    "question": "Which of the following is considered part of the deep cervical fascia?",
+    "options": ["Superficial fascia", "Investing fascia", "Platysma", "Fascia lata", "Buccopharyngeal fascia"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1260",
+    "topic": "NECK ANATOMY",
+    "question": "The neck contains the thyroid gland. The isthmus of the thyroid gland lies directly anterior to which cartilages?",
+    "options": ["Thyroid cartilage", "Cricoid cartilage", "Hyoid bone", "2nd and 3rd tracheal rings", "4th and 5th tracheal rings"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1261",
+    "topic": "NECK ANATOMY",
+    "question": "Which of the following is a palpable landmark of the neck, typically found at the level of the 2nd and 3rd tracheal cartilage rings?",
+    "options": ["Hyoid bone", "Thyroid cartilage", "Cricoid cartilage", "Mastoid process", "Isthmus of the thyroid gland"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1262",
+    "topic": "NECK ANATOMY",
+    "question": "The anterior triangle of the neck is bounded by the midline anteriorly, the anterior border of the sternocleidomastoid posteriorly, and the lower jaw superiorly. Which of the following structures is **NOT** a subdivision of the anterior triangle?",
+    "options": ["Submandibular triangle", "Carotid triangle", "Muscular triangle", "Occipital triangle", "Submental triangle"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1263",
+    "topic": "NECK ANATOMY",
+    "question": "Within the divisions of the posterior triangle, which of the following structures is explicitly mentioned as passing through the subclavian triangle subdivision?",
+    "options": ["Internal jugular vein", "Common carotid artery", "Brachial plexus trunks", "Thyroid gland", "Spinal accessory nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1264",
+    "topic": "NECK ANATOMY",
+    "question": "The carotid sheath, part of the deep cervical fascia, surrounds the common carotid artery, internal jugular vein, and vagus nerve. It also contains which other neurovascular structure?",
+    "options": ["External carotid artery", "Spinal accessory nerve", "Phrenic nerve", "Deep cervical lymph nodes", "Sympathetic trunk"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1265",
+    "topic": "NECK ANATOMY",
+    "question": "The floor of the posterior triangle is formed by the pre-vertebral fascia. What is a specific feature of this fascia that allows certain vessels to reach the foramen transversarium of the cervical spine?",
+    "options": ["It is continuous with the carotid sheath.", "It contains major lymph nodes.", "It has a triangular gap through which vertebral vessels pass.", "It encloses the thyroid gland.", "It forms the roof of the triangle."],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1266",
+    "topic": "NECK ANATOMY",
+    "question": "The sternocleidomastoid muscle, when contracting unilaterally, causes which two movements?",
+    "options": ["Flexion of cervical vertebrae and rotation to same side.", "Extension of cervical vertebrae and rotation to contralateral side.", "Tilting of head to same side and rotation of face to contralateral side.", "Tilting of head to contralateral side and rotation of face to same side.", "Only extension of the head."],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1267",
+    "topic": "NECK ANATOMY",
+    "question": "The spinal accessory nerve (CN XI) innervates the sternocleidomastoid and trapezius muscles. What is a functional consequence of paralysis of the trapezius muscle due to injury to this nerve?",
+    "options": ["Inability to flex the arm", "Impaired shoulder adduction", "Inability to shrug the shoulder normally", "Difficulty in head rotation to the same side", "Loss of sensation in the neck"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1268",
+    "topic": "NECK ANATOMY",
+    "question": "The strap muscles (infrahyoid muscles) are a group of four muscles in the anterior part of the neck. They function to depress the hyoid bone and larynx during which activities?",
+    "options": ["Mastication and breathing", "Swallowing and speech", "Head flexion and extension", "Head rotation and lateral flexion", "Eye movements and facial expressions"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1269",
+    "topic": "NECK ANATOMY",
+    "question": "The Vagus nerve (CN X) passes within the carotid sheath in the neck. Its motor functions in the pharynx include innervation of muscles of the pharynx, palatoglossus, and:",
+    "options": ["Masseter", "Buccinator", "Intrinsic muscles of larynx", "Stylohyoid", "Trapezius"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1270",
+    "topic": "NECK ANATOMY",
+    "question": "The sympathetic innervation of the head and neck is provided by the sympathetic chain. This chain forms three cervical ganglia (superior, middle, inferior). These ganglia provide sympathetic innervation to structures of the head, neck, and which other region?",
+    "options": ["Upper limb", "Abdomen", "Pelvis", "Mediastinum", "Lower limb"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1271",
+    "topic": "NECK ANATOMY",
+    "question": "Horner's syndrome is a result of a lesion of the cervical sympathetic trunk. The resulting pupillary constriction (miosis) occurs due to the unopposed parasympathetic innervation of which muscle?",
+    "options": ["Dilator pupillae", "Ciliary muscle", "Sphincter pupillae", "Levator palpebrae superioris", "Orbicularis oculi"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1272",
+    "topic": "NECK ANATOMY",
+    "question": "The fascial planes and spaces of the neck envelope various structures. The pre-tracheal fascia encloses all of the following EXCEPT:",
+    "options": ["Thyroid gland", "Larynx", "Trachea", "Pharynx", "Carotid sheath"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1273",
+    "topic": "NECK ANATOMY",
+    "question": "The major groups of lymph nodes in the neck and head include the submental, submandibular, parotid, mastoid, and occipital nodes. Infections of the retropharyngeal lymph nodes can lead to the formation of a retropharyngeal abscess. This abscess can cause:",
+    "options": ["Facial swelling", "Hearing loss", "Airway obstruction", "Difficulty opening jaw", "Visual disturbances"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1274",
+    "topic": "NECK ANATOMY",
+    "question": "The internal jugular vein and subclavian veins unite to form the brachiocephalic veins. Central venous catheterization (central lines) often involves inserting a sterile tube into either the subclavian or internal jugular veins. This procedure permits blood sampling and long-term administration of drugs and:",
+    "options": ["Fluid resuscitation", "Blood transfusion", "Artificial nutrition", "Parenteral antibiotics", "Dialysis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1275",
+    "topic": "NECK ANATOMY",
+    "question": "The hyoid bone is suspended by muscles and lies in the anterior part of the neck. Its lateral parts are called the:",
+    "options": ["Body", "Lesser horns", "Greater horns", "Alar processes", "Mastoid processes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1276",
+    "topic": "NECK ANATOMY",
+    "question": "The external carotid artery has a number of branches in the neck. Which branch supplies the superior part of the thyroid and the larynx?",
+    "options": ["Ascending pharyngeal artery", "Lingual artery", "Facial artery", "Maxillary artery", "Superior thyroid artery"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1277",
+    "topic": "NECK ANATOMY",
+    "question": "The retromandibular vein runs within the substance of the parotid gland. It runs superficial to the external carotid artery and deep to which cranial nerve?",
+    "options": ["Trigeminal nerve (CN V)", "Facial nerve (CN VII)", "Glossopharyngeal nerve (CN IX)", "Vagus nerve (CN X)", "Accessory nerve (CN XI)"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1278",
+    "topic": "NECK ANATOMY",
+    "question": "The Jugular Venous Pressure (JVP) is commonly examined during cardiovascular exams. The JVP can be differentiated from the carotid pulse by all of the following EXCEPT:",
+    "options": ["Being a double waveform", "Being variable with respiration", "Being lost on pressure", "Being palpable", "Not being palpable"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1279",
+    "topic": "NECK ANATOMY",
+    "question": "The neck contains the thyroid gland. The isthmus of the thyroid gland lies directly anterior to which cartilages?",
+    "options": ["Thyroid cartilage", "Cricoid cartilage", "Hyoid bone", "2nd and 3rd tracheal rings", "4th and 5th tracheal rings"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1280",
+    "topic": "NECK ANATOMY",
+    "question": "Which of the following is a major anatomical landmark in the neck that defines the posterior boundary of the anterior triangle and the anterior boundary of the posterior triangle?",
+    "options": ["Trapezius muscle", "Platysma muscle", "Sternocleidomastoid muscle", "Scalenus anterior muscle", "Omohyoid muscle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1281",
+    "topic": "NECK ANATOMY",
+    "question": "Which of the following is a palpable landmark of the neck, typically found at the level of the 2nd and 3rd tracheal cartilage rings?",
+    "options": ["Hyoid bone", "Thyroid cartilage", "Cricoid cartilage", "Mastoid process", "Isthmus of the thyroid gland"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1282",
+    "topic": "NECK ANATOMY",
+    "question": "The anterior triangle of the neck is bounded by the midline anteriorly, the anterior border of the sternocleidomastoid posteriorly, and the lower jaw superiorly. Which of the following structures is **NOT** a subdivision of the anterior triangle?",
+    "options": ["Submandibular triangle", "Carotid triangle", "Muscular triangle", "Occipital triangle", "Submental triangle"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1283",
+    "topic": "NECK ANATOMY",
+    "question": "Within the divisions of the posterior triangle, which of the following structures is explicitly mentioned as passing through the subclavian triangle subdivision?",
+    "options": ["Internal jugular vein", "Common carotid artery", "Brachial plexus trunks", "Thyroid gland", "Spinal accessory nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1284",
+    "topic": "NECK ANATOMY",
+    "question": "The carotid sheath, part of the deep cervical fascia, surrounds the common carotid artery, internal jugular vein, and vagus nerve. It also contains which other neurovascular structure?",
+    "options": ["External carotid artery", "Spinal accessory nerve", "Phrenic nerve", "Deep cervical lymph nodes", "Sympathetic trunk"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1285",
+    "topic": "NECK ANATOMY",
+    "question": "The floor of the posterior triangle is formed by the pre-vertebral fascia. What is a specific feature of this fascia that allows certain vessels to reach the foramen transversarium of the cervical spine?",
+    "options": ["It is continuous with the carotid sheath.", "It contains major lymph nodes.", "It has a triangular gap through which vertebral vessels pass.", "It encloses the thyroid gland.", "It forms the roof of the triangle."],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1286",
+    "topic": "NECK ANATOMY",
+    "question": "The sternocleidomastoid muscle, when contracting unilaterally, causes which two movements?",
+    "options": ["Flexion of cervical vertebrae and rotation to same side.", "Extension of cervical vertebrae and rotation to contralateral side.", "Tilting of head to same side and rotation of face to contralateral side.", "Tilting of head to contralateral side and rotation of face to same side.", "Only extension of the head."],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1287",
+    "topic": "NECK ANATOMY",
+    "question": "The spinal accessory nerve (CN XI) innervates the sternocleidomastoid and trapezius muscles. What is a functional consequence of paralysis of the trapezius muscle due to injury to this nerve?",
+    "options": ["Inability to flex the arm", "Impaired shoulder adduction", "Inability to shrug the shoulder normally", "Difficulty in head rotation to the same side", "Loss of sensation in the neck"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1288",
+    "topic": "NECK ANATOMY",
+    "question": "The strap muscles (infrahyoid muscles) are a group of four muscles in the anterior part of the neck. They function to depress the hyoid bone and larynx during which activities?",
+    "options": ["Mastication and breathing", "Swallowing and speech", "Head flexion and extension", "Head rotation and lateral flexion", "Eye movements and facial expressions"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1289",
+    "topic": "NECK ANATOMY",
+    "question": "The Vagus nerve (CN X) passes within the carotid sheath in the neck. Its motor functions in the pharynx include innervation of muscles of the pharynx, palatoglossus, and:",
+    "options": ["Masseter", "Buccinator", "Intrinsic muscles of larynx", "Stylohyoid", "Trapezius"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1290",
+    "topic": "NECK ANATOMY",
+    "question": "The sympathetic innervation of the head and neck is provided by the sympathetic chain. This chain forms three cervical ganglia (superior, middle, inferior). These ganglia provide sympathetic innervation to structures of the head, neck, and which other region?",
+    "options": ["Upper limb", "Abdomen", "Pelvis", "Mediastinum", "Lower limb"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1291",
+    "topic": "NECK ANATOMY",
+    "question": "Horner's syndrome is a result of a lesion of the cervical sympathetic trunk. The resulting pupillary constriction (miosis) occurs due to the unopposed parasympathetic innervation of which muscle?",
+    "options": ["Dilator pupillae", "Ciliary muscle", "Sphincter pupillae", "Levator palpebrae superioris", "Orbicularis oculi"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1292",
+    "topic": "NECK ANATOMY",
+    "question": "The fascial planes and spaces of the neck envelope various structures. The pre-tracheal fascia encloses all of the following EXCEPT:",
+    "options": ["Thyroid gland", "Larynx", "Trachea", "Pharynx", "Carotid sheath"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1293",
+    "topic": "NECK ANATOMY",
+    "question": "The major groups of lymph nodes in the neck and head include the submental, submandibular, parotid, mastoid, and occipital nodes. Infections of the retropharyngeal lymph nodes can lead to the formation of a retropharyngeal abscess. This abscess can cause:",
+    "options": ["Facial swelling", "Hearing loss", "Airway obstruction", "Difficulty opening jaw", "Visual disturbances"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1294",
+    "topic": "NECK ANATOMY",
+    "question": "The internal jugular vein and subclavian veins unite to form the brachiocephalic veins. Central venous catheterization (central lines) often involves inserting a sterile tube into either the subclavian or internal jugular veins. This procedure permits blood sampling and long-term administration of drugs and:",
+    "options": ["Fluid resuscitation", "Blood transfusion", "Artificial nutrition", "Parenteral antibiotics", "Dialysis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1295",
+    "topic": "NECK ANATOMY",
+    "question": "The hyoid bone is suspended by muscles and lies in the anterior part of the neck. Its lateral parts are called the:",
+    "options": ["Body", "Lesser horns", "Greater horns", "Alar processes", "Mastoid processes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1296",
+    "topic": "NECK ANATOMY",
+    "question": "The external carotid artery has a number of branches in the neck. Which branch supplies the superior part of the thyroid and the larynx?",
+    "options": ["Ascending pharyngeal artery", "Lingual artery", "Facial artery", "Maxillary artery", "Superior thyroid artery"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1297",
+    "topic": "NECK ANATOMY",
+    "question": "The retromandibular vein runs within the substance of the parotid gland. It runs superficial to the external carotid artery and deep to which cranial nerve?",
+    "options": ["Trigeminal nerve (CN V)", "Facial nerve (CN VII)", "Glossopharyngeal nerve (CN IX)", "Vagus nerve (CN X)", "Accessory nerve (CN XI)"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1298",
+    "topic": "NECK ANATOMY",
+    "question": "The Jugular Venous Pressure (JVP) is commonly examined during cardiovascular exams. The JVP can be differentiated from the carotid pulse by all of the following EXCEPT:",
+    "options": ["Being a double waveform", "Being variable with respiration", "Being lost on pressure", "Being palpable", "Not being palpable"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1299",
+    "topic": "NECK ANATOMY",
+    "question": "The neck contains the thyroid gland. The isthmus of the thyroid gland lies directly anterior to which cartilages?",
+    "options": ["Thyroid cartilage", "Cricoid cartilage", "Hyoid bone", "2nd and 3rd tracheal rings", "4th and 5th tracheal rings"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1300",
+    "topic": "NECK ANATOMY",
+    "question": "Which of the following is a major anatomical landmark in the neck that defines the posterior boundary of the anterior triangle and the anterior boundary of the posterior triangle?",
+    "options": ["Trapezius muscle", "Platysma muscle", "Sternocleidomastoid muscle", "Scalenus anterior muscle", "Omohyoid muscle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1301",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The anterior abdomen is commonly divided into either 9 regions or 4 quadrants. The 9 abdominal regions are formed by two horizontal and two vertical planes. Which horizontal plane is located midway between the suprasternal notch and the upper border of the pubic symphysis, approximately at the level of the lower border of the L1 vertebral body?",
+    "options": ["Subcostal plane", "Transpyloric plane", "Transtubercular plane", "Interspinous plane", "Umbilical plane"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1302",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The oral cavity is the most proximal region of the alimentary canal. Its roof is formed by the palate, which is divided into the hard palate and soft palate. The hard palate is formed by the palatine process of the maxilla and the horizontal plate of which other bones?",
+    "options": ["Nasal bones", "Zygomatic bones", "Ethmoid bones", "Palatine bones", "Vomer bone"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1303",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The tongue is responsible for aiding mastication and swallowing. The special sensation (taste) to the anterior two-thirds of the tongue is provided by which branch of the facial nerve (CN VII)?",
+    "options": ["Lingual nerve", "Chorda tympani", "Glossopharyngeal nerve", "Vagus nerve", "Hypoglossal nerve"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1304",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The intrinsic muscles of the tongue are responsible for fine movements. These muscles are all innervated by which cranial nerve?",
+    "options": ["Trigeminal nerve (CN V)", "Facial nerve (CN VII)", "Glossopharyngeal nerve (CN IX)", "Vagus nerve (CN X)", "Hypoglossal nerve (CN XII)"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1305",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The parotid gland is one of the major salivary glands. Its secretions are passed via Stensen's (parotid) duct, which drains into the oral cavity adjacent to the:",
+    "options": ["Lingual frenulum", "Sublingual folds", "First upper incisor tooth", "Second upper molar tooth", "Third lower molar tooth"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1306",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The muscles of mastication include temporalis, masseter, and the medial and lateral pterygoids. All of these muscles are innervated by which branch of the trigeminal nerve (CN V)?",
+    "options": ["Ophthalmic (V1)", "Maxillary (V2)", "Mandibular (V3)", "Facial (CN VII)", "Glossopharyngeal (CN IX)"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1307",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The pharynx is situated behind the nasal and oral cavities. Its most inferior part, continuous with the oesophagus at the level of C6, is the:",
+    "options": ["Nasopharynx", "Oropharynx", "Laryngopharynx", "Soft palate", "Epiglottis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1308",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The retropharyngeal space normally contains areolar fat and lymph nodes. Infections of this space, such as retropharyngeal abscesses, can spread directly to the thorax via the 'danger space' located posterior to it, causing:",
+    "options": ["Airway obstruction only", "Localized pain", "Life-threatening sepsis in the posterior mediastinum", "Facial droop", "Difficulty chewing"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1309",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The oesophagus is a muscular tube that conveys food from the laryngopharynx to the stomach. The musculature in the upper one-third of the oesophagus is composed of:",
+    "options": ["Involuntary smooth muscle", "Voluntary striated muscle", "Mixed smooth and striated muscle", "Cardiac muscle", "Connective tissue only"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1310",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "There are three constriction points within the oesophagus. Which constriction is formed by the cricopharyngeus muscle at the oesophageal origin?",
+    "options": ["Thoracic constriction (aortic arch)", "Thoracic constriction (left main bronchus)", "Lower oesophageal sphincter", "Upper oesophageal sphincter", "Diaphragmatic constriction"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1311",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The inferior part of the oesophagus is drained by two venous systems: the portal circulation (via left gastric vein) and the systemic circulation (via azygos vein). These two connected systems create a porto-systemic anastomosis, which can become problematic in cases of:",
+    "options": ["Systemic hypertension", "Pulmonary hypertension", "Portal hypertension", "Splenic hypertension", "Renal failure"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1312",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The stomach is the widest part of the alimentary canal. It is located in the left and right upper quadrants of the abdomen. Its pylorus, the distal part leading to the duodenum, is found at the level of the:",
+    "options": ["T12 vertebral body", "L1 vertebral body (transpyloric plane)", "L3 vertebral body", "Umbilicus", "Xiphisternum"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1313",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The stomach is supplied by five arteries arising from the coeliac trunk and its branches. Which artery arises directly from the coeliac trunk and passes along the lesser curvature to supply the stomach from its superior aspect?",
+    "options": ["Right gastric artery", "Left gastric artery", "Right gastro-omental artery", "Left gastro-omental artery", "Short gastric arteries"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1314",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Pyloric stenosis is a condition seen in neonates where the circular muscle surrounding the outflow tract of the stomach becomes thickened. What is a classic symptom of pyloric stenosis in newborns?",
+    "options": ["Bloody stools", "Non-bloody projectile vomiting after most feeds", "Diarrhea", "Jaundice", "Abdominal distension without vomiting"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1315",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The duodenum is the most proximal part of the small intestine. The major duodenal papilla, where the ampulla of Vater drains its contents, is found in the wall of which part of the duodenum?",
+    "options": ["D1 (superior part)", "D2 (descending part)", "D3 (horizontal part)", "D4 (ascending part)", "Duodeno-jejunal flexure"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1316",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Peptic ulcers commonly occur in the stomach or proximal duodenum. Perforation of duodenal ulcers may cause catastrophic bleeding due to erosion into which nearby artery?",
+    "options": ["Splenic artery", "Left gastric artery", "Gastroduodenal artery", "Superior mesenteric artery", "Right gastro-omental artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1317",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The large intestine begins at the ileocaecal valve. The vermiform appendix is a thin projection of large bowel arising from the wall of the caecum and is typically found at:",
+    "options": ["Left iliac fossa", "Right hypochondriac region", "McBurney's point", "Umbilical region", "Epigastric region"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1318",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The large intestine has several distinguishing features compared to the small intestine. Which of the following is a characteristic feature of the large intestine?",
+    "options": ["Presence of villi", "Valvulae conniventes", "Small diameter (<3cm)", "Taenia coli", "Centrally located on radiograph"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1319",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Acute appendicitis first presents as vague periumbilical pain. Over time, once the parietal peritoneum becomes involved, the pain becomes localized to which specific anatomical region?",
+    "options": ["Left iliac fossa", "Right hypochondriac region", "Right iliac fossa", "Epigastric region", "Left lower quadrant"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1320",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The anal canal has two muscular sphincters: an inner, involuntary sphincter and an external, voluntary sphincter. The division between the rectum and anal canal is known as the:",
+    "options": ["Pectinate line", "Anal columns", "Anal valves", "Anorectal ring", "Puborectal sling"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1321",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The 9 abdominal regions are formed by two horizontal and two vertical planes. Which horizontal plane is located midway between the transpyloric plane and the upper border of the pubic symphysis, corresponding to the level of the iliac tubercles and the L5 vertebral body?",
+    "options": ["Subcostal plane", "Transpyloric plane", "Transtubercular plane", "Interspinous plane", "Umbilical plane"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1322",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The oral cavity communicates with the oropharynx posteriorly by the oropharyngeal isthmus. The region between the inner aspect of the lips/cheeks and the teeth/gingivae is known as the:",
+    "options": ["Oral fissure", "Oral vestibule", "Hard palate", "Soft palate", "Pharynx"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1323",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The tongue's floor is predominantly formed by the tongue and the mylohyoid muscle. General sensation to the anterior two-thirds of the tongue is provided by the lingual nerve, a branch of which trigeminal nerve division?",
+    "options": ["Ophthalmic (V1)", "Maxillary (V2)", "Mandibular (V3)", "Facial (CN VII)", "Glossopharyngeal (CN IX)"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1324",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The extrinsic muscles of the tongue control larger tongue movements, including protrusion and retraction. Which of these extrinsic muscles of the tongue is innervated by the vagus nerve (CN X)?",
+    "options": ["Genioglossus", "Hyoglossus", "Styloglossus", "Palatoglossus", "Longitudinal lingualis"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1325",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The submandibular gland is one of the major salivary glands. Its secretions drain via Wharton's (submandibular) duct, which drains into the oral cavity through 1-3 orifices at the base of the frenulum of the:",
+    "options": ["Cheek", "Maxillary teeth", "Tongue", "Soft palate", "Hard palate"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1326",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The temporomandibular joint (TMJ) is a bicondylar joint. The upper joint cavity primarily allows which movements of the mandible?",
+    "options": ["Elevation and depression", "Protrusion and retrusion", "Lateral excursion", "Hinge movements", "Rotation"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1327",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The pharynx is divided into nasopharynx, oropharynx, and laryngopharynx. Which part extends between the soft palate and the superior part of the epiglottis, containing the palatine tonsils?",
+    "options": ["Nasopharynx", "Oropharynx", "Laryngopharynx", "Oral cavity", "Larynx"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1328",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The anterior abdominal wall consists of skin, superficial fascia, muscles, and parietal peritoneum. The superficial fascia can be divided into fatty (superficial Camper) and membranous (deeper Scarpa) types. The rectus abdominis forms the 'six-pack' muscles. It passes from the xiphoid process and 5th-7th costal cartilage to the pubic symphysis and:",
+    "options": ["Iliac crest", "Linea alba", "Pubic crest", "Conjoint tendon", "Thoracolumbar fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1329",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The oesophagus enters the abdomen through the oesophageal hiatus of the right crus of the diaphragm, just to the left of the mid-line, at the level of which vertebral segment?",
+    "options": ["T8", "T9", "T10", "T11", "T12"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1330",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The stomach's arterial supply is primarily from branches of the coeliac trunk. Which artery supplies the stomach from its inferior aspect by passing along the greater curvature, arising from the gastroduodenal artery?",
+    "options": ["Right gastric artery", "Left gastric artery", "Right gastro-omental artery", "Left gastro-omental artery", "Short gastric arteries"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1331",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The duodenum forms a C-shape which curves around the head of the pancreas. Its D4 (ascending part) passes superiorly until reaching the inferior edge of the pancreas, at which point it curves and terminates at the:",
+    "options": ["Pyloric sphincter", "Major duodenal papilla", "Ampulla of Vater", "Duodeno-jejunal flexure", "Ligament of Treitz"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1332",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The small intestine includes the jejunum and ileum. The jejunum is approximately 3 meters in length and is mostly concerned with:",
+    "options": ["Water absorption", "Faecal storage", "Absorption of food digested by pancreatic enzymes", "Production of digestive enzymes", "Bile salt reabsorption"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1333",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The large intestine begins at the ileocaecal valve. The transverse colon is unique among the colon segments (ascending, descending) as it is intra-peritoneal. It is suspended from the posterior abdominal wall by the:",
+    "options": ["Meso-appendix", "Sigmoid mesocolon", "Transverse mesocolon", "Greater omentum", "Lesser omentum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1334",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Compared to the small intestine, the large intestine has several distinguishing features. Which of the following is a characteristic feature of the large intestine?",
+    "options": ["Villi present", "Valvulae conniventes (plicae circulares) present", "Appendices epiploicae", "Small diameter (<3cm)", "Centrally located on radiograph"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1335",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The anal canal connects the rectum to the anus. The puborectal sling, a part of the levator ani muscle group, surrounds the recto-anal junction and forms a kink. This kink functions as a:",
+    "options": ["Absorption surface", "Sensory receptor", "Sphincter", "Storage area", "Lubrication gland"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1336",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The arterial supply to the GI tract is divided by embryological origin. Which artery supplies derivatives of the foregut?",
+    "options": ["Superior mesenteric artery", "Inferior mesenteric artery", "Coeliac trunk", "Renal artery", "Gonadal artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1337",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The terminal branches of the superior mesenteric artery (SMA) and inferior mesenteric artery (IMA) form a continuous arterial arcade along the inner border of the large intestine. What is this arcade called?",
+    "options": ["Arcuate artery", "Vasa recta", "Marginal artery (of Drummond)", "Ileocolic artery", "Middle colic artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1338",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The venous drainage of the GI tract first passes through the portal venous system before reaching the systemic circulation. Blood from the midgut derivatives is drained by which vein?",
+    "options": ["Inferior mesenteric vein", "Splenic vein", "Superior mesenteric vein", "Hepatic vein", "Gastroduodenal vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1339",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Haemorrhoids are highly vascular submucosal cushions that may swell and bleed. External haemorrhoids are found below which anatomical landmark in the anal canal?",
+    "options": ["Anal columns", "Anal valves", "Pectinate line", "Anorectal ring", "Puborectal sling"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1340",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The GI Tract is under both sympathetic and parasympathetic autonomic control. Parasympathetic fibers traveling with the Vagus nerve innervate the more proximal parts of the GI tract, including all of the following EXCEPT:",
+    "options": ["Oesophagus", "Stomach", "Small intestine", "Ascending colon", "Descending colon"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1341",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The oral cavity's roof is formed by the hard palate and soft palate. Sensory innervation to the hard palate is provided by which branch of the trigeminal nerve (CN V)?",
+    "options": ["Ophthalmic (V1)", "Maxillary (V2)", "Mandibular (V3)", "Facial (CN VII)", "Glossopharyngeal (CN IX)"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1342",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The tongue's floor is predominantly formed by the tongue and the mylohyoid muscle. Both general and special sensation to the posterior one-third of the tongue is provided by which cranial nerve?",
+    "options": ["Facial nerve (CN VII)", "Trigeminal nerve (CN V)", "Glossopharyngeal nerve (CN IX)", "Vagus nerve (CN X)", "Hypoglossal nerve (CN XII)"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1343",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Which of the following salivary glands is innervated by the parasympathetic fibers of the glossopharyngeal nerve, which pass via the otic ganglion?",
+    "options": ["Submandibular gland", "Sublingual gland", "Parotid gland", "Minor salivary glands", "Buccal glands"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1344",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The facial nerve and its branches pass through the parotid gland. Injury to the facial nerve during parotid surgery can result in:",
+    "options": ["Loss of sensation in the anterior two-thirds of the tongue", "Paralysis of the muscles of mastication", "Ipsilateral facial droop (facial palsy)", "Loss of hearing", "Trigeminal neuralgia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1345",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The temporomandibular joint (TMJ) is located at the mandibular fossa. It is classified as a bicondylar joint. The lower joint cavity primarily acts as which type of joint?",
+    "options": ["Pivot joint", "Gliding joint", "Hinge joint", "Saddle joint", "Ball and socket joint"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1346",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The mandibular branch of the trigeminal nerve (CNV) innervates the lower teeth. It passes through the mandibular canal via which foramen on the inner aspect of the mandible?",
+    "options": ["Mental foramen", "Inferior alveolar foramen", "Foramen ovale", "Foramen spinosum", "Lingula"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1347",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Temporomandibular joint (TMJ) dislocation occurs when the condylar process moves anterior of the articular eminence. The most common symptom is the inability to:",
+    "options": ["Open the mouth", "Speak", "Close the oral cavity", "Chew", "Swallow"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1348",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The pharynx is divided into three parts. The superior pharyngeal constrictor muscle constricts the walls of which part of the pharynx?",
+    "options": ["Nasopharynx", "Oropharynx", "Laryngopharynx", "Oral cavity", "Larynx"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1349",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The cricopharyngeus muscle of the laryngopharynx, also called the upper oesophageal sphincter, is tonically contracted at rest. It relaxes to allow the passing of food boluses during:",
+    "options": ["Respiration", "Vocalization", "Mastication", "Swallowing", "Coughing"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1350",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "During the voluntary phase of swallowing, the bolus is compressed against the hard palate by the extrinsic tongue muscles. Simultaneously, a trough is created at the posterior of the tongue by the intrinsic muscles, which forces the bolus into the:",
+    "options": ["Nasopharynx", "Larynx", "Oropharynx", "Trachea", "Esophagus"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1351",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The oesophagus is a muscular tube. Its lower one-third is composed of which type of muscle?",
+    "options": ["Voluntary striated muscle", "Involuntary smooth muscle", "Mixed smooth and striated muscle", "Cardiac muscle", "Skeletal muscle"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1352",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The abdominal oesophagus is supplied by the left gastric and which other artery?",
+    "options": ["Right gastric artery", "Splenic artery", "Left inferior phrenic artery", "Gastroduodenal artery", "Superior mesenteric artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1353",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Oesophageal varices are a clinical concern in cases of portal hypertension. These occur at the porto-systemic anastomosis located in the:",
+    "options": ["Upper third of oesophagus", "Middle third of oesophagus", "Lower third of oesophagus", "Cardia of stomach", "Duodenum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1354",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The stomach is divided into fundus, body, and pylorus. Which part of the stomach is the dilated, superior portion lateral to the cardia, often filled with gas?",
+    "options": ["Cardia", "Body", "Antrum", "Pyloric canal", "Fundus"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1355",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The transpyloric plane is an important anatomical marker for various abdominal structures. Which of the following structures is found at the transpyloric plane (L1 vertebral body level)?",
+    "options": ["Umbilicus", "Gallbladder fundus", "Inferior mesenteric artery origin", "Splenic flexure of colon", "Apex of the heart"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1356",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The stomach is supplied by five arteries. Which artery is the largest branch of the splenic artery and supplies the stomach from its inferior aspect by passing along the greater curvature?",
+    "options": ["Right gastric artery", "Left gastric artery", "Right gastro-omental artery", "Left gastro-omental artery", "Short gastric arteries"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1357",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Pyloric stenosis in neonates is a thickening of the circular muscle of the pyloric sphincter. This results in obstruction of the outflow tract and forceful contractions of the stomach, leading to which clinical sign?",
+    "options": ["Jaundice", "Projectile vomiting", "Diarrhea", "Hiccups", "Abdominal distension"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1358",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The duodenum forms a C-shape around the head of the pancreas. Its D3 (horizontal part) passes transversely to the left, crossing which anatomical landmark?",
+    "options": ["Superior mesenteric artery", "Inferior vena cava", "Mid-line", "Aorta", "Ligament of Treitz"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1359",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "One of the most common causes of pancreatitis is the presence of gallstones within the distal biliary tree, blocking the common outflow. This blockage typically occurs just proximal to which structure?",
+    "options": ["Cystic duct", "Common hepatic duct", "Sphincter of Oddi", "Major duodenal papilla", "Ampulla of Vater"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1360",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The ileum, which is between 2-4 meters in length, functions predominantly to absorb remaining products of digestion, as well as bile salts and which vitamin?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B12", "Vitamin K"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1361",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The oral vestibule is the region between the inner aspect of the lips/cheeks and the teeth/gingivae. This vestibule communicates with the external environment through the oral fissure (mouth), the size of which is controlled by the peri-oral muscles, including which muscle?",
+    "options": ["Masseter", "Temporalis", "Buccinator", "Zygomaticus major", "Platysma"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1362",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The mylohyoid muscle reinforces the floor of the mouth. When contracting, it elevates which two structures?",
+    "options": ["Mandible and soft palate", "Hyoid and the tongue", "Larynx and pharynx", "Soft palate and epiglottis", "Jaw and cheek"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1363",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The sublingual gland is one of the major salivary glands. Its secretions drain via multiple minor sublingual ducts onto the sublingual folds under the tongue. Its parasympathetic innervation passes via which ganglion?",
+    "options": ["Otic ganglion", "Ciliary ganglion", "Pterygopalatine ganglion", "Submandibular ganglion", "Geniculate ganglion"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1364",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Salivary stones can form in the major salivary glands and their ducts, causing blockage of salivary outflow. Blockage is most commonly seen in which specific gland and duct?",
+    "options": ["Parotid gland and Stensen's duct", "Sublingual gland and minor sublingual ducts", "Submandibular gland and Wharton's duct", "Minor salivary glands", "Buccal glands"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1365",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The temporomandibular joint (TMJ) is classified as a bicondylar joint. The lower joint cavity primarily acts as which type of joint?",
+    "options": ["Pivot joint", "Gliding joint", "Hinge joint", "Saddle joint", "Ball and socket joint"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1366",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The pharynx is divided into three parts. The Eustachian tubes drain into the nasopharynx at the level of the:",
+    "options": ["Soft palate", "Inferior nasal concha", "Epiglottis", "Cricoid cartilage", "Uvula"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1367",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The abdominal wall includes the anterior and posterior walls. The anterior abdominal wall is formed from skin, superficial fascia, muscles, and parietal peritoneum. The superficial fascia can be divided into fatty (superficial Camper) and membranous (deeper Scarpa) types. The deepest layer of the anterior abdominal wall, lining the cavity, is the:",
+    "options": ["External oblique", "Internal oblique", "Transversus abdominis", "Rectus abdominis", "Parietal peritoneum"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1368",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The muscles of the anterolateral abdominal wall are three flat sheets of muscle layered over each other: external oblique, internal oblique, and transversus abdominis. The fibers of the external oblique run in which direction?",
+    "options": ["Superomedial", "Inferolateral", "Transverse", "Inferomedial", "Vertical"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1369",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The anterior abdominal wall muscles permit flexion and rotation of the trunk, as well as compressing the abdominal cavity to increase intra-abdominal pressure. These muscles are innervated by which nerves?",
+    "options": ["Lumbar plexus branches", "Thoracoabdominal nerves (anterior primary rami of T7-T11)", "Femoral nerve", "Obturator nerve", "Sciatic nerve"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1370",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The oesophagus contains three constriction points. Which two structures cause the thoracic constrictions of the oesophagus by crossing its anterior surface?",
+    "options": ["Diaphragm and cricopharyngeus muscle", "Aortic arch and left main bronchus", "Right main bronchus and SVC", "Pulmonary trunk and descending aorta", "Left atrium and heart apex"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1371",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The stomach's arterial supply is primarily from branches of the coeliac trunk. Which artery arises from the gastroduodenal artery and supplies the stomach from its inferior aspect along the greater curvature?",
+    "options": ["Right gastric artery", "Left gastric artery", "Right gastro-omental artery", "Left gastro-omental artery", "Short gastric arteries"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1372",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The duodenum is divided into four parts. Its D2 (descending part) contains the major duodenal papilla. The contents of the ampulla of Vater (bile and pancreatic enzymes) drain through this papilla. What is the muscular sphincter surrounding this papilla that controls the entry of these fluids?",
+    "options": ["Pyloric sphincter", "Ileocaecal valve", "Sphincter of Oddi", "Upper oesophageal sphincter", "Anal sphincter"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1373",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The duodeno-jejunal flexure is surrounded by a peritoneal fold called the:",
+    "options": ["Ligament of Treitz", "Falciform ligament", "Lesser omentum", "Greater omentum", "Transverse mesocolon"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1374",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The large intestine begins at the ileocaecal valve. The sigmoid colon is an intra-peritoneal structure. It is highly variable in length and is suspended from the pelvic wall by the:",
+    "options": ["Transverse mesocolon", "Meso-appendix", "Sigmoid mesocolon", "Greater omentum", "Lesser omentum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1375",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Which of the following is a characteristic feature of the small intestine (jejunum and ileum) that is absent in the large intestine?",
+    "options": ["Taenia coli", "Haustrations", "Appendices epiploicae", "Valvulae conniventes (plicae circulares)", "Larger diameter"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1376",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The anal canal has two muscular sphincters: an inner, involuntary sphincter and an external, voluntary sphincter. The internal sphincter is formed from which type of muscle?",
+    "options": ["Voluntary striated muscle", "Circular smooth muscle", "Longitudinal smooth muscle", "Skeletal muscle", "Perineal muscle"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1377",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The superior rectal artery, a branch of the inferior mesenteric artery, supplies the whole of the rectal mucosa and upper part of the anal canal, up to which line?",
+    "options": ["Pectinate line", "Anorectal ring", "Puborectal sling", "Ischioanal fossa", "White line of Hilton"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1378",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The venous drainage of the distal bowel and anal canal involves a portosystemic venous anastomosis. Which arteries contribute to the blood supply of the anal canal?",
+    "options": ["Superior, middle, and inferior rectal arteries", "Coeliac, superior mesenteric, and inferior mesenteric arteries", "Hepatic portal artery and splenic artery", "Internal iliac artery and external iliac artery", "Femoral and obturator arteries"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1379",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "Which of the following describes the distribution of referred pain from midgut structures?",
+    "options": ["Epigastric region", "Umbilical region", "Hypogastric region", "Right lower quadrant", "Left upper quadrant"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1380",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "question": "The vomiting reflex involves a predictable set of reflexes. Which of the following is an action performed during the vomiting reflex, triggered by the phrenic nerve?",
+    "options": ["Increased salivation", "Glottis closed", "Sharp contraction of the diaphragm inferiorly", "Abdominal wall muscle relaxation", "Larynx depressed"],
+    "correct_answer_index": 2
   }
 ]
