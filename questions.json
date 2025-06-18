@@ -12217,5 +12217,1405 @@
     "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
     "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
     "correct_answer_index": 2
+  },
+  {
+    "id": "q1701",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic (hip) girdle is formed from two hip bones. Which of the following is a component of the pelvis that forms the anatomy of the pelvic inlet?",
+    "options": ["Ischial tuberosity", "Pubic symphysis", "Sacral promontory", "Obturator foramen", "Inferior pubic ramus"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1702",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor, or pelvic diaphragm, functions to support the overlying pelvic viscera. It also plays a crucial role in:",
+    "options": ["Respiration", "Digestion", "Urinary and faecal continence", "Blood pressure regulation", "Reproduction only"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1703",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. This artery provides blood supply to all of the following EXCEPT:",
+    "options": ["Bladder", "Uterus", "External genitalia", "Rectum", "Testis"],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1704",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes sympathetic and parasympathetic innervation. Which nerves provide parasympathetic innervation to the pelvic organs?",
+    "options": ["Superior hypogastric plexus", "Sacral splanchnic nerves", "Pelvic splanchnic nerves (S2-S4)", "Pudendal nerve", "Inferior hypogastric plexus"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1705",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are the female gonads. They are intra-peritoneal structures suspended within the peritoneal cavity by the suspensory ligament of the ovary, which passes to the:",
+    "options": ["Uterus", "Cervix", "Lateral pelvic wall", "Lateral abdominal wall", "Sacrum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1706",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) conduct ovulated oocytes from the peritoneal cavity to the uterine cavity. Which part of the oviduct is the widest and longest, and is the most common site of fertilization?",
+    "options": ["Infundibulum", "Ampulla", "Isthmus", "Uterine part", "Fimbriae"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1707",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The non-pregnant uterus normally lies within the pelvic cavity, with its body lying on the posterior wall of the bladder. The cervix is found between the bladder and the:",
+    "options": ["Vagina", "Rectum", "Pubic symphysis", "Sacrum", "Ovaries"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1708",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The adult uterus is normally in an anteverted and anteflexed orientation. What does 'anteverted' mean in this context?",
+    "options": ["Tilted posteriorly", "Flexed anteriorly", "Tilted anteriorly", "Flexed posteriorly", "Laterally displaced"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1709",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The uterus is supplied by the uterine artery, which arises from the internal iliac artery. This artery passes across the anterior aspect of which structure to reach the lateral walls of the uterus via the cardinal ligament?",
+    "options": ["Ovary", "Uterine tube", "Vagina", "Ureter", "Rectum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1710",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Lymphatic drainage from the ovaries passes to which lymph node group?",
+    "options": ["Internal iliac lymph nodes", "Superficial inguinal lymph nodes", "Deep inguinal lymph nodes", "Para-aortic lymph nodes", "Hilar lymph nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1711",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located outside of the pelvic cavity within the scrotum. The dartos muscle is contained within the subcutaneous tissue of the scrotum and acts to regulate scrotal temperature by:",
+    "options": ["Increasing blood flow", "Decreasing blood flow", "Wrinkling the overlying skin", "Relaxing the cremaster muscle", "Increasing surface area for heat loss"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1712",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The deep cremaster muscle, which spirals around the spermatic cord, can raise and lower the testis within the scrotum to control its temperature. The cremaster reflex may be elicited by touching the medial aspect of the:",
+    "options": ["Scrotum", "Abdomen", "Thigh", "Groin", "Perineum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1713",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "As the testis descends through the inguinal canal into the scrotum, a layer of parietal peritoneum is taken with it, creating a sac around the testis. This sac, covering its anterior, medial, and lateral aspects, is known as the:",
+    "options": ["Tunica albuginea", "Tunica vaginalis", "Dartos fascia", "Cremasteric fascia", "External spermatic fascia"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1714",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains several structures. Which testicular vein drains to the left renal vein, rather than directly into the inferior vena cava?",
+    "options": ["Right testicular vein", "Left testicular vein", "Pampiniform venous plexus", "Cremasteric vein", "Inferior epigastric vein"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1715",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminiferous tubules within the testis parenchyma are the site of spermatogenesis. These U-shaped structures open at both ends into the rete testis, which ultimately forms small efferent ducts that drain to the head of the:",
+    "options": ["Vas deferens", "Epididymis", "Seminal vesicle", "Prostate gland", "Ejaculatory duct"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1716",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It passes through the inguinal canal, entering through the superficial inguinal ring and leaving through the:",
+    "options": ["Femoral ring", "Obturator foramen", "Deep inguinal ring", "Pubic tubercle", "Hesselbach's triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1717",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland produces and secretes an alkaline fluid containing simple sugars and proteolytic enzymes, contributing to 30% of the volume of semen. Which histological region of the prostate accounts for around 70% of the prostate volume and is the site where prostate cancer typically occurs?",
+    "options": ["Central zone", "Transition zone", "Peripheral zone", "Anterior commissure", "Prostatic urethra"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1718",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of three columns of tissue: two corpora cavernosa and a single corpus spongiosum. The corpus spongiosum houses which anatomical structure?",
+    "options": ["Deep dorsal vein", "Cavernosal arteries", "Urethra", "Tunica albuginea", "Glans penis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1719",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Which phase of male ejaculation is characterized by spermatozoa moving into the prostatic urethra, primarily mediated by post-ganglionic sympathetic innervation causing contraction of the vas deferens, seminal vesicles, and prostate smooth muscle?",
+    "options": ["Expulsion", "Emission", "Erection", "Micturition", "Contraction"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1720",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Which of the following is an expected pattern of lymph node metastasis for testicular cancer?",
+    "options": ["Superficial inguinal lymph nodes", "Deep inguinal lymph nodes", "Mesorectal lymph nodes", "Para-aortic lymph nodes (retroperitoneal)", "Obturator lymph nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1721",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The skeletal and ligamentous components of the pelvis show sexual differences. When standing, the pelvis is tilted in such a way that the anterior superior iliac spines are in the same coronal plane as which other two anatomical landmarks?",
+    "options": ["Ischial tuberosities and coccyx", "Sacral promontory and iliac crest", "Pubic symphysis and pubic tubercles", "Obturator foramen and ischial spine", "Arcuate line and pectineal line"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1722",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is a funnel-shaped diaphragm of muscle and connective tissue. It functions to support the overlying pelvic viscera. Which of the following is a muscle component of the levator ani group that forms the pelvic floor?",
+    "options": ["Piriformis", "Obturator internus", "Pubococcygeus", "Psoas major", "Quadratus lumborum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1723",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The origin and distribution of arterial supply to the pelvic organs primarily stem from which major artery?",
+    "options": ["External iliac artery", "Femoral artery", "Abdominal aorta", "Internal iliac artery", "Obturator artery"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1724",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes somatic structures. The pudendal nerve (S2-S4) primarily innervates the muscles and skin of the:",
+    "options": ["Pelvic floor (only)", "Pelvic organs (visceral)", "Anterior thigh", "Perineum", "Gluteal region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1725",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. Each ovary is attached to the broad ligament of the uterus by the mesovarium and is suspended within the peritoneal cavity by the suspensory ligament of the ovary. This ligament transmits which artery and vein?",
+    "options": ["Uterine artery and vein", "Internal iliac artery and vein", "Ovarian artery and vein", "External iliac artery and vein", "Pudendal artery and vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1726",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (uterine tubes) conduct ovulated oocytes from the peritoneal cavity to the uterine cavity. The fimbriae are finger-like projections at the end of which part of the oviduct, which collects the ovulated oocyte?",
+    "options": ["Ampulla", "Isthmus", "Infundibulum", "Uterine part", "Mesosalpinx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1727",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The non-pregnant uterus normally lies within the pelvic cavity, with its body lying on the posterior wall of the bladder. The cylindrical inferior part of the uterus, which protrudes into the vagina, is called the:",
+    "options": ["Fundus", "Body", "Cervix", "Isthmus", "Vaginal fornix"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1728",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A retroverted uterus is one that is posteriorly tilted. In which percentage of females is a retroverted uterus typically observed?",
+    "options": ["Approximately 5%", "Approximately 10%", "Approximately 20%", "Approximately 30%", "Approximately 50%"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1729",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The uterus is supplied by the uterine artery, which arises from the internal iliac artery. This artery passes across the anterior aspect of which structure to reach the lateral walls of the uterus via the cardinal ligament?",
+    "options": ["Ovary", "Uterine tube", "Vagina", "Ureter", "Rectum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1730",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Lymphatic drainage of the body and cervix of the uterus primarily drains to which lymph node group?",
+    "options": ["Para-aortic lymph nodes", "Superficial inguinal lymph nodes", "Deep inguinal lymph nodes", "Internal iliac lymph nodes", "Obturator lymph nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1731",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located within the scrotum. The deep cremaster muscle spirals around the spermatic cord and can raise and lower the testis within the scrotum to control its temperature. The cremaster reflex is elicited by touching the medial aspect of the:",
+    "options": ["Scrotum", "Abdomen", "Thigh", "Groin", "Perineum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1732",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Which of the following layers of fascia surrounding the spermatic cord is formed from the external oblique aponeurosis as the testis descends?",
+    "options": ["Dartos fascia", "Cremasteric fascia", "Internal spermatic fascia", "External spermatic fascia", "Tunica vaginalis"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1733",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains various structures. Which artery within the spermatic cord originates from the abdominal aorta?",
+    "options": ["Artery to vas deferens", "Cremasteric artery", "Testicular artery", "Inferior epigastric artery", "External iliac artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1734",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminiferous tubules within the testis parenchyma are the site of spermatogenesis. These tubules open into the rete testis, which ultimately forms small efferent ducts that drain to the head of the:",
+    "options": ["Vas deferens", "Epididymis", "Seminal vesicle", "Prostate gland", "Ejaculatory duct"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1735",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. At its distal end, before joining the ejaculatory duct, the vas deferens expands to form the:",
+    "options": ["Epididymis head", "Seminal vesicle", "Ampulla of the vas", "Prostatic urethra", "Bulbourethral gland"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1736",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminal vesicles contribute around 2/3rds of the total volume of semen. Their ducts join with the vas deferens to form the ejaculatory duct, which drains into the prostatic urethra through the:",
+    "options": ["Prostatic utricle", "Seminal colliculus", "Bulbourethral gland opening", "Membranous urethra", "External urethral orifice"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1737",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland, located around the proximal urethra, produces and secretes an alkaline fluid. Which histological region of the prostate accounts for around 70% of the prostate volume and is the site where prostate cancer typically occurs?",
+    "options": ["Central zone", "Transition zone", "Peripheral zone", "Anterior commissure", "Prostatic urethra"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1738",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of three columns of tissue: two corpora cavernosa and a single corpus spongiosum. The glans penis, forming the distal end of the penis, surrounds which anatomical opening?",
+    "options": ["Urethral meatus", "Seminal colliculus", "Ejaculatory duct", "Bulbourethral gland opening", "Vas deferens opening"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1739",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Male genital reflexes include erection and ejaculation. Penile erection is caused by parasympathetic fibers from the pelvic splanchnic nerves (S2-S4) causing dilatation of the arteries and arterioles of the erectile tissue. Which specific erectile tissue primarily expands during erection?",
+    "options": ["Corpus spongiosum", "Corpora cavernosa", "Bulbus urethrae", "Glans penis", "Prepuce"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1740",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The cremasteric reflex is triggered by stroking the superomedial aspect of the thigh. The normal response is a contraction of the cremaster muscle, pulling up the scrotum and testis. Which nerves are responsible for the afferent and efferent limbs of this reflex arc?",
+    "options": ["Femoral nerve", "Obturator nerve", "Genitofemoral nerve (L1/L2)", "Sciatic nerve", "Pudendal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1741",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic inlet forms the boundary between the abdominal and pelvic cavities. It is defined by the pelvic brim, which is formed by the sacral ala, arcuate line of the ilium, pectineal line of the pubis, and the:",
+    "options": ["Ischial spine", "Obturator foramen", "Pubic crest", "Iliac crest", "Pubic symphysis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1742",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is formed by muscles and connective tissue. Which component of the levator ani forms a sling around the lower part of the rectum, creating a sphincter-like structure?",
+    "options": ["Pubococcygeus", "Iliococcygeus", "Puborectalis", "Coccygeus", "Perineal body"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1743",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. Which branch of the internal iliac artery supplies the gluteus medius, gluteus minimus, and tensor fasciae latae muscles?",
+    "options": ["Inferior gluteal artery", "Superior gluteal artery", "Obturator artery", "Internal pudendal artery", "External iliac artery"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1744",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pudendal nerve (S2-S4) exits the pelvis through the greater sciatic foramen and enters the perineum through the lesser sciatic foramen. It provides innervation to the:",
+    "options": ["Pelvic organs (visceral)", "Muscles and skin of the perineum", "Anterior thigh", "Adductor compartment of thigh", "Gluteal region"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1745",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. The suspensory ligament of the ovary transmits the ovarian artery, ovarian vein, and:",
+    "options": ["Uterine artery", "Internal iliac artery", "Ovarian nerve plexus", "Obturator nerve", "Superior gluteal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1746",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) conduct ovulated oocytes. Which part of the oviduct is the widest and longest, and is the most common site of fertilization?",
+    "options": ["Infundibulum", "Ampulla", "Isthmus", "Uterine part", "Fimbriae"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1747",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vagina is a distensible musculomembranous tube extending between the cervix and the vaginal vestibule. Superiorly, the vagina surrounds the vaginal part of the cervix as the vaginal fornix, which has anterior, lateral, and:",
+    "options": ["Superior parts", "Inferior parts", "Posterior parts", "Medial parts", "Distal parts"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1748",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Which specific ligament supports the cervix and passes from the cervix to the lateral pelvic walls, and within which the uterine arteries pass?",
+    "options": ["Uterosacral ligament", "Pubocervical ligament", "Cardinal (lateral) ligaments", "Round ligament of the uterus", "Broad ligament"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1749",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Lymphatic drainage from the vagina includes drainage to the iliac lymph nodes and which other lymph node group?",
+    "options": ["Para-aortic lymph nodes", "Deep inguinal lymph nodes", "Superficial inguinal lymph nodes", "Mesorectal lymph nodes", "Obturator lymph nodes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1750",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Ovarian cysts can develop. Rupture of hemorrhagic corpus luteum cysts may cause sudden onset pain and signs of peritonitis. Pain from ovarian cyst rupture may occur in the lower abdomen and is typically unilateral and sharp in character due to irritation of the:",
+    "options": ["Visceral peritoneum", "Parietal peritoneum", "Ovary parenchyma", "Uterine wall", "Pelvic floor"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1751",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located outside the pelvic cavity within the scrotum. The dartos muscle, contained within the subcutaneous tissue of the scrotum, helps regulate scrotal temperature by:",
+    "options": ["Increasing blood flow to the testis", "Decreasing blood flow to the testis", "Wrinkling the overlying skin to reduce surface area", "Relaxing the scrotal skin to increase surface area", "Activating sweating glands on the scrotum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1752",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "As the testis descends through the inguinal canal, layers of the anterior abdominal wall are dragged along, creating three layers of fascia surrounding the spermatic cord. Which layer is formed from the internal oblique muscle and aponeurosis?",
+    "options": ["External spermatic fascia", "Cremaster fascia", "Internal spermatic fascia", "Dartos fascia", "Tunica vaginalis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1753",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminiferous tubules within the testis parenchyma are the site of spermatogenesis. These U-shaped structures open at both ends into the rete testis, which ultimately forms small efferent ducts that drain to the head of the:",
+    "options": ["Vas deferens", "Epididymis", "Seminal vesicle", "Prostate gland", "Ejaculatory duct"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1754",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It passes between which two structures before forming the ampulla of the vas?",
+    "options": ["Pubic symphysis and prostate", "Ureter posteriorly and bladder anteriorly", "Rectum and bladder", "Seminal vesicle and ejaculatory duct", "Epididymis and testis"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1755",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland is located around the proximal urethra. Which histological region of the prostate is located anterolateral to the proximal urethra and is the site where benign prostatic hyperplasia (BPH) typically occurs?",
+    "options": ["Central zone", "Peripheral zone", "Transition zone", "Anterior commissure", "Posterior lobe"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1756",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of two corpora cavernosa and a single corpus spongiosum. Which structure contains the urethra?",
+    "options": ["Corpora cavernosa", "Corpus spongiosum", "Glans penis", "Prepuce", "Tunica albuginea"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1757",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "During male ejaculation, which phase is characterized by spermatozoa moving into the prostatic urethra, mediated by sympathetic innervation causing contraction of the vas deferens, seminal vesicles, and prostate smooth muscle?",
+    "options": ["Expulsion", "Emission", "Erection", "Detumescence", "Refractory"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1758",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The lymphatic drainage from the testes follows the testicular arteries and ultimately passes to which lymph node group?",
+    "options": ["Superficial inguinal nodes", "Deep inguinal nodes", "Obturator nodes", "Para-aortic nodes", "External iliac nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1759",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A varicocoele is an abnormal dilatation of the testicular veins of the pampiniform venous plexus. Varicocoeles are more common on the left side due to the angle at which the left testicular vein drains into the:",
+    "options": ["Inferior vena cava", "Superior mesenteric vein", "Left renal vein", "Right renal vein", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1760",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
+    "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1761",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic inlet forms the boundary between the abdominal and pelvic cavities. Its anterior inclination to the horizontal when standing is approximately:",
+    "options": ["10-15°", "30-40°", "50-60°", "70-80°", "90°"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1762",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is formed by muscles and connective tissue. The perineal body is a fibromuscular structure into which many muscles of the perineum, as well as the levator ani, insert. It lies just deep to the skin, between which two anatomical triangles of the perineum?",
+    "options": ["Femoral triangle and obturator triangle", "Ischiorectal triangle and gluteal triangle", "Urogenital triangle and anal triangle", "Popliteal triangle and adductor triangle", "Carotid triangle and posterior triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1763",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. Which branch of the internal iliac artery supplies the obturator externus and adductor compartment of the thigh?",
+    "options": ["Superior gluteal artery", "Inferior gluteal artery", "Obturator artery", "Internal pudendal artery", "Femoral artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1764",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes somatic structures. The pudendal nerve (S2-S4) primarily innervates the muscles and skin of the:",
+    "options": ["Pelvic floor (only)", "Pelvic organs (visceral)", "Anterior thigh", "Perineum", "Gluteal region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1765",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. The ovarian arteries, which supply the ovaries, arise from the abdominal aorta at which vertebral level?",
+    "options": ["T10", "T12", "L1", "L2", "L4"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1766",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) are supplied by both the ovarian and ascending uterine arteries. The uterine part of the oviduct passes through the wall of the uterus to open into the uterine cavity at the:",
+    "options": ["Fimbriae", "Ampulla", "Isthmus", "Uterine ostium", "Fundus"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1767",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vagina is a distensible musculomembranous tube. Its posterior fornix is immediately anterior to which peritoneal pouch?",
+    "options": ["Vesicouterine pouch", "Rectovesical pouch", "Rectouterine pouch of Douglas", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1768",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Uterine prolapse refers to the descent of the uterus towards the external genitalia. For moderate prolapses, what is a common non-surgical treatment?",
+    "options": ["Hysterectomy", "Pelvic floor exercises only", "Insertion of a pessary", "Surgical strengthening of pelvic support structures", "Hormone replacement therapy"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1769",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Endometrial (uterine) cancer is the 4th most common cancer in females and typically affects postmenopausal women. Which of the following is explicitly mentioned as a risk factor for endometrial cancer?",
+    "options": ["Early menopause", "Multiple pregnancies", "Unopposed oestrogen use (e.g., HRT use)", "Low body mass index", "Regular exercise"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1770",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The perineum is a diamond-shaped region inferior to the pelvic outlet and pelvic floor muscles. It is divided into two anatomical triangles: the urogenital triangle and the:",
+    "options": ["Femoral triangle", "Obturator triangle", "Anal triangle", "Ischiorectal triangle", "Gluteal triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1771",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located within the scrotum. The tunica vaginalis is a sac around the testis, covering its anterior, medial, and lateral aspects. This sac is formed from a layer of:",
+    "options": ["Tunica albuginea", "Dartos fascia", "Parietal peritoneum", "Cremasteric fascia", "Internal spermatic fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1772",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains structures surrounded by three fascial layers. Which layer is formed from the internal oblique muscle and aponeurosis?",
+    "options": ["External spermatic fascia", "Cremasteric fascia", "Internal spermatic fascia", "Dartos fascia", "Tunica vaginalis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1773",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The epididymis is a highly coiled structure on the posterior aspect of the testis where sperm mature. The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the:",
+    "options": ["Rete testis", "Seminiferous tubules", "Seminal vesicle", "Ejaculatory duct", "Prostate gland"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1774",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It turns medially to pass between which two structures before passing along the posterior surface of the bladder?",
+    "options": ["Pubic symphysis and prostate", "Ureter posteriorly and bladder anteriorly", "Rectum and bladder", "Seminal vesicle and ejaculatory duct", "Epididymis and testis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1775",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland is located around the proximal urethra. Which histological region of the prostate accounts for around 70% of the prostate volume and is the site where prostate cancer typically occurs?",
+    "options": ["Central zone", "Transition zone", "Peripheral zone", "Anterior commissure", "Prostatic urethra"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1776",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of two corpora cavernosa and a single corpus spongiosum. The glans penis, forming the distal end, surrounds the urinary meatus and is surrounded by the:",
+    "options": ["Deep dorsal vein", "Cavernosal arteries", "Urethra", "Prepuce (foreskin)", "Tunica albuginea"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1777",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Male ejaculation involves two phases: emission and expulsion. Which phase is triggered by somatic pudendal nerve fibers, generating contractions of the striated bulbospongiosus muscle at the base of the penis?",
+    "options": ["Emission", "Erection", "Expulsion", "Detumescence", "Refractory"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1778",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The lymphatic drainage from the scrotum and skin of the perineal region primarily drains to which lymph node group?",
+    "options": ["Deep inguinal nodes", "Obturator nodes", "Superficial inguinal nodes", "External iliac nodes", "Internal iliac nodes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1779",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A varicocoele is an abnormal dilatation of the testicular veins of the pampiniform venous plexus. Varicocoeles are more common on the left side due to the angle at which the left testicular vein drains into the:",
+    "options": ["Inferior vena cava", "Superior mesenteric vein", "Left renal vein", "Right renal vein", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1780",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
+    "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1781",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic inlet forms the boundary between the abdominal and pelvic cavities. Its anterior inclination to the horizontal when standing is approximately:",
+    "options": ["10-15°", "30-40°", "50-60°", "70-80°", "90°"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1782",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is formed by muscles and connective tissue. The perineal body is a fibromuscular structure into which many muscles of the perineum, as well as the levator ani, insert. It lies just deep to the skin, between which two anatomical triangles of the perineum?",
+    "options": ["Femoral triangle and obturator triangle", "Ischiorectal triangle and gluteal triangle", "Urogenital triangle and anal triangle", "Popliteal triangle and adductor triangle", "Carotid triangle and posterior triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1783",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. Which branch of the internal iliac artery supplies the obturator externus and adductor compartment of the thigh?",
+    "options": ["Superior gluteal artery", "Inferior gluteal artery", "Obturator artery", "Internal pudendal artery", "Femoral artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1784",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes somatic structures. The pudendal nerve (S2-S4) primarily innervates the muscles and skin of the:",
+    "options": ["Pelvic floor (only)", "Pelvic organs (visceral)", "Anterior thigh", "Perineum", "Gluteal region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1785",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. The ovarian arteries, which supply the ovaries, arise from the abdominal aorta at which vertebral level?",
+    "options": ["T10", "T12", "L1", "L2", "L4"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1786",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) are supplied by both the ovarian and ascending uterine arteries. The uterine part of the oviduct passes through the wall of the uterus to open into the uterine cavity at the:",
+    "options": ["Fimbriae", "Ampulla", "Isthmus", "Uterine ostium", "Fundus"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1787",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vagina is a distensible musculomembranous tube. Its posterior fornix is immediately anterior to which peritoneal pouch?",
+    "options": ["Vesicouterine pouch", "Rectovesical pouch", "Rectouterine pouch of Douglas", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1788",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Uterine prolapse refers to the descent of the uterus towards the external genitalia. For moderate prolapses, what is a common non-surgical treatment?",
+    "options": ["Hysterectomy", "Pelvic floor exercises only", "Insertion of a pessary", "Surgical strengthening of pelvic support structures", "Hormone replacement therapy"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1789",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Endometrial (uterine) cancer is the 4th most common cancer in females and typically affects postmenopausal women. Which of the following is explicitly mentioned as a risk factor for endometrial cancer?",
+    "options": ["Early menopause", "Multiple pregnancies", "Unopposed oestrogen use (e.g., HRT use)", "Low body mass index", "Regular exercise"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1790",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The perineum is a diamond-shaped region inferior to the pelvic outlet and pelvic floor muscles. It is divided into two anatomical triangles: the urogenital triangle and the:",
+    "options": ["Femoral triangle", "Obturator triangle", "Anal triangle", "Ischiorectal triangle", "Gluteal triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1791",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located within the scrotum. The tunica vaginalis is a sac around the testis, covering its anterior, medial, and lateral aspects. This sac is formed from a layer of:",
+    "options": ["Tunica albuginea", "Dartos fascia", "Parietal peritoneum", "Cremasteric fascia", "Internal spermatic fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1792",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains structures surrounded by three fascial layers. Which layer is formed from the internal oblique muscle and aponeurosis?",
+    "options": ["External spermatic fascia", "Cremasteric fascia", "Internal spermatic fascia", "Dartos fascia", "Tunica vaginalis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1793",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The epididymis is a highly coiled structure on the posterior aspect of the testis where sperm mature. The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the:",
+    "options": ["Rete testis", "Seminiferous tubules", "Seminal vesicle", "Ejaculatory duct", "Prostate gland"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1794",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It turns medially to pass between which two structures before passing along the posterior surface of the bladder?",
+    "options": ["Pubic symphysis and prostate", "Ureter posteriorly and bladder anteriorly", "Rectum and bladder", "Seminal vesicle and ejaculatory duct", "Epididymis and testis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1795",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland is located around the proximal urethra. Which histological region of the prostate accounts for around 70% of the prostate volume and is the site where prostate cancer typically occurs?",
+    "options": ["Central zone", "Transition zone", "Peripheral zone", "Anterior commissure", "Prostatic urethra"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1796",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of two corpora cavernosa and a single corpus spongiosum. The glans penis, forming the distal end, surrounds the urinary meatus and is surrounded by the:",
+    "options": ["Deep dorsal vein", "Cavernosal arteries", "Urethra", "Prepuce (foreskin)", "Tunica albuginea"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1797",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Male ejaculation involves two phases: emission and expulsion. Which phase is triggered by somatic pudendal nerve fibers, generating contractions of the striated bulbospongiosus muscle at the base of the penis?",
+    "options": ["Emission", "Erection", "Expulsion", "Detumescence", "Refractory"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1798",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The lymphatic drainage from the scrotum and skin of the perineal region primarily drains to which lymph node group?",
+    "options": ["Deep inguinal nodes", "Obturator nodes", "Superficial inguinal nodes", "External iliac nodes", "Internal iliac nodes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1799",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A varicocoele is an abnormal dilatation of the testicular veins of the pampiniform venous plexus. Varicocoeles are more common on the left side due to the angle at which the left testicular vein drains into the:",
+    "options": ["Inferior vena cava", "Superior mesenteric vein", "Left renal vein", "Right renal vein", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1800",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
+    "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1801",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The skeletal and ligamentous components of the pelvis show sexual differences. Which of the following is a characteristic of the female bony pelvis compared to the male pelvis?",
+    "options": ["Thicker and heavier bones", "Heart-shaped pelvic inlet", "Pubic angle less than 70°", "Pelvic outlet is rounded and larger", "Pelvic cavity is narrow and deep"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1802",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is a funnel-shaped diaphragm of muscle and connective tissue. It functions to support the overlying pelvic viscera. Which of the following is a muscle component of the levator ani group that forms the pelvic floor?",
+    "options": ["Piriformis", "Obturator internus", "Pubococcygeus", "Psoas major", "Quadratus lumborum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1803",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The origin and distribution of arterial supply to the pelvic organs primarily stem from which major artery?",
+    "options": ["External iliac artery", "Femoral artery", "Abdominal aorta", "Internal iliac artery", "Obturator artery"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1804",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes somatic structures. The pudendal nerve (S2-S4) primarily innervates the muscles and skin of the:",
+    "options": ["Pelvic floor (only)", "Pelvic organs (visceral)", "Anterior thigh", "Perineum", "Gluteal region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1805",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. Each ovary is attached to the broad ligament of the uterus by the mesovarium and is suspended within the peritoneal cavity by the suspensory ligament of the ovary. This ligament transmits which artery and vein?",
+    "options": ["Uterine artery and vein", "Internal iliac artery and vein", "Ovarian artery and vein", "External iliac artery and vein", "Pudendal artery and vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1806",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (uterine tubes) conduct ovulated oocytes from the peritoneal cavity to the uterine cavity. The fimbriae are finger-like projections at the end of which part of the oviduct, which collects the ovulated oocyte?",
+    "options": ["Ampulla", "Isthmus", "Infundibulum", "Uterine part", "Mesosalpinx"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1807",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The non-pregnant uterus normally lies within the pelvic cavity, with its body lying on the posterior wall of the bladder. The cylindrical inferior part of the uterus, which protrudes into the vagina, is called the:",
+    "options": ["Fundus", "Body", "Cervix", "Isthmus", "Vaginal fornix"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1808",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A retroverted uterus is one that is posteriorly tilted. In which percentage of females is a retroverted uterus typically observed?",
+    "options": ["Approximately 5%", "Approximately 10%", "Approximately 20%", "Approximately 30%", "Approximately 50%"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1809",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The uterus is supplied by the uterine artery, which arises from the internal iliac artery. This artery passes across the anterior aspect of which structure to reach the lateral walls of the uterus via the cardinal ligament?",
+    "options": ["Ovary", "Uterine tube", "Vagina", "Ureter", "Rectum"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1810",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Lymphatic drainage of the body and cervix of the uterus primarily drains to which lymph node group?",
+    "options": ["Para-aortic lymph nodes", "Superficial inguinal lymph nodes", "Deep inguinal lymph nodes", "Internal iliac lymph nodes", "Obturator lymph nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1811",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located within the scrotum. The deep cremaster muscle spirals around the spermatic cord and can raise and lower the testis within the scrotum to control its temperature. The cremaster reflex is elicited by touching the medial aspect of the:",
+    "options": ["Scrotum", "Abdomen", "Thigh", "Groin", "Perineum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1812",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Which of the following layers of fascia surrounding the spermatic cord is formed from the external oblique aponeurosis as the testis descends?",
+    "options": ["Dartos fascia", "Cremasteric fascia", "Internal spermatic fascia", "External spermatic fascia", "Tunica vaginalis"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1813",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains various structures. Which artery within the spermatic cord originates from the abdominal aorta?",
+    "options": ["Artery to vas deferens", "Cremasteric artery", "Testicular artery", "Inferior epigastric artery", "External iliac artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1814",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminiferous tubules within the testis parenchyma are the site of spermatogenesis. These tubules open into the rete testis, which ultimately forms small efferent ducts that drain to the head of the:",
+    "options": ["Vas deferens", "Epididymis", "Seminal vesicle", "Prostate gland", "Ejaculatory duct"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1815",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. At its distal end, before joining the ejaculatory duct, the vas deferens expands to form the:",
+    "options": ["Epididymis head", "Seminal vesicle", "Ampulla of the vas", "Prostatic urethra", "Bulbourethral gland"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1816",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminal vesicles contribute around 2/3rds of the total volume of semen. Their ducts join with the vas deferens to form the ejaculatory duct, which drains into the prostatic urethra through the:",
+    "options": ["Prostatic utricle", "Seminal colliculus", "Bulbourethral gland opening", "Membranous urethra", "External urethral orifice"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1817",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland, located around the proximal urethra, produces and secretes an alkaline fluid. Which histological region of the prostate accounts for around 70% of the prostate volume and is the site where prostate cancer typically occurs?",
+    "options": ["Central zone", "Transition zone", "Peripheral zone", "Anterior commissure", "Prostatic urethra"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1818",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of three columns of tissue: two corpora cavernosa and a single corpus spongiosum. The glans penis, forming the distal end of the penis, surrounds which anatomical opening?",
+    "options": ["Urethral meatus", "Seminal colliculus", "Ejaculatory duct", "Bulbourethral gland opening", "Vas deferens opening"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1819",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Male genital reflexes include erection and ejaculation. Penile erection is caused by parasympathetic fibers from the pelvic splanchnic nerves (S2-S4) causing dilatation of the arteries and arterioles of the erectile tissue. Which specific erectile tissue primarily expands during erection?",
+    "options": ["Corpus spongiosum", "Corpora cavernosa", "Bulbus urethrae", "Glans penis", "Prepuce"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1820",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The cremasteric reflex is triggered by stroking the superomedial aspect of the thigh. The normal response is a contraction of the cremaster muscle, pulling up the scrotum and testis. Which nerves are responsible for the afferent and efferent limbs of this reflex arc?",
+    "options": ["Femoral nerve", "Obturator nerve", "Genitofemoral nerve (L1/L2)", "Sciatic nerve", "Pudendal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1821",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic inlet forms the boundary between the abdominal and pelvic cavities. It is defined by the pelvic brim, which is formed by the sacral ala, arcuate line of the ilium, pectineal line of the pubis, and the:",
+    "options": ["Ischial spine", "Obturator foramen", "Pubic crest", "Iliac crest", "Pubic symphysis"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1822",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is formed by muscles and connective tissue. Which component of the levator ani forms a sling around the lower part of the rectum, creating a sphincter-like structure?",
+    "options": ["Pubococcygeus", "Iliococcygeus", "Puborectalis", "Coccygeus", "Perineal body"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1823",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. Which branch of the internal iliac artery supplies the gluteus medius, gluteus minimus, and tensor fasciae latae muscles?",
+    "options": ["Inferior gluteal artery", "Superior gluteal artery", "Obturator artery", "Internal pudendal artery", "External iliac artery"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1824",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pudendal nerve (S2-S4) exits the pelvis through the greater sciatic foramen and enters the perineum through the lesser sciatic foramen. It provides innervation to the:",
+    "options": ["Pelvic organs (visceral)", "Muscles and skin of the perineum", "Anterior thigh", "Adductor compartment of thigh", "Gluteal region"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1825",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. The suspensory ligament of the ovary transmits the ovarian artery, ovarian vein, and:",
+    "options": ["Uterine artery", "Internal iliac artery", "Ovarian nerve plexus", "Obturator nerve", "Superior gluteal nerve"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1826",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) extend to the uterine horns. The part of the oviduct that opens into the uterine cavity at the uterine ostium is the:",
+    "options": ["Infundibulum", "Ampulla", "Isthmus", "Uterine part", "Fimbriae"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1827",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vagina is a distensible musculomembranous tube extending between the cervix and the vaginal vestibule. Superiorly, the vagina surrounds the vaginal part of the cervix as the vaginal fornix, which has anterior, lateral, and:",
+    "options": ["Superior parts", "Inferior parts", "Posterior parts", "Medial parts", "Distal parts"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1828",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Which specific ligament supports the cervix and passes from the cervix to the lateral pelvic walls, and within which the uterine arteries pass?",
+    "options": ["Uterosacral ligament", "Pubocervical ligament", "Cardinal (lateral) ligaments", "Round ligament of the uterus", "Broad ligament"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1829",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Lymphatic drainage from the vagina includes drainage to the iliac lymph nodes and which other lymph node group?",
+    "options": ["Para-aortic lymph nodes", "Deep inguinal lymph nodes", "Superficial inguinal lymph nodes", "Mesorectal lymph nodes", "Obturator lymph nodes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1830",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Ovarian cysts can develop. Rupture of hemorrhagic corpus luteum cysts may cause sudden onset pain and signs of peritonitis. Pain from ovarian cyst rupture may occur in the lower abdomen and is typically unilateral and sharp in character due to irritation of the:",
+    "options": ["Visceral peritoneum", "Parietal peritoneum", "Ovary parenchyma", "Uterine wall", "Pelvic floor"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1831",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located outside the pelvic cavity within the scrotum. The dartos muscle, contained within the subcutaneous tissue of the scrotum, helps regulate scrotal temperature by:",
+    "options": ["Increasing blood flow to the testis", "Decreasing blood flow to the testis", "Wrinkling the overlying skin to reduce surface area", "Relaxing the scrotal skin to increase surface area", "Activating sweating glands on the scrotum"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1832",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "As the testis descends through the inguinal canal, layers of the anterior abdominal wall are dragged along, creating three layers of fascia surrounding the spermatic cord. Which layer is formed from the internal oblique muscle and aponeurosis?",
+    "options": ["External spermatic fascia", "Cremaster fascia", "Internal spermatic fascia", "Dartos fascia", "Tunica vaginalis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1833",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The seminiferous tubules within the testis parenchyma are the site of spermatogenesis. These U-shaped structures open at both ends into the rete testis, which ultimately forms small efferent ducts that drain to the head of the:",
+    "options": ["Vas deferens", "Epididymis", "Seminal vesicle", "Prostate gland", "Ejaculatory duct"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1834",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It passes between which two structures before forming the ampulla of the vas?",
+    "options": ["Pubic symphysis and prostate", "Ureter posteriorly and bladder anteriorly", "Rectum and bladder", "Seminal vesicle and ejaculatory duct", "Epididymis and testis"],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1835",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland is located around the proximal urethra. Which histological region of the prostate is located anterolateral to the proximal urethra and is the site where benign prostatic hyperplasia (BPH) typically occurs?",
+    "options": ["Central zone", "Peripheral zone", "Transition zone", "Anterior commissure", "Posterior lobe"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1836",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of two corpora cavernosa and a single corpus spongiosum. Which structure contains the urethra?",
+    "options": ["Corpora cavernosa", "Corpus spongiosum", "Glans penis", "Prepuce", "Tunica albuginea"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1837",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "During male ejaculation, which phase is characterized by spermatozoa moving into the prostatic urethra, mediated by sympathetic innervation causing contraction of the vas deferens, seminal vesicles, and prostate smooth muscle?",
+    "options": ["Expulsion", "Emission", "Erection", "Detumescence", "Refractory"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1838",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The lymphatic drainage from the testes follows the testicular arteries and ultimately passes to which lymph node group?",
+    "options": ["Superficial inguinal nodes", "Deep inguinal nodes", "Obturator nodes", "Para-aortic nodes", "External iliac nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1839",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A varicocoele is an abnormal dilatation of the testicular veins of the pampiniform venous plexus. Varicocoeles are more common on the left side due to the angle at which the left testicular vein drains into the:",
+    "options": ["Inferior vena cava", "Superior mesenteric vein", "Left renal vein", "Right renal vein", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1840",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
+    "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1841",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic inlet forms the boundary between the abdominal and pelvic cavities. Its anterior inclination to the horizontal when standing is approximately:",
+    "options": ["10-15°", "30-40°", "50-60°", "70-80°", "90°"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1842",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is formed by muscles and connective tissue. The perineal body is a fibromuscular structure into which many muscles of the perineum, as well as the levator ani, insert. It lies just deep to the skin, between which two anatomical triangles of the perineum?",
+    "options": ["Femoral triangle and obturator triangle", "Ischiorectal triangle and gluteal triangle", "Urogenital triangle and anal triangle", "Popliteal triangle and adductor triangle", "Carotid triangle and posterior triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1843",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. Which branch of the internal iliac artery supplies the obturator externus and adductor compartment of the thigh?",
+    "options": ["Superior gluteal artery", "Inferior gluteal artery", "Obturator artery", "Internal pudendal artery", "Femoral artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1844",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes somatic structures. The pudendal nerve (S2-S4) primarily innervates the muscles and skin of the:",
+    "options": ["Pelvic floor (only)", "Pelvic organs (visceral)", "Anterior thigh", "Perineum", "Gluteal region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1845",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. The ovarian arteries, which supply the ovaries, arise from the abdominal aorta at which vertebral level?",
+    "options": ["T10", "T12", "L1", "L2", "L4"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1846",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) are supplied by both the ovarian and ascending uterine arteries. The uterine part of the oviduct passes through the wall of the uterus to open into the uterine cavity at the:",
+    "options": ["Fimbriae", "Ampulla", "Isthmus", "Uterine ostium", "Fundus"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1847",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vagina is a distensible musculomembranous tube. Its posterior fornix is immediately anterior to which peritoneal pouch?",
+    "options": ["Vesicouterine pouch", "Rectovesical pouch", "Rectouterine pouch of Douglas", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1848",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Uterine prolapse refers to the descent of the uterus towards the external genitalia. For moderate prolapses, what is a common non-surgical treatment?",
+    "options": ["Hysterectomy", "Pelvic floor exercises only", "Insertion of a pessary", "Surgical strengthening of pelvic support structures", "Hormone replacement therapy"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1849",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Endometrial (uterine) cancer is the 4th most common cancer in females and typically affects postmenopausal women. Which of the following is explicitly mentioned as a risk factor for endometrial cancer?",
+    "options": ["Early menopause", "Multiple pregnancies", "Unopposed oestrogen use (e.g., HRT use)", "Low body mass index", "Regular exercise"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1850",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The perineum is a diamond-shaped region inferior to the pelvic outlet and pelvic floor muscles. It is divided into two anatomical triangles: the urogenital triangle and the:",
+    "options": ["Femoral triangle", "Obturator triangle", "Anal triangle", "Ischiorectal triangle", "Gluteal triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1851",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located within the scrotum. The tunica vaginalis is a sac around the testis, covering its anterior, medial, and lateral aspects. This sac is formed from a layer of:",
+    "options": ["Tunica albuginea", "Dartos fascia", "Parietal peritoneum", "Cremasteric fascia", "Internal spermatic fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1852",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains structures surrounded by three fascial layers. Which layer is formed from the internal oblique muscle and aponeurosis?",
+    "options": ["External spermatic fascia", "Cremasteric fascia", "Internal spermatic fascia", "Dartos fascia", "Tunica vaginalis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1853",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The epididymis is a highly coiled structure on the posterior aspect of the testis where sperm mature. The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the:",
+    "options": ["Rete testis", "Seminiferous tubules", "Seminal vesicle", "Ejaculatory duct", "Prostate gland"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1854",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It turns medially to pass between which two structures before passing along the posterior surface of the bladder?",
+    "options": ["Pubic symphysis and prostate", "Ureter posteriorly and bladder anteriorly", "Rectum and bladder", "Seminal vesicle and ejaculatory duct", "Epididymis and testis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1855",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland is located around the proximal urethra. Which histological region of the prostate is located anterolateral to the proximal urethra and is the site where benign prostatic hyperplasia (BPH) typically occurs?",
+    "options": ["Central zone", "Peripheral zone", "Transition zone", "Anterior commissure", "Posterior lobe"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1856",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of two corpora cavernosa and a single corpus spongiosum. Which structure contains the urethra?",
+    "options": ["Corpora cavernosa", "Corpus spongiosum", "Glans penis", "Prepuce", "Tunica albuginea"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1857",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "During male ejaculation, which phase is characterized by spermatozoa moving into the prostatic urethra, mediated by sympathetic innervation causing contraction of the vas deferens, seminal vesicles, and prostate smooth muscle?",
+    "options": ["Expulsion", "Emission", "Erection", "Detumescence", "Refractory"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1858",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The lymphatic drainage from the testes follows the testicular arteries and ultimately passes to which lymph node group?",
+    "options": ["Superficial inguinal nodes", "Deep inguinal nodes", "Obturator nodes", "Para-aortic nodes", "External iliac nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1859",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A varicocoele is an abnormal dilatation of the testicular veins of the pampiniform venous plexus. Varicocoeles are more common on the left side due to the angle at which the left testicular vein drains into the:",
+    "options": ["Inferior vena cava", "Superior mesenteric vein", "Left renal vein", "Right renal vein", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1860",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
+    "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1861",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic inlet forms the boundary between the abdominal and pelvic cavities. Its anterior inclination to the horizontal when standing is approximately:",
+    "options": ["10-15°", "30-40°", "50-60°", "70-80°", "90°"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1862",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is formed by muscles and connective tissue. The perineal body is a fibromuscular structure into which many muscles of the perineum, as well as the levator ani, insert. It lies just deep to the skin, between which two anatomical triangles of the perineum?",
+    "options": ["Femoral triangle and obturator triangle", "Ischiorectal triangle and gluteal triangle", "Urogenital triangle and anal triangle", "Popliteal triangle and adductor triangle", "Carotid triangle and posterior triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1863",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. Which branch of the internal iliac artery supplies the obturator externus and adductor compartment of the thigh?",
+    "options": ["Superior gluteal artery", "Inferior gluteal artery", "Obturator artery", "Internal pudendal artery", "Femoral artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1864",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes somatic structures. The pudendal nerve (S2-S4) primarily innervates the muscles and skin of the:",
+    "options": ["Pelvic floor (only)", "Pelvic organs (visceral)", "Anterior thigh", "Perineum", "Gluteal region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1865",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. The ovarian arteries, which supply the ovaries, arise from the abdominal aorta at which vertebral level?",
+    "options": ["T10", "T12", "L1", "L2", "L4"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1866",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) are supplied by both the ovarian and ascending uterine arteries. The uterine part of the oviduct passes through the wall of the uterus to open into the uterine cavity at the:",
+    "options": ["Fimbriae", "Ampulla", "Isthmus", "Uterine ostium", "Fundus"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1867",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vagina is a distensible musculomembranous tube. Its posterior fornix is immediately anterior to which peritoneal pouch?",
+    "options": ["Vesicouterine pouch", "Rectovesical pouch", "Rectouterine pouch of Douglas", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1868",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Uterine prolapse refers to the descent of the uterus towards the external genitalia. For moderate prolapses, what is a common non-surgical treatment?",
+    "options": ["Hysterectomy", "Pelvic floor exercises only", "Insertion of a pessary", "Surgical strengthening of pelvic support structures", "Hormone replacement therapy"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1869",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Endometrial (uterine) cancer is the 4th most common cancer in females and typically affects postmenopausal women. Which of the following is explicitly mentioned as a risk factor for endometrial cancer?",
+    "options": ["Early menopause", "Multiple pregnancies", "Unopposed oestrogen use (e.g., HRT use)", "Low body mass index", "Regular exercise"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1870",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The perineum is a diamond-shaped region inferior to the pelvic outlet and pelvic floor muscles. It is divided into two anatomical triangles: the urogenital triangle and the:",
+    "options": ["Femoral triangle", "Obturator triangle", "Anal triangle", "Ischiorectal triangle", "Gluteal triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1871",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located within the scrotum. The tunica vaginalis is a sac around the testis, covering its anterior, medial, and lateral aspects. This sac is formed from a layer of:",
+    "options": ["Tunica albuginea", "Dartos fascia", "Parietal peritoneum", "Cremasteric fascia", "Internal spermatic fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1872",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains structures surrounded by three fascial layers. Which layer is formed from the internal oblique muscle and aponeurosis?",
+    "options": ["External spermatic fascia", "Cremasteric fascia", "Internal spermatic fascia", "Dartos fascia", "Tunica vaginalis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1873",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The epididymis is a highly coiled structure on the posterior aspect of the testis where sperm mature. The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the:",
+    "options": ["Rete testis", "Seminiferous tubules", "Seminal vesicle", "Ejaculatory duct", "Prostate gland"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1874",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It turns medially to pass between which two structures before passing along the posterior surface of the bladder?",
+    "options": ["Pubic symphysis and prostate", "Ureter posteriorly and bladder anteriorly", "Rectum and bladder", "Seminal vesicle and ejaculatory duct", "Epididymis and testis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1875",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland is located around the proximal urethra. Which histological region of the prostate accounts for around 70% of the prostate volume and is the site where prostate cancer typically occurs?",
+    "options": ["Central zone", "Transition zone", "Peripheral zone", "Anterior commissure", "Prostatic urethra"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1876",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of two corpora cavernosa and a single corpus spongiosum. The glans penis, forming the distal end, surrounds the urinary meatus and is surrounded by the:",
+    "options": ["Deep dorsal vein", "Cavernosal arteries", "Urethra", "Prepuce (foreskin)", "Tunica albuginea"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1877",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Male ejaculation involves two phases: emission and expulsion. Which phase is triggered by somatic pudendal nerve fibers, generating contractions of the striated bulbospongiosus muscle at the base of the penis?",
+    "options": ["Emission", "Erection", "Expulsion", "Detumescence", "Refractory"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1878",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The lymphatic drainage from the scrotum and skin of the perineal region primarily drains to which lymph node group?",
+    "options": ["Deep inguinal nodes", "Obturator nodes", "Superficial inguinal nodes", "External iliac nodes", "Internal iliac nodes"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1879",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A varicocoele is an abnormal dilatation of the testicular veins of the pampiniform venous plexus. Varicocoeles are more common on the left side due to the angle at which the left testicular vein drains into the:",
+    "options": ["Inferior vena cava", "Superior mesenteric vein", "Left renal vein", "Right renal vein", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1880",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
+    "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1881",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The skeletal and ligamentous components of the pelvis show sexual differences. Which of the following is a characteristic of the female bony pelvis compared to the male pelvis?",
+    "options": ["Thicker and heavier bones", "Heart-shaped pelvic inlet", "Pubic angle less than 70°", "Pelvic outlet is rounded and larger", "Pelvic cavity is narrow and deep"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1882",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The pelvic floor is formed by muscles and connective tissue. The perineal body is a fibromuscular structure into which many muscles of the perineum, as well as the levator ani, insert. It lies just deep to the skin, between which two anatomical triangles of the perineum?",
+    "options": ["Femoral triangle and obturator triangle", "Ischiorectal triangle and gluteal triangle", "Urogenital triangle and anal triangle", "Popliteal triangle and adductor triangle", "Carotid triangle and posterior triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1883",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The arterial supply to the pelvic organs primarily originates from the internal iliac artery. Which branch of the internal iliac artery supplies the obturator externus and adductor compartment of the thigh?",
+    "options": ["Superior gluteal artery", "Inferior gluteal artery", "Obturator artery", "Internal pudendal artery", "Femoral artery"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1884",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The nerve supply to the pelvic organs includes somatic structures. The pudendal nerve (S2-S4) primarily innervates the muscles and skin of the:",
+    "options": ["Pelvic floor (only)", "Pelvic organs (visceral)", "Anterior thigh", "Perineum", "Gluteal region"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1885",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The ovaries are intra-peritoneal female gonads. The ovarian arteries, which supply the ovaries, arise from the abdominal aorta at which vertebral level?",
+    "options": ["T10", "T12", "L1", "L2", "L4"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1886",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The oviducts (fallopian tubes) are supplied by both the ovarian and ascending uterine arteries. The uterine part of the oviduct passes through the wall of the uterus to open into the uterine cavity at the:",
+    "options": ["Fimbriae", "Ampulla", "Isthmus", "Uterine ostium", "Fundus"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1887",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vagina is a distensible musculomembranous tube. Its posterior fornix is immediately anterior to which peritoneal pouch?",
+    "options": ["Vesicouterine pouch", "Rectovesical pouch", "Rectouterine pouch of Douglas", "Peritoneal recess", "Urogenital triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1888",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Uterine prolapse refers to the descent of the uterus towards the external genitalia. For moderate prolapses, what is a common non-surgical treatment?",
+    "options": ["Hysterectomy", "Pelvic floor exercises only", "Insertion of a pessary", "Surgical strengthening of pelvic support structures", "Hormone replacement therapy"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1889",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Endometrial (uterine) cancer is the 4th most common cancer in females and typically affects postmenopausal women. Which of the following is explicitly mentioned as a risk factor for endometrial cancer?",
+    "options": ["Early menopause", "Multiple pregnancies", "Unopposed oestrogen use (e.g., HRT use)", "Low body mass index", "Regular exercise"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1890",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The perineum is a diamond-shaped region inferior to the pelvic outlet and pelvic floor muscles. It is divided into two anatomical triangles: the urogenital triangle and the:",
+    "options": ["Femoral triangle", "Obturator triangle", "Anal triangle", "Ischiorectal triangle", "Gluteal triangle"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1891",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The testis is located within the scrotum. The tunica vaginalis is a sac around the testis, covering its anterior, medial, and lateral aspects. This sac is formed from a layer of:",
+    "options": ["Tunica albuginea", "Dartos fascia", "Parietal peritoneum", "Cremasteric fascia", "Internal spermatic fascia"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1892",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The spermatic cord contains structures surrounded by three fascial layers. Which layer is formed from the internal oblique muscle and aponeurosis?",
+    "options": ["External spermatic fascia", "Cremasteric fascia", "Internal spermatic fascia", "Dartos fascia", "Tunica vaginalis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1893",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The epididymis is a highly coiled structure on the posterior aspect of the testis where sperm mature. The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the:",
+    "options": ["Rete testis", "Seminiferous tubules", "Seminal vesicle", "Ejaculatory duct", "Prostate gland"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1894",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The vas deferens is a muscular tube that conducts mature spermatozoa from the tail of the epididymis to the ejaculatory duct. It turns medially to pass between which two structures before passing along the posterior surface of the bladder?",
+    "options": ["Pubic symphysis and prostate", "Ureter posteriorly and bladder anteriorly", "Rectum and bladder", "Seminal vesicle and ejaculatory duct", "Epididymis and testis"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1895",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The prostate gland is located around the proximal urethra. Which histological region of the prostate is located anterolateral to the proximal urethra and is the site where benign prostatic hyperplasia (BPH) typically occurs?",
+    "options": ["Central zone", "Peripheral zone", "Transition zone", "Anterior commissure", "Posterior lobe"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1896",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The penis is made up of two corpora cavernosa and a single corpus spongiosum. Which structure contains the urethra?",
+    "options": ["Corpora cavernosa", "Corpus spongiosum", "Glans penis", "Prepuce", "Tunica albuginea"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1897",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "During male ejaculation, which phase is characterized by spermatozoa moving into the prostatic urethra, mediated by sympathetic innervation causing contraction of the vas deferens, seminal vesicles, and prostate smooth muscle?",
+    "options": ["Expulsion", "Emission", "Erection", "Detumescence", "Refractory"],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1898",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "The lymphatic drainage from the testes follows the testicular arteries and ultimately passes to which lymph node group?",
+    "options": ["Superficial inguinal nodes", "Deep inguinal nodes", "Obturator nodes", "Para-aortic nodes", "External iliac nodes"],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1899",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "A varicocoele is an abnormal dilatation of the testicular veins of the pampiniform venous plexus. Varicocoeles are more common on the left side due to the angle at which the left testicular vein drains into the:",
+    "options": ["Inferior vena cava", "Superior mesenteric vein", "Left renal vein", "Right renal vein", "Splenic vein"],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1900",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "question": "Testicular torsion is a medical emergency where the blood supply to the testis becomes compromised if the spermatic cord twists within the tunica vaginalis. Which of the following is a classic symptom of testicular torsion?",
+    "options": ["Painless scrotal mass", "Gradual onset scrotal swelling", "Acute scrotal pain and swelling, nausea, and vomiting", "Scrotal redness only", "Hydrocoele formation"],
+    "correct_answer_index": 2
   }
 ]
