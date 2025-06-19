@@ -1,0 +1,5840 @@
+[
+  {
+    "id": "q1901",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page02_image1.png",
+    "question": "In the provided axial CT image of the upper thorax, what bone is indicated by the number 1?",
+    "options": [
+      "Scapula",
+      "Sternum",
+      "Clavicle",
+      "Rib",
+      "Humerus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1902",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page02_image1.png",
+    "question": "Referring to the axial CT image, which vertebral body is indicated by the number 2?",
+    "options": [
+      "C7 vertebra",
+      "T1 vertebra",
+      "T2 vertebra",
+      "T3 vertebra",
+      "T4 vertebra"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1903",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page02_image1.png",
+    "question": "The structure indicated by the number 3 in this axial CT scan is the uppermost portion of the lung. What is it called?",
+    "options": [
+      "Apex of lung",
+      "Base of lung",
+      "Hilum of lung",
+      "Lingula",
+      "Carina"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1904",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page02_image1.png",
+    "question": "In this axial CT image at the level of T2, what is the airway structure indicated by the number 4?",
+    "options": [
+      "Oesophagus",
+      "Trachea",
+      "Main bronchus",
+      "Larynx",
+      "Epiglottis"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1905",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page02_image1.png",
+    "question": "Identify the structure posterior to the trachea, indicated by the number 5.",
+    "options": [
+      "Aorta",
+      "Spinal cord",
+      "Thyroid gland",
+      "Oesophagus",
+      "Vagus nerve"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1906",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page02_image1.png",
+    "question": "The endocrine gland situated anterior to the trachea in the neck, indicated by number 6, is the:",
+    "options": [
+      "Thymus gland",
+      "Parotid gland",
+      "Submandibular gland",
+      "Pituitary gland",
+      "Thyroid gland"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1907",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page02_image1.png",
+    "question": "What major blood vessels, passing over the apex of the lung, are indicated by the number 7?",
+    "options": [
+      "Vertebral vessels",
+      "Common carotid arteries",
+      "Internal jugular veins",
+      "Subclavian vessels",
+      "Brachiocephalic vessels"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1908",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page02_image1.png",
+    "question": "The vessels indicated by the number 8, running alongside the trachea, are the:",
+    "options": [
+      "Subclavian arteries",
+      "Internal jugular veins",
+      "Vertebral arteries",
+      "Common carotid arteries",
+      "External carotid arteries"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1909",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page02_image1.png",
+    "question": "Identify the large veins lateral to the common carotid arteries, indicated by the number 9.",
+    "options": [
+      "Subclavian veins",
+      "Internal jugular veins",
+      "External jugular veins",
+      "Brachiocephalic veins",
+      "Vertebral veins"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1910",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page02_image2.png",
+    "question": "What is the most anterior bone of the thorax, indicated by the number 1 in this CT scan?",
+    "options": [
+      "Clavicle",
+      "Sternum",
+      "Scapula",
+      "Rib",
+      "Vertebra"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1911",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page02_image2.png",
+    "question": "In this axial CT image at the level of T3, what is the structure indicated by the number 2?",
+    "options": [
+      "Oesophagus",
+      "Aorta",
+      "Trachea",
+      "Superior vena cava",
+      "Left main bronchus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1912",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page02_image2.png",
+    "question": "What is the digestive tract structure indicated by the number 3, located posterior to the trachea?",
+    "options": [
+      "Stomach",
+      "Oesophagus",
+      "Duodenum",
+      "Colon",
+      "Jejunum"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1913",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page02_image2.png",
+    "question": "Identify the large vein to the right of the trachea, indicated by the number 4.",
+    "options": [
+      "Azygos vein",
+      "Inferior vena cava",
+      "Left brachiocephalic vein",
+      "Superior vena cava",
+      "Right subclavian vein"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1914",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page02_image2.png",
+    "question": "The first branch of the aortic arch, indicated by the number 5, is the:",
+    "options": [
+      "Left common carotid artery",
+      "Left subclavian artery",
+      "Brachiocephalic artery",
+      "Right coronary artery",
+      "Right subclavian artery"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1915",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page02_image2.png",
+    "question": "What artery, branching from the aortic arch, is indicated by the number 6?",
+    "options": [
+      "Right common carotid artery",
+      "Left common carotid artery",
+      "Left subclavian artery",
+      "Brachiocephalic artery",
+      "Vertebral artery"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1916",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page02_image2.png",
+    "question": "What is the third major artery branching from the aortic arch, indicated by the number 7?",
+    "options": [
+      "Left subclavian artery",
+      "Left common carotid artery",
+      "Brachiocephalic artery",
+      "Right subclavian artery",
+      "Internal thoracic artery"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1917",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page02_image3.png",
+    "question": "The bone forming the anterior part of the chest wall, indicated by number 1, is the:",
+    "options": [
+      "Clavicle",
+      "Rib",
+      "Sternum",
+      "Scapula",
+      "Xiphoid process"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1918",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page02_image3.png",
+    "question": "This axial CT is taken at the level of the sternal angle. What thoracic vertebra is indicated by the number 2?",
+    "options": [
+      "T2",
+      "T3",
+      "T4",
+      "T5",
+      "T6"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1919",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page02_image3.png",
+    "question": "The large airway located in the midline, just anterior to the oesophagus, is indicated by the number 3. What is this structure?",
+    "options": [
+      "Trachea",
+      "Left main bronchus",
+      "Right main bronchus",
+      "Oesophagus",
+      "Larynx"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1920",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page02_image3.png",
+    "question": "What is the tubular structure indicated by number 4, located between the trachea and the T4 vertebra?",
+    "options": [
+      "Aorta",
+      "Superior vena cava",
+      "Trachea",
+      "Spinal cord",
+      "Oesophagus"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1921",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page02_image3.png",
+    "question": "What is the large arterial structure indicated by the number 5 in this axial CT scan of the superior mediastinum?",
+    "options": [
+      "Superior vena cava",
+      "Pulmonary trunk",
+      "Brachiocephalic artery",
+      "Arch of aorta",
+      "Left subclavian artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1922",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page02_image3.png",
+    "question": "The venous structure indicated by the number 6, located anterior to the great arteries, is the:",
+    "options": [
+      "Superior vena cava",
+      "Right brachiocephalic vein",
+      "Left brachiocephalic vein",
+      "Internal jugular vein",
+      "Azygos vein"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1923",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page02_image3.png",
+    "question": "Identify the large vein indicated by the number 7, which is located to the right of the ascending aorta.",
+    "options": [
+      "Inferior vena cava",
+      "Superior vena cava",
+      "Left brachiocephalic vein",
+      "Azygos vein",
+      "Pulmonary vein"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1924",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page02_image3.png",
+    "question": "The small vessels indicated by number 8, running on the deep surface of the anterior chest wall, are the:",
+    "options": [
+      "Intercostal vessels",
+      "Coronary vessels",
+      "Internal thoracic vessels",
+      "Subclavian vessels",
+      "Esophageal vessels"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1925",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page03_image1.png",
+    "question": "What is the bone labeled with the number 1 in this axial CT of the thorax?",
+    "options": [
+      "Sternum",
+      "Clavicle",
+      "Rib",
+      "Vertebra",
+      "Scapula"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1926",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page03_image1.png",
+    "question": "The trachea has just bifurcated at this level. What are the airways indicated by the number 2?",
+    "options": [
+      "Lobar bronchi",
+      "Segmental bronchi",
+      "Terminal bronchioles",
+      "R & L main bronchi",
+      "Alveolar ducts"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1927",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page03_image1.png",
+    "question": "Identify the structure labeled with the number 3, situated posterior to the bifurcation of the trachea.",
+    "options": [
+      "Descending aorta",
+      "Azygos vein",
+      "Oesophagus",
+      "Thoracic duct",
+      "Spinal cord"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1928",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image1.png",
+    "question": "The large vessel indicated by number 4, located anteriorly and to the right, is the:",
+    "options": [
+      "Pulmonary trunk",
+      "Ascending aorta",
+      "Superior vena cava",
+      "Descending aorta",
+      "Arch of aorta"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1929",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image1.png",
+    "question": "The large vessel indicated by number 5, located posteriorly and to the left of the vertebra, is the:",
+    "options": [
+      "Ascending aorta",
+      "Superior vena cava",
+      "Pulmonary trunk",
+      "Azygos vein",
+      "Descending aorta"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1930",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image1.png",
+    "question": "What is the vein indicated by the number 6, located to the right of the descending aorta and posterior to the oesophagus?",
+    "options": [
+      "Hemiazygos vein",
+      "Superior vena cava",
+      "Azygos vein",
+      "Inferior vena cava",
+      "Pulmonary vein"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1931",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image1.png",
+    "question": "The large vein entering the right atrium, indicated by the number 7, is the:",
+    "options": [
+      "Left brachiocephalic vein",
+      "Inferior vena cava",
+      "Coronary sinus",
+      "Superior vena cava",
+      "Azygos vein"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1932",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image1.png",
+    "question": "What great vessel is indicated by the number 8, seen giving rise to the right and left pulmonary arteries?",
+    "options": [
+      "Ascending aorta",
+      "Pulmonary trunk",
+      "Superior vena cava",
+      "Arch of aorta",
+      "Descending aorta"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1933",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page03_image2.png",
+    "question": "Identify the most anterior bone in the midline of this axial CT of the thorax, indicated by the number 1.",
+    "options": [
+      "Clavicle",
+      "Rib",
+      "Vertebra",
+      "Sternum",
+      "Scapula"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1934",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page03_image2.png",
+    "question": "The airways seen within the lung parenchyma, indicated by the number 2, are the:",
+    "options": [
+      "Main bronchi",
+      "Trachea",
+      "Lobar bronchi",
+      "Terminal bronchioles",
+      "Alveoli"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1935",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page03_image2.png",
+    "question": "The structure indicated by number 3, situated between the descending aorta and the heart, is the:",
+    "options": [
+      "Trachea",
+      "Left atrium",
+      "Stomach",
+      "Spinal cord",
+      "Oesophagus"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1936",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image2.png",
+    "question": "The large vessel arising from the left ventricle, indicated by the number 4, is the:",
+    "options": [
+      "Pulmonary trunk",
+      "Superior vena cava",
+      "Ascending aorta",
+      "Descending aorta",
+      "Coronary sinus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1937",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image2.png",
+    "question": "Identify the great vessel indicated by number 5, located anterior to the ascending aorta.",
+    "options": [
+      "Superior vena cava",
+      "Pulmonary trunk",
+      "Descending aorta",
+      "Azygos vein",
+      "Brachiocephalic artery"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1938",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image2.png",
+    "question": "The structure indicated by number 6, found in the posterior mediastinum, is the:",
+    "options": [
+      "Ascending aorta",
+      "Oesophagus",
+      "Azygos vein",
+      "Descending aorta",
+      "Superior vena cava"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1939",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image2.png",
+    "question": "The vein indicated by the number 7, arching over the root of the right lung to drain into the superior vena cava, is the:",
+    "options": [
+      "Hemiazygos vein",
+      "Azygos vein",
+      "Right pulmonary vein",
+      "Right brachiocephalic vein",
+      "Inferior vena cava"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1940",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image2.png",
+    "question": "What part of the right atrium is indicated by the number 8?",
+    "options": [
+      "Main cavity of R atrium",
+      "Lower end of R atrium",
+      "Upper end of R atrium & R auricle",
+      "Coronary sinus opening",
+      "Fossa ovalis"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1941",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image2.png",
+    "question": "What vessels are indicated by the number 9, branching from the pulmonary trunk?",
+    "options": [
+      "Pulmonary veins",
+      "R & L pulmonary arteries",
+      "Bronchial arteries",
+      "Coronary arteries",
+      "Intercostal arteries"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1942",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page03_image3.png",
+    "question": "Identify the bone labeled with the number 1 in this axial CT of the chest.",
+    "options": [
+      "Clavicle",
+      "Scapula",
+      "Vertebra",
+      "Rib",
+      "Sternum"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1943",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page03_image3.png",
+    "question": "The structure indicated by number 2, located posterior to the left atrium, is the:",
+    "options": [
+      "Oesophagus",
+      "Descending aorta",
+      "Azygos vein",
+      "Trachea",
+      "Thoracic duct"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1944",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image3.png",
+    "question": "What structure is indicated by number 3, representing the origin of the systemic circulation?",
+    "options": [
+      "Pulmonary trunk",
+      "Right ventricle",
+      "Ascending aorta & valve",
+      "Left atrium",
+      "Superior vena cava"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1945",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image3.png",
+    "question": "The most anterior chamber of the heart, indicated by the number 4, is the:",
+    "options": [
+      "Left ventricle",
+      "Right ventricle",
+      "Left atrium",
+      "Right atrium",
+      "Right auricle"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1946",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page03_image3.png",
+    "question": "The structures indicated by number 5 within the lung hilum are:",
+    "options": [
+      "Pulmonary veins",
+      "Bronchi & branches of pulmonary artery",
+      "Lobar veins and arteries",
+      "Lymph nodes",
+      "Nerves of the pulmonary plexus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1947",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image3.png",
+    "question": "Identify the large artery in the posterior mediastinum, indicated by number 6.",
+    "options": [
+      "Ascending aorta",
+      "Azygos vein",
+      "Internal thoracic artery",
+      "Descending aorta",
+      "Pulmonary trunk"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1948",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image3.png",
+    "question": "The vein located to the right of the descending aorta and oesophagus, indicated by number 7, is the:",
+    "options": [
+      "Superior vena cava",
+      "Inferior vena cava",
+      "Azygos vein",
+      "Hemiazygos vein",
+      "Right pulmonary vein"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1949",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image3.png",
+    "question": "The heart chamber forming the right border of the heart, indicated by number 8, is the:",
+    "options": [
+      "Left atrium",
+      "Right ventricle",
+      "Left ventricle",
+      "R atrium",
+      "Coronary sinus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1950",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image3.png",
+    "question": "The most posterior chamber of the heart, which receives oxygenated blood, is indicated by number 9. This is the:",
+    "options": [
+      "Right atrium",
+      "Right ventricle",
+      "L atrium and pulmonary veins",
+      "Left ventricle",
+      "Superior vena cava"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1951",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page03_image3.png",
+    "question": "The artery indicated by number 10, running in the atrioventricular groove, is the:",
+    "options": [
+      "Left main coronary artery",
+      "Circumflex artery",
+      "Left anterior descending artery",
+      "R coronary artery",
+      "Posterior descending artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1952",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page04_image1.png",
+    "question": "In this axial CT through the heart, what is the most anterior bone labeled with the number 1?",
+    "options": [
+      "Rib",
+      "Clavicle",
+      "Sternum",
+      "Vertebra",
+      "Scapula"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1953",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page04_image1.png",
+    "question": "Identify the structure labeled with the number 2, located between the left atrium and the descending aorta.",
+    "options": [
+      "Trachea",
+      "Oesophagus",
+      "Azygos vein",
+      "Bronchus",
+      "Thoracic duct"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1954",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image1.png",
+    "question": "What is the large artery labeled with the number 3 in the posterior mediastinum?",
+    "options": [
+      "Ascending aorta",
+      "Pulmonary artery",
+      "Superior vena cava",
+      "Descending aorta",
+      "Brachiocephalic trunk"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1955",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image1.png",
+    "question": "The vein indicated by the number 4, running alongside the descending aorta and oesophagus, is the:",
+    "options": [
+      "Azygos vein",
+      "Inferior vena cava",
+      "Superior vena cava",
+      "Hemiazygos vein",
+      "Pulmonary vein"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1956",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image1.png",
+    "question": "What chamber of the heart, forming the right border, is indicated by the number 5?",
+    "options": [
+      "L atrium",
+      "L ventricle",
+      "R ventricle",
+      "R atrium",
+      "Aorta"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1957",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image1.png",
+    "question": "The heart chamber located most anteriorly, just posterior to the sternum, is indicated by number 6. This is the:",
+    "options": [
+      "L atrium",
+      "L ventricle",
+      "R ventricle",
+      "R atrium",
+      "Pulmonary trunk"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1958",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image1.png",
+    "question": "The most posterior chamber of the heart, indicated by the number 7, is the:",
+    "options": [
+      "L atrium",
+      "L ventricle",
+      "R ventricle",
+      "R atrium",
+      "Coronary sinus"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1959",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image1.png",
+    "question": "What chamber of the heart, forming the apex and the left border, is indicated by the number 8?",
+    "options": [
+      "L atrium",
+      "L ventricle",
+      "R ventricle",
+      "R atrium",
+      "Ascending aorta"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1960",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page04_image2.png",
+    "question": "In this axial CT inferior to the heart, what is the structure labeled with the number 1?",
+    "options": [
+      "Stomach",
+      "Duodenum",
+      "Oesophagus",
+      "Azygos vein",
+      "Descending aorta"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1961",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image2.png",
+    "question": "Identify the large artery in the posterior thorax, indicated by the number 2.",
+    "options": [
+      "Ascending aorta",
+      "Descending aorta",
+      "Azygos vein",
+      "Oesophagus",
+      "Inferior vena cava"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1962",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image2.png",
+    "question": "What is the name of the vein labeled with the number 3?",
+    "options": [
+      "Inferior vena cava",
+      "Superior vena cava",
+      "Hemiazygos vein",
+      "Azygos vein",
+      "Pulmonary vein"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1963",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image2.png",
+    "question": "The heart chamber indicated by the number 4, located anteriorly and to the right, is the:",
+    "options": [
+      "L ventricle",
+      "L atrium",
+      "R ventricle",
+      "R atrium",
+      "Aorta"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1964",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image2.png",
+    "question": "The muscular chamber forming the apex of the heart, indicated by the number 5, is the:",
+    "options": [
+      "R ventricle",
+      "L ventricle",
+      "R atrium",
+      "L atrium",
+      "Pulmonary trunk"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1965",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image2.png",
+    "question": "What is the large vein indicated by the number 6, seen entering the right atrium from below?",
+    "options": [
+      "Superior vena cava",
+      "Azygos vein",
+      "Pulmonary vein",
+      "Coronary sinus",
+      "Inferior vena cava"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1966",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page04_image3.png",
+    "question": "At the level of the diaphragm, what is the structure of the digestive tract indicated by number 1?",
+    "options": [
+      "Stomach",
+      "Duodenum",
+      "Oesophagus",
+      "Colon",
+      "Jejunum"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1967",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image3.png",
+    "question": "The vessel indicated by the number 2 in this upper abdominal CT scan is the:",
+    "options": [
+      "Inferior vena cava",
+      "Descending aorta",
+      "Portal vein",
+      "Superior mesenteric artery",
+      "Celiac trunk"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1968",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page04_image3.png",
+    "question": "Identify the vein labeled with the number 3.",
+    "options": [
+      "Azygos vein",
+      "Portal vein",
+      "Inferior vena cava",
+      "Hemiazygos vein",
+      "Left renal vein"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1969",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page04_image3.png",
+    "question": "The large vein indicated by number 4 is embedded in the posterior aspect of which organ?",
+    "options": [
+      "Spleen",
+      "Pancreas",
+      "Stomach",
+      "Liver",
+      "Right kidney"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1970",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page04_image3.png",
+    "question": "What is the large organ that occupies the right upper quadrant of the abdomen, indicated by number 5?",
+    "options": [
+      "Stomach",
+      "Spleen",
+      "R lobe of liver",
+      "Pancreas",
+      "Right kidney"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1971",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page04_image3.png",
+    "question": "The J-shaped organ in the upper abdomen, indicated by number 6, is the:",
+    "options": [
+      "Spleen",
+      "Liver",
+      "Transverse colon",
+      "Stomach",
+      "Duodenum"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1972",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image1.png",
+    "question": "In this axial chest MRI, what part of the aorta is indicated by the number 1?",
+    "options": [
+      "Descending aorta",
+      "Aortic arch",
+      "Abdominal aorta",
+      "Ascending aorta",
+      "Aortic root"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1973",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image1.png",
+    "question": "What part of the aorta is indicated by the number 2 in this axial MRI?",
+    "options": [
+      "Aortic arch",
+      "Ascending aorta",
+      "Descending aorta",
+      "Aortic root",
+      "Abdominal aorta"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1974",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image1.png",
+    "question": "The vessel indicated by the number 3, arising from the right ventricle, is the:",
+    "options": [
+      "Ascending aorta",
+      "Superior vena cava",
+      "Pulmonary trunk & R pulmonary artery",
+      "Left pulmonary vein",
+      "Azygos vein"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1975",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image1.png",
+    "question": "The great vein indicated by the number 4 is the:",
+    "options": [
+      "Inferior vena cava",
+      "Azygos vein",
+      "Left brachiocephalic vein",
+      "Superior vena cava",
+      "Pulmonary vein"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1976",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image2.png",
+    "question": "In this axial MRI of the heart, what chamber is indicated by the number 1?",
+    "options": [
+      "L atrium",
+      "R ventricle",
+      "L ventricle",
+      "R atrium",
+      "Aorta"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1977",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image2.png",
+    "question": "The valve located between the right atrium and right ventricle, indicated by number 2, is the:",
+    "options": [
+      "Mitral valve",
+      "Aortic valve",
+      "Pulmonary valve",
+      "Tricuspid valve",
+      "Eustachian valve"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1978",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image2.png",
+    "question": "Identify the heart chamber labeled with the number 3.",
+    "options": [
+      "L ventricle",
+      "R atrium",
+      "L atrium",
+      "Aorta",
+      "R ventricle"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1979",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image2.png",
+    "question": "What vessel, which carries oxygenated blood, is indicated by the number 4 as it enters the left atrium?",
+    "options": [
+      "Superior vena cava",
+      "Pulmonary artery",
+      "Pulmonary vein",
+      "Azygos vein",
+      "Coronary sinus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1980",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image2.png",
+    "question": "What is the most posterior chamber of the heart, indicated by the number 5?",
+    "options": [
+      "R atrium",
+      "R ventricle",
+      "L ventricle",
+      "L atrium",
+      "Coronary sinus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1981",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image2.png",
+    "question": "The valve between the left atrium and left ventricle, indicated by number 6, is the:",
+    "options": [
+      "Tricuspid valve",
+      "Aortic valve",
+      "Mitral valve",
+      "Pulmonary valve",
+      "Thebesian valve"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1982",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image2.png",
+    "question": "What is the powerful heart chamber that pumps blood to the systemic circulation, indicated by number 7?",
+    "options": [
+      "Right ventricle",
+      "Left ventricle",
+      "Right atrium",
+      "Left atrium",
+      "Right auricle"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1983",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image2.png",
+    "question": "The large artery located in the posterior mediastinum, indicated by number 8, is the:",
+    "options": [
+      "Ascending aorta",
+      "Pulmonary trunk",
+      "Superior vena cava",
+      "Descending aorta",
+      "Azygos vein"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1984",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page05_image2.png",
+    "question": "Identify the vein labeled with the number 9, found posterior to the oesophagus.",
+    "options": [
+      "Inferior vena cava",
+      "Superior vena cava",
+      "Hemiazygos vein",
+      "Azygos vein",
+      "Left pulmonary vein"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1985",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page05_image2.png",
+    "question": "What is the digestive tube indicated by number 10, located between the left atrium and the descending aorta?",
+    "options": [
+      "Trachea",
+      "Bronchus",
+      "Oesophagus",
+      "Stomach",
+      "Duodenum"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1986",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page07_image1.png",
+    "question": "In this superior abdominal CT, what is the structure indicated by number 1, located superior to the liver and spleen?",
+    "options": [
+      "Diaphragm",
+      "Stomach",
+      "Base of R & L lungs",
+      "Pericardium",
+      "Pleura"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1987",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page07_image1.png",
+    "question": "The muscle that separates the thoracic and abdominal cavities, indicated by number 2, is the:",
+    "options": [
+      "Psoas major",
+      "Intercostal muscle",
+      "Quadratus lumborum",
+      "Diaphragm",
+      "Transversus abdominis"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1988",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page07_image1.png",
+    "question": "Identify the large artery labeled with the number 3, located anterior to the vertebral body.",
+    "options": [
+      "Inferior vena cava",
+      "Aorta",
+      "Celiac trunk",
+      "Portal vein",
+      "Splenic artery"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1989",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page07_image1.png",
+    "question": "The large vein indicated by number 4, located to the right of the aorta, is the:",
+    "options": [
+      "Portal vein",
+      "Superior vena cava",
+      "Azygos vein",
+      "Inferior vena cava",
+      "Right renal vein"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1990",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page07_image1.png",
+    "question": "The large organ filling most of the right upper abdomen, indicated by number 5, is the:",
+    "options": [
+      "Stomach",
+      "Spleen",
+      "Right kidney",
+      "Pancreas",
+      "Liver R lobe"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q1991",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page07_image1.png",
+    "question": "What is the organ located in the left upper quadrant, posterolateral to the stomach, indicated by number 6?",
+    "options": [
+      "Spleen",
+      "Left lobe of liver",
+      "Left kidney",
+      "Stomach",
+      "Pancreas"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q1992",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page07_image1.png",
+    "question": "The organ indicated by number 7, anterior to the spleen, is the:",
+    "options": [
+      "Liver",
+      "Pancreas",
+      "Stomach",
+      "Transverse colon",
+      "Left kidney"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1993",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page07_image2.png",
+    "question": "What is the most posterior structure labeled with the number 1 in this upper abdominal CT?",
+    "options": [
+      "Diaphragm",
+      "Base of R & L lungs",
+      "Pleural effusion",
+      "Crura of diaphragm",
+      "Erector spinae muscles"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q1994",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page07_image2.png",
+    "question": "Identify the muscular structure indicated by the number 2.",
+    "options": [
+      "Intercostal muscle",
+      "Psoas muscle",
+      "Diaphragm",
+      "Rectus abdominis",
+      "Crus of diaphragm"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1995",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page07_image2.png",
+    "question": "The structure indicated by number 3 is the aorta giving rise to what major branch?",
+    "options": [
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Renal artery",
+      "Coeliac trunk",
+      "Gonadal artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1996",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page07_image2.png",
+    "question": "What is the large vein indicated by the number 4?",
+    "options": [
+      "Portal vein",
+      "Splenic vein",
+      "Inferior vena cava",
+      "Superior vena cava",
+      "Left renal vein"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1997",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page07_image2.png",
+    "question": "The structure indicated by the number 5 is the:",
+    "options": [
+      "Spleen",
+      "Stomach",
+      "Right kidney",
+      "Liver R lobe",
+      "Gallbladder"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q1998",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page07_image2.png",
+    "question": "What is the organ at the posterior and lateral aspect of the left upper quadrant, indicated by number 6?",
+    "options": [
+      "Left kidney",
+      "Stomach",
+      "Spleen",
+      "Pancreas",
+      "Splenic flexure of colon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q1999",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page07_image2.png",
+    "question": "The structure with a gas bubble inside, indicated by number 7, is the:",
+    "options": [
+      "Spleen",
+      "Stomach",
+      "Liver",
+      "Transverse colon",
+      "Duodenum"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2000",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page07_image2.png",
+    "question": "The structure indicated by number 8, nestled against the inferior surface of the liver, is the:",
+    "options": [
+      "Gallbladder",
+      "Duodenum",
+      "Pancreas head",
+      "Right kidney",
+      "Hepatic flexure"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2001",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page07_image2.png",
+    "question": "The retroperitoneal gland indicated by the number 9 is the:",
+    "options": [
+      "Spleen",
+      "Stomach",
+      "Liver",
+      "Pancreas",
+      "Adrenal gland"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2002",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page07_image2.png",
+    "question": "What retroperitoneal organs are indicated by the number 10?",
+    "options": [
+      "Adrenal glands",
+      "Upper pole R and L kidney",
+      "Spleen and liver",
+      "Duodenum and pancreas",
+      "Ureters"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2003",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page07_image2.png",
+    "question": "The part of the large intestine indicated by number 11, located near the spleen, is the:",
+    "options": [
+      "Hepatic flexure of colon",
+      "Transverse colon",
+      "Descending colon",
+      "Splenic flexure of colon",
+      "Sigmoid colon"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2004",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page08_image1.png",
+    "question": "The tendinous structures of the diaphragm that extend down the lumbar vertebrae, indicated by number 1, are the:",
+    "options": [
+      "Psoas major muscles",
+      "Crura of diaphragm",
+      "Quadratus lumborum muscles",
+      "Central tendon",
+      "Aortic hiatus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2005",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page08_image1.png",
+    "question": "Number 2 indicates the abdominal aorta giving off what major anterior branch?",
+    "options": [
+      "Celiac trunk",
+      "Inferior mesenteric artery",
+      "Renal artery",
+      "Sup mesenteric artery",
+      "Lumbar artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2006",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page08_image1.png",
+    "question": "What is the large vein to the right of the aorta, indicated by number 3?",
+    "options": [
+      "Portal vein",
+      "Azygos vein",
+      "Inferior vena cava",
+      "Right renal vein",
+      "Superior mesenteric vein"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2007",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page08_image1.png",
+    "question": "The large organ in the right upper quadrant, indicated by number 4, is the:",
+    "options": [
+      "Spleen",
+      "Right kidney",
+      "Stomach",
+      "Liver R lobe",
+      "Pancreas"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2008",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page08_image1.png",
+    "question": "The organ that stores bile, indicated by number 5, is the:",
+    "options": [
+      "Spleen",
+      "Gallbladder",
+      "Duodenum",
+      "Cystic duct",
+      "Pancreas"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2009",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image1.png",
+    "question": "The C-shaped part of the small intestine that cradles the head of the pancreas, indicated by number 6, is the:",
+    "options": [
+      "Jejunum",
+      "Ileum",
+      "Stomach",
+      "2nd part of duodenum",
+      "Transverse colon"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2010",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page08_image1.png",
+    "question": "What is the gland located in the curve of the duodenum, indicated by number 7?",
+    "options": [
+      "Spleen",
+      "Adrenal gland",
+      "Pancreas",
+      "Kidney",
+      "Liver"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2011",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image1.png",
+    "question": "The organ in the left upper quadrant, indicated by number 8, is the:",
+    "options": [
+      "Stomach",
+      "Left kidney",
+      "Spleen",
+      "Descending colon",
+      "Pancreas tail"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2012",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page08_image1.png",
+    "question": "The paired retroperitoneal organs indicated by number 9 are the:",
+    "options": [
+      "Adrenal glands",
+      "Ovaries",
+      "R & L kidney",
+      "Ureters",
+      "Seminal vesicles"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2013",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image1.png",
+    "question": "The loops of intestine indicated by number 10 are parts of the:",
+    "options": [
+      "Small bowel",
+      "Transverse colon",
+      "Descending colon",
+      "Stomach",
+      "Rectum"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2014",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image1.png",
+    "question": "The section of the large intestine indicated by number 11 is the:",
+    "options": [
+      "Ascending colon",
+      "Descending colon",
+      "Sigmoid colon",
+      "Transverse colon",
+      "Caecum"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2015",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image1.png",
+    "question": "The part of the large intestine on the left side of the abdomen, indicated by number 12, is the:",
+    "options": [
+      "Ascending colon",
+      "Descending colon",
+      "Sigmoid colon",
+      "Transverse colon",
+      "Splenic flexure"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2016",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page08_image2.png",
+    "question": "The large muscle located posterior and lateral to the great vessels, indicated by number 1, is the:",
+    "options": [
+      "Quadratus lumborum",
+      "Psoas major",
+      "Erector spinae",
+      "Iliacus",
+      "Rectus abdominis"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2017",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page08_image2.png",
+    "question": "The large artery in the midline, anterior to the vertebra, is indicated by number 2. It is the:",
+    "options": [
+      "Inferior vena cava",
+      "Superior mesenteric artery",
+      "Aorta",
+      "Common iliac artery",
+      "Celiac trunk"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2018",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page08_image2.png",
+    "question": "What is the large vein indicated by number 3?",
+    "options": [
+      "Aorta",
+      "Inferior vena cava",
+      "Portal vein",
+      "Right renal vein",
+      "Superior mesenteric vein"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2019",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page08_image2.png",
+    "question": "The sliver of organ seen in the right side of the abdomen, indicated by number 4, is the:",
+    "options": [
+      "Spleen",
+      "Stomach",
+      "Right kidney",
+      "Liver R lobe",
+      "Gallbladder"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2020",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page08_image2.png",
+    "question": "The retroperitoneal organs labeled with the number 5 are the:",
+    "options": [
+      "Adrenal glands",
+      "Ovaries",
+      "R & L kidney",
+      "Ureters",
+      "Spleen and liver"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2021",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image2.png",
+    "question": "The centrally located loops of intestine, indicated by number 6, belong to the:",
+    "options": [
+      "Stomach",
+      "Transverse colon",
+      "Small bowel",
+      "Descending colon",
+      "Duodenum"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2022",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image2.png",
+    "question": "Identify the part of the large intestine located on the right side of the abdomen, indicated by number 7.",
+    "options": [
+      "Transverse colon",
+      "Descending colon",
+      "Ascending colon",
+      "Caecum",
+      "Sigmoid colon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2023",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image2.png",
+    "question": "The structure indicated by number 8 is the transverse colon. What vessel is seen within its mesentery?",
+    "options": [
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Middle colic artery",
+      "Left colic artery",
+      "Right colic artery"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2024",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image2.png",
+    "question": "What part of the large intestine is indicated by number 9 on the left side of the abdomen?",
+    "options": [
+      "Ascending colon",
+      "Transverse colon",
+      "Sigmoid colon",
+      "Descending colon",
+      "Splenic flexure"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2025",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page08_image3.png",
+    "question": "The large muscle indicated by number 1 in this lower abdominal CT is the:",
+    "options": [
+      "Iliacus",
+      "Quadratus lumborum",
+      "Psoas major",
+      "Rectus abdominis",
+      "Gluteus medius"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2026",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page08_image3.png",
+    "question": "The aorta has bifurcated at this level. What are the arteries indicated by number 2?",
+    "options": [
+      "External iliac arteries",
+      "Internal iliac arteries",
+      "Femoral arteries",
+      "Common iliac arteries",
+      "Renal arteries"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2027",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page08_image3.png",
+    "question": "Number 3 indicates the confluence of the common iliac veins to form what large vessel?",
+    "options": [
+      "Aorta",
+      "Portal vein",
+      "Superior vena cava",
+      "Renal vein",
+      "Inferior vena cava"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2028",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image3.png",
+    "question": "The centrally located loops of bowel indicated by number 4 are the:",
+    "options": [
+      "Transverse colon",
+      "Sigmoid colon",
+      "Small bowel",
+      "Descending colon",
+      "Stomach"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2029",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image3.png",
+    "question": "The most proximal part of the large intestine, located in the right iliac fossa and indicated by number 5, is the:",
+    "options": [
+      "Appendix",
+      "Ascending colon",
+      "Sigmoid colon",
+      "Caecum",
+      "Rectum"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2030",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page08_image3.png",
+    "question": "What is the part of the large intestine indicated by number 6?",
+    "options": [
+      "Ascending colon",
+      "Descending colon",
+      "Transverse colon",
+      "Sigmoid colon",
+      "Caecum"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2031",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page09_image1.png",
+    "question": "The flared, superior part of the ilium indicated by number 1 is the:",
+    "options": [
+      "Iliac crest",
+      "Iliac fossa",
+      "Ischial tuberosity",
+      "Acetabulum",
+      "Pubic ramus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2032",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page09_image1.png",
+    "question": "The muscle indicated by number 2, medial to the iliacus, is the:",
+    "options": [
+      "Sartorius",
+      "Pectineus",
+      "Psoas major",
+      "Quadratus lumborum",
+      "Obturator internus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2033",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page09_image1.png",
+    "question": "The muscle lining the iliac fossa, indicated by number 3, is the:",
+    "options": [
+      "Psoas major",
+      "Gluteus minimus",
+      "Iliacus",
+      "Sartorius",
+      "Tensor fasciae latae"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2034",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page09_image1.png",
+    "question": "The vessels indicated by number 4, resulting from the bifurcation of the common iliac artery, are the:",
+    "options": [
+      "Femoral and deep femoral arteries",
+      "Obturator and gluteal arteries",
+      "External & internal iliac arteries",
+      "Gonadal and lumbar arteries",
+      "Profunda femoris and circumflex arteries"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2035",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page09_image1.png",
+    "question": "What is the large vein indicated by number 5, formed by the union of the external and internal iliac veins?",
+    "options": [
+      "Inferior vena cava",
+      "Femoral vein",
+      "Common iliac vein",
+      "Great saphenous vein",
+      "Gonadal vein"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2036",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page09_image1.png",
+    "question": "The loops of bowel located centrally within the pelvis, indicated by number 6, are parts of the:",
+    "options": [
+      "Caecum",
+      "Sigmoid colon",
+      "Rectum",
+      "Small bowel",
+      "Descending colon"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2037",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page09_image1.png",
+    "question": "The part of the large intestine in the right iliac fossa, indicated by number 7, is the:",
+    "options": [
+      "Ascending colon",
+      "Caecum",
+      "Appendix",
+      "Transverse colon",
+      "Ileum"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2038",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page09_image1.png",
+    "question": "The S-shaped part of the large intestine located in the left iliac fossa, indicated by number 8, is the:",
+    "options": [
+      "Descending colon",
+      "Rectum",
+      "Sigmoid colon",
+      "Caecum",
+      "Transverse colon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2039",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page09_image2.png",
+    "question": "The structure indicated by number 1 is the hip joint, specifically the socket and the ball. What are they called?",
+    "options": [
+      "Iliac crest & greater trochanter",
+      "Pubic ramus & lesser trochanter",
+      "Acetabulum & head of femur",
+      "Glenoid & head of humerus",
+      "Ischial spine & neck of femur"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2040",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page09_image2.png",
+    "question": "The vessels indicated by number 2, located anteriorly in the thigh, are the:",
+    "options": [
+      "Iliac artery & vein",
+      "Obturator artery & vein",
+      "Gluteal artery & vein",
+      "Femoral artery & vein",
+      "Popliteal artery & vein"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2041",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page09_image2.png",
+    "question": "The hollow, muscular organ located in the anterior pelvis, indicated by number 3, is the:",
+    "options": [
+      "Rectum",
+      "Uterus",
+      "Bladder",
+      "Prostate",
+      "Sigmoid colon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2042",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "image_path": "media/page09_image2.png",
+    "question": "In this male pelvis, what are the structures indicated by number 4, located posterior to the bladder?",
+    "options": [
+      "Prostate gland",
+      "Seminal vesicles",
+      "Ureters",
+      "Ductus deferens",
+      "Epididymis"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2043",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page09_image2.png",
+    "question": "The most posterior part of the gastrointestinal tract shown in the pelvis, indicated by number 5, is the:",
+    "options": [
+      "Sigmoid colon",
+      "Rectum",
+      "Anal canal",
+      "Caecum",
+      "Small bowel"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2044",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page09_image2.png",
+    "question": "The muscle forming the lateral wall of the pelvis, indicated by number 6, is the:",
+    "options": [
+      "Gluteus medius",
+      "Piriformis",
+      "Obturator internus",
+      "Iliacus",
+      "Psoas major"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2045",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page09_image2.png",
+    "question": "What is the large muscle forming the bulk of the buttock, indicated by number 7?",
+    "options": [
+      "Gluteus medius",
+      "Gluteus minimus",
+      "Piriformis",
+      "Tensor fasciae latae",
+      "Gluteus maximus"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2046",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page10_image1.png",
+    "question": "The part of the femur indicated by number 1, which articulates with the acetabulum, is the:",
+    "options": [
+      "Greater trochanter",
+      "Lesser trochanter",
+      "Head/neck of femur",
+      "Femoral condyle",
+      "Shaft of femur"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2047",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page10_image1.png",
+    "question": "The midline joint of the pelvic girdle, indicated by number 2, is the:",
+    "options": [
+      "Sacroiliac joint",
+      "Pubic symphysis",
+      "Lumbosacral joint",
+      "Sacrococcygeal joint",
+      "Hip joint"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2048",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page10_image1.png",
+    "question": "What are the major vessels of the thigh, indicated by number 3?",
+    "options": [
+      "Iliac artery & vein",
+      "Obturator artery & vein",
+      "Femoral artery & vein",
+      "Popliteal artery & vein",
+      "Gluteal artery & vein"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2049",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page10_image1.png",
+    "question": "The organ indicated by number 4, located superior to the prostate, is the:",
+    "options": [
+      "Rectum",
+      "Bladder",
+      "Seminal vesicle",
+      "Ureter",
+      "Urethra"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2050",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "image_path": "media/page10_image1.png",
+    "question": "In this male pelvis, what is the gland indicated by number 5, located inferior to the bladder?",
+    "options": [
+      "Seminal vesicle",
+      "Bulbourethral gland",
+      "Testis",
+      "Prostate",
+      "Epididymis"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2051",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page10_image1.png",
+    "question": "The most superficial muscle in the anterior thigh, indicated by number 6, is the:",
+    "options": [
+      "Rectus femoris",
+      "Sartorius",
+      "Pectineus",
+      "Tensor fasciae latae",
+      "Adductor longus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2052",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page10_image1.png",
+    "question": "What is the most posterior structure in the pelvic cavity, indicated by number 7?",
+    "options": [
+      "Bladder",
+      "Prostate",
+      "Rectum",
+      "Ureter",
+      "Sigmoid colon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2053",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page10_image1.png",
+    "question": "The muscle forming the pelvic floor, indicated by number 8, is the:",
+    "options": [
+      "Obturator internus",
+      "Gluteus maximus",
+      "Piriformis",
+      "Levator ani",
+      "Coccygeus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2054",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page10_image1.png",
+    "question": "The fat-filled space lateral to the rectum and levator ani, indicated by number 9, is the:",
+    "options": [
+      "Obturator foramen",
+      "Perineal body",
+      "Ischiorectal fossa",
+      "Deep perineal pouch",
+      "Pudendal canal"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2055",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page10_image1.png",
+    "question": "What is the muscle indicated by number 10, located on the lateral wall of the pelvis?",
+    "options": [
+      "Levator ani",
+      "Gluteus medius",
+      "Piriformis",
+      "Obturator internus",
+      "Iliopsoas"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2056",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page10_image1.png",
+    "question": "The large posterior muscle indicated by number 11 is the:",
+    "options": [
+      "Gluteus maximus",
+      "Gluteus medius",
+      "Hamstring muscles",
+      "Adductor magnus",
+      "Piriformis"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2057",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page10_image2.png",
+    "question": "The bones forming the central axis of this coronal MRI of the posterior abdomen, indicated by number 1, are the:",
+    "options": [
+      "Thoracic vertebrae",
+      "Sacral vertebrae",
+      "Lumbar vertebrae",
+      "Cervical vertebrae",
+      "Coccyx"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2058",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page10_image2.png",
+    "question": "What is the large organ superior to the right kidney, indicated by number 2?",
+    "options": [
+      "Spleen",
+      "Stomach",
+      "Pancreas",
+      "Liver",
+      "Gallbladder"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2059",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page10_image2.png",
+    "question": "The organ superior to the left kidney, indicated by number 3, is the:",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Stomach",
+      "Pancreas",
+      "Descending colon"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2060",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page10_image2.png",
+    "question": "The paired, bean-shaped organs indicated by number 4 are the:",
+    "options": [
+      "Adrenal glands",
+      "Kidneys",
+      "Ovaries",
+      "Lungs",
+      "Testes"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2061",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page10_image2.png",
+    "question": "The part of the large intestine seen lateral to the left kidney, indicated by number 5, is the:",
+    "options": [
+      "Ascending colon",
+      "Transverse colon",
+      "Descending colon",
+      "Sigmoid colon",
+      "Jejunum"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2062",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page10_image2.png",
+    "question": "What is the muscular structure indicated by number 6, located superior to the liver and spleen?",
+    "options": [
+      "Intercostal muscle",
+      "Pectoralis major",
+      "Latissimus dorsi",
+      "Diaphragm",
+      "Serratus anterior"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2063",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page10_image2.png",
+    "question": "Identify the large muscle running alongside the lumbar vertebrae, indicated by number 7.",
+    "options": [
+      "Psoas major",
+      "Quadratus lumborum",
+      "Iliacus",
+      "Erector spinae",
+      "Latissimus dorsi"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2064",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page10_image2.png",
+    "question": "The large artery running just to the left of the vertebral column, indicated by number 8, is the:",
+    "options": [
+      "Inferior vena cava",
+      "Celiac trunk",
+      "Descending aorta",
+      "Superior mesenteric artery",
+      "Common iliac artery"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2065",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page10_image2.png",
+    "question": "What is the organ indicated by number 9, seen with its fundus superior to the left kidney?",
+    "options": [
+      "Liver",
+      "Spleen",
+      "Pancreas",
+      "Stomach",
+      "Duodenum"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2066",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page11_image1.png",
+    "question": "In this anterior coronal CT, what is the artery indicated by number 1 in the neck?",
+    "options": [
+      "Right subclavian artery",
+      "Right vertebral artery",
+      "Right carotid artery",
+      "Left carotid artery",
+      "Brachiocephalic trunk"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2067",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page11_image1.png",
+    "question": "The vein indicated by number 2, located superior to the aortic arch, is the:",
+    "options": [
+      "Superior vena cava",
+      "L brachiocephalic vein",
+      "L subclavian vein",
+      "L internal jugular vein",
+      "Azygos vein"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2068",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page11_image1.png",
+    "question": "What chamber of the heart forms the right border in this view, as indicated by number 3?",
+    "options": [
+      "L ventricle",
+      "R ventricle",
+      "L atrium",
+      "R atrium",
+      "Ascending aorta"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2069",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page11_image1.png",
+    "question": "Identify the large vein in the right side of the neck, indicated by number 4.",
+    "options": [
+      "Right external jugular vein",
+      "Right subclavian vein",
+      "Right brachiocephalic vein",
+      "Right internal jugular vein",
+      "Right vertebral vein"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2070",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page11_image1.png",
+    "question": "The heart chamber forming the apex and left border, indicated by number 5, is the:",
+    "options": [
+      "L ventricle",
+      "R ventricle",
+      "L atrium",
+      "R atrium",
+      "Pulmonary trunk"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2071",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page11_image1.png",
+    "question": "The great vessel arising from the left ventricle, indicated by number 6, is the:",
+    "options": [
+      "Pulmonary trunk",
+      "Superior vena cava",
+      "Arch of aorta",
+      "Ascending aorta",
+      "Descending aorta"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2072",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page11_image1.png",
+    "question": "What is the dome-shaped muscle indicated by number 7, separating the thorax and abdomen?",
+    "options": [
+      "Pectoralis major",
+      "Intercostal muscle",
+      "Diaphragm",
+      "Rectus abdominis",
+      "Psoas major"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2073",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page11_image1.png",
+    "question": "The structure indicated by number 8 is the liver. What do the branching structures within it represent?",
+    "options": [
+      "Bile ducts",
+      "Portal arteries",
+      "Intrahepatic veins",
+      "Lymphatics",
+      "Nerves"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2074",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page11_image1.png",
+    "question": "The organ in the left upper quadrant, indicated by number 9, is the:",
+    "options": [
+      "Left kidney",
+      "Stomach",
+      "Spleen",
+      "Pancreas",
+      "Descending colon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2075",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page11_image1.png",
+    "question": "What is the organ indicated by number 10, located between the liver and spleen?",
+    "options": [
+      "Duodenum",
+      "Stomach",
+      "Pancreas",
+      "Transverse colon",
+      "Jejunum"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2076",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page11_image1.png",
+    "question": "The gland located posterior to the stomach, indicated by number 11, is the:",
+    "options": [
+      "Spleen",
+      "Left kidney",
+      "Adrenal gland",
+      "Pancreas",
+      "Duodenum"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2077",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page11_image1.png",
+    "question": "The structure indicated by number 12, where the duodenum ends and the jejunum begins, is the:",
+    "options": [
+      "Pylorus",
+      "Ileocecal junction",
+      "Duodeno-jejunal flexure",
+      "Hepatic flexure",
+      "Splenic flexure"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2078",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page11_image1.png",
+    "question": "The part of the large intestine located in the right lower quadrant, indicated by number 13, is the:",
+    "options": [
+      "Ascending colon",
+      "Sigmoid colon",
+      "Appendix",
+      "Caecum",
+      "Ileum"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2079",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page11_image1.png",
+    "question": "What is the large artery in the midline of the abdomen, indicated by number 14?",
+    "options": [
+      "IVC",
+      "Aorta",
+      "Superior mesenteric artery",
+      "Common iliac artery",
+      "Portal vein"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2080",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page11_image1.png",
+    "question": "The large vein running to the right of the aorta in the abdomen, indicated by number 15, is the:",
+    "options": [
+      "IVC",
+      "Aorta",
+      "Portal vein",
+      "Azygos vein",
+      "Superior mesenteric vein"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2081",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page11_image1.png",
+    "question": "The artery indicated by number 16, branching from the distal aorta, is the:",
+    "options": [
+      "Femoral artery",
+      "Internal iliac artery",
+      "External iliac artery",
+      "Common iliac artery",
+      "Inferior mesenteric artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2082",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page12_image1.png",
+    "question": "In this more posterior coronal CT, what is the artery indicated by number 1, arching over the left lung apex?",
+    "options": [
+      "L common carotid artery",
+      "L subclavian artery",
+      "Brachiocephalic trunk",
+      "L internal thoracic artery",
+      "L vertebral artery"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2083",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page12_image1.png",
+    "question": "The great vessel indicated by number 2 is the:",
+    "options": [
+      "Ascending aorta",
+      "Superior vena cava",
+      "Pulmonary trunk",
+      "Arch of aorta",
+      "Descending aorta"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2084",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page12_image1.png",
+    "question": "According to the provided key, what is the vessel indicated by number 3 in the right side of the neck?",
+    "options": [
+      "Right internal jugular vein",
+      "Right subclavian artery",
+      "Right vertebral artery",
+      "Right internal carotid",
+      "Right common carotid artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2085",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page12_image1.png",
+    "question": "The muscle separating the thoracic and abdominal cavities, indicated by number 4, is the:",
+    "options": [
+      "Psoas major",
+      "Diaphragm",
+      "Intercostal muscle",
+      "Latissimus dorsi",
+      "Serratus anterior"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2086",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page12_image1.png",
+    "question": "What large organ is indicated by the number 5?",
+    "options": [
+      "Stomach",
+      "Spleen",
+      "Right kidney",
+      "Liver",
+      "Pancreas"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2087",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page12_image1.png",
+    "question": "The large vein receiving blood from the lower body, indicated by number 6, is the:",
+    "options": [
+      "Superior vena cava",
+      "Portal vein",
+      "Azygos vein",
+      "Inferior vena cava",
+      "Common iliac vein"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2088",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page12_image1.png",
+    "question": "Identify the organ in the left upper quadrant, indicated by number 7.",
+    "options": [
+      "Liver",
+      "Left kidney",
+      "Stomach",
+      "Spleen",
+      "Pancreas"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2089",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page12_image1.png",
+    "question": "The hollow organ medial to the spleen, indicated by number 8, is the:",
+    "options": [
+      "Duodenum",
+      "Jejunum",
+      "Stomach",
+      "Transverse colon",
+      "Left kidney"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2090",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page12_image1.png",
+    "question": "The structure indicated by number 9, extending towards the spleen, is the:",
+    "options": [
+      "Stomach",
+      "Spleen",
+      "Left kidney",
+      "Duodenum",
+      "Pancreas: body & tail"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2091",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page12_image1.png",
+    "question": "The C-shaped loop of small bowel medial to the right kidney, indicated by number 10, is the:",
+    "options": [
+      "Ileum",
+      "Jejunum",
+      "Second part of duodenum",
+      "Stomach",
+      "Caecum"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2092",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page12_image1.png",
+    "question": "The loops of bowel scattered in the lower abdomen, indicated by number 11, are:",
+    "options": [
+      "Ascending colon",
+      "Descending colon",
+      "Parts of small bowel",
+      "Sigmoid colon",
+      "Stomach"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2093",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page12_image1.png",
+    "question": "What part of the large intestine is indicated by number 12?",
+    "options": [
+      "Ascending colon",
+      "Descending colon",
+      "Transverse colon",
+      "Caecum",
+      "Sigmoid colon"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2094",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page12_image1.png",
+    "question": "The vessel indicated by number 13, branching anteriorly from the aorta, is the:",
+    "options": [
+      "Superior mesenteric artery",
+      "Inferior mesenteric artery",
+      "Renal artery",
+      "Stem of coeliac artery",
+      "Lumbar artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2095",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page12_image1.png",
+    "question": "What is the organ seen in the pelvis, indicated by number 14?",
+    "options": [
+      "Rectum",
+      "Uterus",
+      "Bladder",
+      "Prostate",
+      "Sigmoid colon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2096",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page12_image1.png",
+    "question": "The muscle indicated by number 15, located in the posterior abdominal wall, is the:",
+    "options": [
+      "Quadratus lumborum",
+      "Iliacus",
+      "Psoas",
+      "Erector spinae",
+      "Rectus abdominis"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2097",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page13_image1.png",
+    "question": "In this sagittal CT, what is the vein indicated by number 1, located superiorly?",
+    "options": [
+      "Left internal jugular vein",
+      "Left brachiocephalic vein",
+      "Left subclavian vein",
+      "Superior vena cava",
+      "Right subclavian vein"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2098",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page13_image1.png",
+    "question": "What is the most anterior chamber of the heart, indicated by number 2?",
+    "options": [
+      "Left ventricle",
+      "Right atrium",
+      "Left atrium",
+      "Right ventricle",
+      "Aorta"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2099",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page13_image1.png",
+    "question": "The great vessel arising from the right ventricle, indicated by number 3, is the:",
+    "options": [
+      "Ascending aorta",
+      "Pulmonary trunk",
+      "Superior vena cava",
+      "Descending aorta",
+      "Coronary sinus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2100",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page13_image1.png",
+    "question": "The airway seen in cross-section posterior to the pulmonary artery, indicated by number 4, is the:",
+    "options": [
+      "Trachea",
+      "Right main bronchus",
+      "Left main bronchus",
+      "Oesophagus",
+      "Lobar bronchus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2101",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page13_image1.png",
+    "question": "The most posterior chamber of the heart in this sagittal view, indicated by number 5, is the:",
+    "options": [
+      "Right atrium",
+      "Right ventricle",
+      "Left ventricle",
+      "Left atrium",
+      "Pulmonary trunk"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2102",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page13_image1.png",
+    "question": "What is the large vein seen superiorly in the neck, indicated by number 6?",
+    "options": [
+      "Left subclavian vein",
+      "Left internal jugular vein",
+      "Left external jugular vein",
+      "Left brachiocephalic vein",
+      "Left vertebral vein"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2103",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page13_image1.png",
+    "question": "The superior-most part of the aorta seen in this image, indicated by number 7, is the:",
+    "options": [
+      "Ascending aorta",
+      "Descending aorta",
+      "Arch of aorta",
+      "Pulmonary trunk",
+      "Brachiocephalic trunk"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2104",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page13_image1.png",
+    "question": "The first major unpaired branch of the abdominal aorta, indicated by number 8, is the:",
+    "options": [
+      "Superior mesenteric artery",
+      "Celiac artery",
+      "Inferior mesenteric artery",
+      "Renal artery",
+      "Gonadal artery"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2105",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page13_image1.png",
+    "question": "What is the large organ indicated by number 9?",
+    "options": [
+      "Stomach",
+      "Spleen",
+      "Right kidney",
+      "Pancreas",
+      "Liver"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2106",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page13_image1.png",
+    "question": "The organ seen in cross-section posterior to the liver, indicated by number 10, is the:",
+    "options": [
+      "Stomach",
+      "Pancreas",
+      "Duodenum",
+      "Transverse colon",
+      "Spleen"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2107",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page13_image1.png",
+    "question": "The gland located posterior to the stomach, indicated by number 11, is the:",
+    "options": [
+      "Spleen",
+      "Left kidney",
+      "Pancreas",
+      "Adrenal gland",
+      "Duodenum"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2108",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page13_image1.png",
+    "question": "The structures indicated by number 12 in the lower abdomen and pelvis are:",
+    "options": [
+      "Kidneys and ureters",
+      "Uterus and ovaries",
+      "Parts of small and large bowel",
+      "Muscles of the abdominal wall",
+      "Major blood vessels"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2109",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page13_image1.png",
+    "question": "What is the most anterior organ in the pelvis, indicated by number 13?",
+    "options": [
+      "Rectum",
+      "Uterus",
+      "Prostate",
+      "Bladder",
+      "Sigmoid colon"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2110",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page14_image1.png",
+    "question": "In this midline sagittal MRI of a female pelvis, what is the anterior-most bone indicated by number 1?",
+    "options": [
+      "Ischium",
+      "Pubic symphysis",
+      "Coccyx",
+      "Sacrum",
+      "Femur"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2111",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page14_image1.png",
+    "question": "The bones forming the posterior wall of the pelvis, indicated by number 2, are:",
+    "options": [
+      "Lumbar vertebrae",
+      "Parts of sacrum",
+      "Iliac bones",
+      "Ischial bones",
+      "Coccygeal vertebrae"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2112",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page14_image1.png",
+    "question": "The part of the large intestine superior to the rectum, indicated by number 3, is the:",
+    "options": [
+      "Caecum",
+      "Ascending colon",
+      "Transverse colon",
+      "Descending colon",
+      "Sigmoid colon"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2113",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page14_image1.png",
+    "question": "What is the terminal part of the large intestine, indicated by number 4?",
+    "options": [
+      "Sigmoid colon",
+      "Caecum",
+      "Rectum",
+      "Anal canal",
+      "Appendix"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2114",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "image_path": "media/page14_image1.png",
+    "question": "The pear-shaped muscular organ located between the bladder and rectum, indicated by number 5, is the:",
+    "options": [
+      "Ovary",
+      "Vagina",
+      "Fallopian tube",
+      "Uterus",
+      "Bladder"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2115",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "image_path": "media/page14_image1.png",
+    "question": "The recess behind the cervix, indicated by number 6, is the:",
+    "options": [
+      "Anterior fornix of vagina",
+      "Posterior fornix of vagina",
+      "Vesico-uterine pouch",
+      "Recto-uterine pouch",
+      "Body of uterus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2116",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "image_path": "media/page14_image1.png",
+    "question": "The potential space between the uterus and the rectum, indicated by number 7, is the:",
+    "options": [
+      "Vesico-uterine pouch",
+      "Posterior fornix",
+      "Recto-uterine pouch",
+      "Pouch of Douglas",
+      "Broad ligament"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2117",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page14_image1.png",
+    "question": "The organ located anterior to the uterus, indicated by number 8, is the:",
+    "options": [
+      "Rectum",
+      "Ovary",
+      "Bladder",
+      "Urethra",
+      "Small bowel"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2118",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page14_image1.png",
+    "question": "What is indicated by number 9 in this sagittal MRI?",
+    "options": [
+      "Ovary",
+      "Section of small bowel",
+      "Fallopian tube",
+      "Ureter",
+      "Sigmoid colon"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2119",
+    "topic": "ANATOMY OF THE GASTROINTESTINAL TRACT",
+    "image_path": "media/page14_image2.png",
+    "question": "In this axial MRI of a female pelvis, what is the structure indicated by number 1?",
+    "options": [
+      "Uterus",
+      "Cervix",
+      "Bladder",
+      "Rectum",
+      "Ovary"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2120",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "image_path": "media/page14_image2.png",
+    "question": "The structure indicated by number 2, anterior to the rectum, is the:",
+    "options": [
+      "Bladder",
+      "Ovary",
+      "Uterus, cervix",
+      "Vagina",
+      "Fallopian tube"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2121",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page14_image3.png",
+    "question": "In this coronal MRI of a male pelvis, what part of the femur is indicated by number 1?",
+    "options": [
+      "Greater trochanter",
+      "Lesser trochanter",
+      "Head of femur",
+      "Neck of femur",
+      "Shaft of femur"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2122",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page14_image3.png",
+    "question": "What is the muscle indicated by number 2, located superior to the hip joint?",
+    "options": [
+      "Iliacus",
+      "Psoas muscle",
+      "Sartorius",
+      "Rectus femoris",
+      "Obturator internus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2123",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page14_image3.png",
+    "question": "The fluid-filled organ superior to the prostate, indicated by number 3, is the:",
+    "options": [
+      "Rectum",
+      "Seminal vesicle",
+      "Bladder",
+      "Ureter",
+      "Sigmoid colon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2124",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "image_path": "media/page14_image3.png",
+    "question": "What is the gland indicated by number 4, located inferior to the bladder?",
+    "options": [
+      "Seminal vesicle",
+      "Bulbourethral gland",
+      "Testis",
+      "Prostate",
+      "Epididymis"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2125",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "image_path": "media/page14_image3.png",
+    "question": "The erectile tissue of the penis, indicated by number 5, is the:",
+    "options": [
+      "Corpus spongiosum",
+      "Corpus cavernosum",
+      "Glans penis",
+      "Tunica albuginea",
+      "Urethra"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2126",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image2.png",
+    "question": "In this axial MRI of the shoulder, what part of the humerus is indicated by number 1?",
+    "options": [
+      "Greater tubercle",
+      "Lesser tubercle",
+      "Head of humerus",
+      "Surgical neck",
+      "Shaft of humerus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2127",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image2.png",
+    "question": "What is the socket of the shoulder joint, indicated by number 2?",
+    "options": [
+      "Acromion",
+      "Coracoid process",
+      "Glenoid fossa",
+      "Spine of scapula",
+      "Clavicle"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2128",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image2.png",
+    "question": "The fibrocartilaginous rim that deepens the shoulder socket, indicated by number 3, is the:",
+    "options": [
+      "Articular cartilage",
+      "Joint capsule",
+      "Glenoid labrum",
+      "Subacromial bursa",
+      "Biceps tendon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2129",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image2.png",
+    "question": "The rotator cuff muscle located on the anterior aspect of the scapula, indicated by number 4, is the:",
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Teres minor",
+      "Subscapularis",
+      "Deltoid"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2130",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image2.png",
+    "question": "The tissue indicated by number 5 in the axilla is:",
+    "options": [
+      "Axillary artery",
+      "Axillary nerve",
+      "Axillary fat",
+      "Axillary lymph nodes",
+      "Brachial plexus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2131",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image2.png",
+    "question": "What is the large muscle covering the shoulder joint, indicated by number 6?",
+    "options": [
+      "Pectoralis major",
+      "Trapezius",
+      "Deltoid",
+      "Infraspinatus",
+      "Subscapularis"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2132",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image2.png",
+    "question": "The rotator cuff muscle on the posterior aspect of the scapula, indicated by number 7, is the:",
+    "options": [
+      "Supraspinatus",
+      "Infraspinatus",
+      "Teres minor",
+      "Subscapularis",
+      "Deltoid"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2133",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image1.png",
+    "question": "In this coronal MRI of the shoulder, what is the structure labeled with number 1?",
+    "options": [
+      "Acromion",
+      "Glenoid fossa",
+      "Clavicle",
+      "Head of humerus",
+      "Coracoid process"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2134",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image1.png",
+    "question": "The part of the scapula that forms the 'roof' of the shoulder joint, indicated by number 2, is the:",
+    "options": [
+      "Glenoid fossa",
+      "Spine of scapula",
+      "Acromion",
+      "Coracoid process",
+      "Head of humerus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2135",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image1.png",
+    "question": "What is the shallow socket of the scapula that articulates with the humerus, indicated by number 3?",
+    "options": [
+      "Acromion",
+      "Glenoid fossa",
+      "Coracoid process",
+      "Supraglenoid tubercle",
+      "Infraglenoid tubercle"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2136",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image1.png",
+    "question": "The rim of fibrocartilage attached to the glenoid fossa, indicated by number 4, is the:",
+    "options": [
+      "Glenoid labrum",
+      "Joint capsule",
+      "Articular cartilage",
+      "Supraspinatus tendon",
+      "Synovial membrane"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2137",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image1.png",
+    "question": "The rotator cuff muscle located superior to the head of the humerus, indicated by number 5, is the:",
+    "options": [
+      "Infraspinatus",
+      "Subscapularis",
+      "Teres minor",
+      "Supraspinatus",
+      "Deltoid"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2138",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page15_image1.png",
+    "question": "What is the large, superficial muscle of the shoulder indicated by number 6?",
+    "options": [
+      "Trapezius",
+      "Supraspinatus",
+      "Infraspinatus",
+      "Pectoralis major",
+      "Deltoid"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2139",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image1.png",
+    "question": "In this axial MRI of the elbow, what is the bone indicated by number 1?",
+    "options": [
+      "Proximal radius",
+      "Proximal ulna",
+      "Distal end humerus",
+      "Olecranon process",
+      "Head of radius"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2140",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image1.png",
+    "question": "The part of the ulna that forms the point of the elbow, indicated by number 2, is the:",
+    "options": [
+      "Coronoid process",
+      "Styloid process",
+      "Olecranon process",
+      "Trochlear notch",
+      "Head of ulna"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2141",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image1.png",
+    "question": "The muscle located anterior to the humerus in this axial view of the elbow, indicated by number 3, is the:",
+    "options": [
+      "Biceps brachii",
+      "Triceps brachii",
+      "Brachialis",
+      "Pronator teres",
+      "Brachioradialis"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2142",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image1.png",
+    "question": "The nerve that passes posterior to the medial epicondyle of the humerus, indicated by number 4, is the:",
+    "options": [
+      "Median nerve",
+      "Radial nerve",
+      "Musculocutaneous nerve",
+      "Ulnar nerve",
+      "Axillary nerve"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2143",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image1.png",
+    "question": "The group of muscles originating from the medial epicondyle, indicated by number 5, is the:",
+    "options": [
+      "Common extensor origin muscles",
+      "Common flexor origin muscles",
+      "Anconeus muscle",
+      "Supinator muscle",
+      "Brachialis muscle"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2144",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image1.png",
+    "question": "The group of muscles originating from the lateral epicondyle, indicated by number 6, is the:",
+    "options": [
+      "Common extensor origin muscles",
+      "Common flexor origin muscles",
+      "Biceps brachii",
+      "Triceps brachii",
+      "Pronator teres"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2145",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image1.png",
+    "question": "Number 7 indicates the position of which important neurovascular structures in the cubital fossa?",
+    "options": [
+      "Ulnar nerve & ulnar artery",
+      "Radial nerve & radial artery",
+      "Median nerve & brachial artery",
+      "Musculocutaneous nerve & basilic vein",
+      "Axillary nerve & circumflex humeral artery"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2146",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image2.png",
+    "question": "In this sagittal MRI of the elbow, what is the bone labeled with the number 1?",
+    "options": [
+      "Radius",
+      "Ulna",
+      "Distal end humerus",
+      "Olecranon",
+      "Capitulum"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2147",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image2.png",
+    "question": "The articular surface of the ulna that engages with the humerus, indicated by number 2, is the:",
+    "options": [
+      "Coronoid process",
+      "Olecranon process",
+      "Radial notch",
+      "Trochlear notch on ulna",
+      "Head of radius"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2148",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image2.png",
+    "question": "The large muscle in the anterior compartment of the arm, indicated by number 3, is the:",
+    "options": [
+      "Biceps",
+      "Triceps",
+      "Brachialis",
+      "Coracobrachialis",
+      "Deltoid"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2149",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image2.png",
+    "question": "Identify the muscle labeled with the number 4, located anterior to the brachialis.",
+    "options": [
+      "Brachioradialis",
+      "Triceps",
+      "Pronator teres",
+      "Biceps",
+      "Anconeus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2150",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image2.png",
+    "question": "The muscle in the posterior compartment of the arm, indicated by number 5, is the:",
+    "options": [
+      "Biceps",
+      "Brachialis",
+      "Triceps",
+      "Anconeus",
+      "Deltoid"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2151",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image3.png",
+    "question": "In this coronal MRI of the hand, what is the forearm bone indicated by number 1?",
+    "options": [
+      "Distal end ulna",
+      "Proximal radius",
+      "Proximal ulna",
+      "Distal end radius",
+      "Styloid process of ulna"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2152",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image3.png",
+    "question": "Which carpal bone is indicated by the number 2?",
+    "options": [
+      "Scaphoid",
+      "Lunate",
+      "Capitate",
+      "Hamate",
+      "Triquetral bone"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2153",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image3.png",
+    "question": "The bone indicated by number 3 is the:",
+    "options": [
+      "Index finger metacarpal",
+      "Middle finger metacarpal",
+      "Ring finger metacarpal",
+      "Thumb metacarpal",
+      "Proximal phalanx of middle finger"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2154",
+    "topic": "UPPER LIMB",
+    "image_path": "media/page16_image3.png",
+    "question": "What is the bone of the index finger indicated by number 4?",
+    "options": [
+      "Metacarpal",
+      "Distal phalanx",
+      "Middle phalanx",
+      "Proximal phalanx of index finger",
+      "Sesamoid bone"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2155",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image1.png",
+    "question": "In this coronal MRI of the hip, what part of the femur is indicated by number 1?",
+    "options": [
+      "Head of femur",
+      "Neck of femur",
+      "Greater trochanter",
+      "Lesser trochanter",
+      "Shaft of femur"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2156",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image1.png",
+    "question": "The large bony prominence on the lateral aspect of the proximal femur, indicated by number 2, is the:",
+    "options": [
+      "Head of femur",
+      "Lesser trochanter",
+      "Greater trochanter",
+      "Ischial tuberosity",
+      "Iliac crest"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2157",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image1.png",
+    "question": "The socket of the hip joint, indicated by number 3, is the:",
+    "options": [
+      "Iliac fossa",
+      "Glenoid",
+      "Obturator foramen",
+      "Acetabulum",
+      "Pubic symphysis"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2158",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image1.png",
+    "question": "The muscles located superior and lateral to the hip joint, indicated by number 4, are the:",
+    "options": [
+      "Gluteus maximus",
+      "Sartorius and Rectus femoris",
+      "Gluteus minimus & medius",
+      "Iliopsoas",
+      "Adductor group"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2159",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image2.png",
+    "question": "In this axial view of the hip, what is the structure labeled with number 1?",
+    "options": [
+      "Acetabulum",
+      "Greater trochanter",
+      "Head of femur",
+      "Lesser trochanter",
+      "Ischial tuberosity"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2160",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image2.png",
+    "question": "What is the bony prominence indicated by number 2?",
+    "options": [
+      "Head of femur",
+      "Greater trochanter",
+      "Lesser trochanter",
+      "Acetabulum",
+      "Ischial spine"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2161",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image2.png",
+    "question": "The socket of the hip joint, which articulates with the head of the femur, is indicated by number 3. What is this structure?",
+    "options": [
+      "Iliac fossa",
+      "Ischial tuberosity",
+      "Acetabulum",
+      "Obturator foramen",
+      "Glenoid fossa"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2162",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image2.png",
+    "question": "What is the large muscle located posteriorly, indicated by number 4?",
+    "options": [
+      "Gluteus medius",
+      "Gluteus maximus",
+      "Piriformis",
+      "Adductor magnus",
+      "Hamstrings"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2163",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image2.png",
+    "question": "The muscle indicated by number 5, passing through the lesser sciatic foramen, is the:",
+    "options": [
+      "Levator ani",
+      "Obturator internus",
+      "Piriformis",
+      "Gluteus minimus",
+      "Iliopsoas"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2164",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image2.png",
+    "question": "The fat-filled space indicated by number 6 is the:",
+    "options": [
+      "Perineal body",
+      "Obturator canal",
+      "Inguinal canal",
+      "Femoral triangle",
+      "Ischiorectal fossa"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2165",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page17_image2.png",
+    "question": "The muscle forming the pelvic diaphragm, indicated by number 7, is the:",
+    "options": [
+      "Obturator internus",
+      "Piriformis",
+      "Coccygeus",
+      "Levator ani",
+      "Ischiocavernosus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2166",
+    "topic": "ANATOMY OF THE REPRODUCTIVE SYSTEM",
+    "image_path": "media/page17_image2.png",
+    "question": "The centrally located structures indicated generally by number 8 are the:",
+    "options": [
+      "Pelvic contents",
+      "Gluteal muscles",
+      "Femoral neurovascular bundle",
+      "Lumbar plexus",
+      "Sacral plexus"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2167",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image1.png",
+    "question": "In this sagittal MRI of the knee, what bone is indicated by number 1?",
+    "options": [
+      "Tibia",
+      "Fibula",
+      "Patella",
+      "Distal end of femur",
+      "Talus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2168",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image1.png",
+    "question": "The sesamoid bone located within the quadriceps tendon, indicated by number 2, is the:",
+    "options": [
+      "Femur",
+      "Tibia",
+      "Patella",
+      "Fibula",
+      "Meniscus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2169",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image1.png",
+    "question": "What is the large bone of the lower leg, indicated by number 3?",
+    "options": [
+      "Femur",
+      "Fibula",
+      "Tibia",
+      "Talus",
+      "Calcaneus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2170",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image1.png",
+    "question": "The structure superior to the patella, indicated by number 4, is the:",
+    "options": [
+      "Patellar tendon",
+      "Quadriceps tendon",
+      "Anterior cruciate ligament",
+      "Posterior cruciate ligament",
+      "Hamstring tendon"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2171",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image1.png",
+    "question": "The structure that connects the patella to the tibia, indicated by number 5, is the:",
+    "options": [
+      "Patellar tendon",
+      "Quadriceps tendon",
+      "Anterior cruciate ligament",
+      "Medial collateral ligament",
+      "Iliotibial band"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2172",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image1.png",
+    "question": "The crescent-shaped fibrocartilage structures that cushion the knee joint, indicated by number 6, are the:",
+    "options": [
+      "Cruciate ligaments",
+      "Collateral ligaments",
+      "Articular cartilage",
+      "Parts of menisci",
+      "Bursae"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2173",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image1.png",
+    "question": "What is the large calf muscle in the posterior compartment of the leg, indicated by number 7?",
+    "options": [
+      "Soleus",
+      "Gastrocnemius",
+      "Tibialis posterior",
+      "Hamstrings",
+      "Popliteus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2174",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image2.png",
+    "question": "What bone is indicated by number 1 in this sagittal view of the knee?",
+    "options": [
+      "Tibia",
+      "Fibula",
+      "Patella",
+      "Distal end of femur",
+      "Talus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2175",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image2.png",
+    "question": "The bone indicated by number 2 is the:",
+    "options": [
+      "Femur",
+      "Fibula",
+      "Tibia",
+      "Patella",
+      "Calcaneus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2176",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image2.png",
+    "question": "The ligament that prevents posterior displacement of the tibia on the femur, indicated by number 3, is the:",
+    "options": [
+      "Anterior cruciate ligament",
+      "Posterior cruciate ligament",
+      "Medial collateral ligament",
+      "Lateral collateral ligament",
+      "Patellar tendon"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2177",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image2.png",
+    "question": "The muscle in the posterior aspect of the knee, indicated by number 4, is the:",
+    "options": [
+      "Gastrocnemius",
+      "Popliteus",
+      "Soleus",
+      "Biceps femoris",
+      "Sartorius"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2178",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image3.png",
+    "question": "In this sagittal knee MRI, the bone labeled with number 1 is the:",
+    "options": [
+      "Proximal end of tibia",
+      "Patella",
+      "Distal end of femur",
+      "Proximal end of fibula",
+      "Calcaneus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2179",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image3.png",
+    "question": "The bone labeled with number 2 is the:",
+    "options": [
+      "Femur",
+      "Tibia",
+      "Fibula",
+      "Patella",
+      "Meniscus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2180",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image3.png",
+    "question": "The bone labeled with number 3 is the:",
+    "options": [
+      "Femur",
+      "Tibia",
+      "Fibula",
+      "Patella",
+      "Talus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2181",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image3.png",
+    "question": "The tendon indicated by number 4, located superior to the patella, is the:",
+    "options": [
+      "Patellar tendon",
+      "Quadriceps tendon",
+      "Biceps femoris tendon",
+      "Iliotibial band",
+      "Sartorius tendon"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2182",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image3.png",
+    "question": "The structure connecting the patella to the tibia, indicated by number 5, is the:",
+    "options": [
+      "Anterior cruciate ligament",
+      "Quadriceps tendon",
+      "Patellar tendon",
+      "Posterior cruciate ligament",
+      "Medial collateral ligament"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2183",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image3.png",
+    "question": "The intra-articular ligament preventing anterior translation of the tibia, indicated by number 6, is the:",
+    "options": [
+      "Posterior cruciate ligament",
+      "Medial collateral ligament",
+      "Lateral collateral ligament",
+      "Anterior cruciate ligament",
+      "Patellar tendon"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2184",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image3.png",
+    "question": "The structure reinforcing the back of the knee, indicated by number 7, is the:",
+    "options": [
+      "Oblique popliteal ligament",
+      "Arcuate popliteal ligament",
+      "Posterior cruciate ligament",
+      "Gastrocnemius muscle belly",
+      "Posterior part of knee capsule"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2185",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page18_image3.png",
+    "question": "The major blood vessel located in the posterior aspect of the knee, indicated by number 8, is the:",
+    "options": [
+      "Popliteal vein",
+      "Femoral artery",
+      "Great saphenous vein",
+      "Popliteal artery",
+      "Peroneal artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2186",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image4.png",
+    "question": "In this coronal view of the knee, what is the superior bone indicated by number 1?",
+    "options": [
+      "Tibia",
+      "Fibula",
+      "Distal end of femur",
+      "Patella",
+      "Talus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2187",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image4.png",
+    "question": "The large, weight-bearing bone of the lower leg, indicated by number 2, is the:",
+    "options": [
+      "Femur",
+      "Fibula",
+      "Tibia",
+      "Calcaneus",
+      "Talus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2188",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image4.png",
+    "question": "The centrally located ligaments that provide stability to the knee, indicated by number 3, are the:",
+    "options": [
+      "Medial and lateral collateral ligaments",
+      "Patellar and quadriceps tendons",
+      "Anterior & posterior cruciate ligaments",
+      "Medial and lateral menisci",
+      "Arcuate and oblique popliteal ligaments"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2189",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page18_image4.png",
+    "question": "The fibrocartilaginous structures indicated by number 4, located between the femur and tibia, are the:",
+    "options": [
+      "Cruciate ligaments",
+      "Collateral ligaments",
+      "Articular cartilage",
+      "Part of medial & lateral meniscus",
+      "Synovial fluid"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2190",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image1.png",
+    "question": "In this sagittal MRI of the ankle, what is the bone labeled with number 1?",
+    "options": [
+      "Distal end of fibula",
+      "Talus",
+      "Calcaneus",
+      "Distal end of tibia",
+      "Navicular"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2191",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image1.png",
+    "question": "The ankle bone that articulates with the tibia and fibula, indicated by number 2, is the:",
+    "options": [
+      "Calcaneus",
+      "Talus",
+      "Navicular",
+      "Cuboid",
+      "Medial cuneiform"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2192",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image1.png",
+    "question": "What is the large bone forming the heel, indicated by number 3?",
+    "options": [
+      "Talus",
+      "Navicular",
+      "Calcaneus",
+      "Cuboid",
+      "Tibia"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2193",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image1.png",
+    "question": "The tarsal bone located anterior to the talus, indicated by number 4, is the:",
+    "options": [
+      "Cuboid",
+      "Medial cuneiform",
+      "Calcaneus",
+      "Navicular",
+      "Lateral cuneiform"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2194",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image1.png",
+    "question": "The tarsal bone indicated by number 5 is the:",
+    "options": [
+      "Navicular",
+      "Cuboid",
+      "Lateral cuneiform",
+      "Intermediate cuneiform",
+      "Medial cuneiform"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2195",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image1.png",
+    "question": "The large tendon attaching to the posterior aspect of the calcaneus, indicated by number 6, is the:",
+    "options": [
+      "Tibialis posterior tendon",
+      "Peroneus longus tendon",
+      "Achilles tendon",
+      "Extensor hallucis longus tendon",
+      "Flexor hallucis longus tendon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2196",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image1.png",
+    "question": "The structure indicated by number 7 is a:",
+    "options": [
+      "Muscle in deep posterior compartment",
+      "Muscle in anterior compartment",
+      "Muscle in lateral compartment",
+      "Superficial posterior compartment muscle",
+      "Neurovascular bundle"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2197",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image1.png",
+    "question": "The tendon running on the dorsal aspect of the foot, indicated by number 8, is an:",
+    "options": [
+      "Achilles tendon",
+      "Flexor tendon",
+      "Extensor tendon",
+      "Peroneal tendon",
+      "Tibialis posterior tendon"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2198",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image1.png",
+    "question": "The tissue forming the sole of the foot, indicated by number 9, is the:",
+    "options": [
+      "Plantar fascia",
+      "Intrinsic muscles of the foot",
+      "Loculated fat of sole",
+      "Plantar arch vessels",
+      "Long plantar ligament"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2199",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image2.png",
+    "question": "In this coronal view of the ankle, what is the large bone indicated by number 1?",
+    "options": [
+      "Talus",
+      "Fibula",
+      "Calcaneus",
+      "Distal end of tibia",
+      "Navicular"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2200",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image2.png",
+    "question": "The bony prominence on the inner side of the ankle, indicated by number 2, is the:",
+    "options": [
+      "Lateral malleolus",
+      "Medial malleolus",
+      "Fibular malleolus",
+      "Styloid process",
+      "Sustentaculum tali"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2201",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image2.png",
+    "question": "The bony prominence on the outer side of the ankle, indicated by number 3, is the:",
+    "options": [
+      "Medial malleolus",
+      "Head of fibula",
+      "Fibular malleolus",
+      "Styloid process of tibia",
+      "Sustentaculum tali"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2202",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image2.png",
+    "question": "The bone that sits between the tibia and the calcaneus, indicated by number 4, is the:",
+    "options": [
+      "Navicular",
+      "Cuboid",
+      "Calcaneus",
+      "Talus",
+      "Medial cuneiform"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2203",
+    "topic": "LOWER LIMB",
+    "image_path": "media/page19_image2.png",
+    "question": "What is the bone that forms the heel, indicated by number 5?",
+    "options": [
+      "Talus",
+      "Navicular",
+      "Calcaneus",
+      "Cuboid",
+      "Tibia"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2204",
+    "topic": "SKULL",
+    "image_path": "media/page20_image1.png",
+    "question": "In this T1 sagittal MRI of the head, what are the air-filled spaces indicated by number 1?",
+    "options": [
+      "Sphenoid sinuses",
+      "Frontal sinuses",
+      "Ethmoid sinuses",
+      "Maxillary sinuses",
+      "Mastoid air cells"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2205",
+    "topic": "SKULL",
+    "image_path": "media/page20_image1.png",
+    "question": "The paranasal sinus located within the body of the sphenoid bone, indicated by number 2, is the:",
+    "options": [
+      "Frontal sinus",
+      "Sphenoid sinus",
+      "Ethmoid sinus",
+      "Maxillary sinus",
+      "Cavernous sinus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2206",
+    "topic": "SKULL",
+    "image_path": "media/page20_image1.png",
+    "question": "The bony plates within the nasal cavity, indicated by number 3, are the:",
+    "options": [
+      "Nasal septum",
+      "Vomer",
+      "Middle & inferior concha",
+      "Cribriform plate",
+      "Palatine bones"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2207",
+    "topic": "SKULL",
+    "image_path": "media/page20_image1.png",
+    "question": "What is the structure that forms the roof of the mouth, indicated by number 4?",
+    "options": [
+      "Soft palate",
+      "Tongue",
+      "Mandible",
+      "Hard palate",
+      "Uvula"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2208",
+    "topic": "SKULL",
+    "image_path": "media/page20_image1.png",
+    "question": "The bone forming the lower jaw, indicated by number 5, is the:",
+    "options": [
+      "Maxilla",
+      "Zygoma",
+      "Hyoid bone",
+      "Mandible",
+      "Palatine bone"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2209",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page20_image1.png",
+    "question": "The large muscular structure in the floor of the mouth, indicated by number 6, is the:",
+    "options": [
+      "Hard palate",
+      "Soft palate",
+      "Epiglottis",
+      "Tongue",
+      "Mylohyoid muscle"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2210",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page20_image1.png",
+    "question": "The flap of cartilage at the root of the tongue, indicated by number 7, is the:",
+    "options": [
+      "Thyroid cartilage",
+      "Cricoid cartilage",
+      "Epiglottis",
+      "Arytenoid cartilage",
+      "Uvula"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2211",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page20_image1.png",
+    "question": "What part of the C1 vertebra is indicated by number 8?",
+    "options": [
+      "Posterior arch of atlas",
+      "Transverse process of atlas",
+      "Ant arch of atlas",
+      "Body of atlas",
+      "Lateral mass of atlas"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2212",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page20_image1.png",
+    "question": "The structure indicated by number 9 represents which parts of the C2 vertebra?",
+    "options": [
+      "Spinous process and lamina",
+      "Body and dens of axis",
+      "Transverse process and foramen",
+      "Pedicle and superior articular facet",
+      "Body and spinous process"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2213",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image1.png",
+    "question": "The folded outer layer of the cerebrum, indicated by number 10, is the:",
+    "options": [
+      "Corpus callosum",
+      "Basal ganglia",
+      "Thalamus",
+      "Parts of cerebral cortex",
+      "Cerebellum"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2214",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image1.png",
+    "question": "The large white matter tract connecting the cerebral hemispheres, indicated by number 11, is the:",
+    "options": [
+      "Fornix",
+      "Internal capsule",
+      "Corpus callosum",
+      "Thalamus",
+      "Cingulate gyrus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2215",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image1.png",
+    "question": "The C-shaped bundle of nerve fibers inferior to the corpus callosum, indicated by number 12, is the:",
+    "options": [
+      "Thalamus",
+      "Fornix",
+      "Cingulate gyrus",
+      "Septum pellucidum",
+      "Pineal gland"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2216",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image1.png",
+    "question": "The most superior part of the brainstem, indicated by number 13, is the:",
+    "options": [
+      "Pons",
+      "Medulla",
+      "Midbrain",
+      "Cerebellum",
+      "Thalamus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2217",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image1.png",
+    "question": "The dural fold separating the cerebrum from the cerebellum, indicated by number 14, is the:",
+    "options": [
+      "Falx cerebri",
+      "Falx cerebelli",
+      "Tentorium",
+      "Diaphragma sellae",
+      "Superior sagittal sinus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2218",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image1.png",
+    "question": "The part of the brainstem located between the midbrain and medulla, indicated by number 15, is the:",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Cerebellum",
+      "Pons",
+      "Spinal cord"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2219",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image1.png",
+    "question": "The structure located posterior to the brainstem, responsible for motor coordination, is indicated by number 16. It is the:",
+    "options": [
+      "Cerebral cortex",
+      "Thalamus",
+      "Cerebellum",
+      "Basal ganglia",
+      "Pons"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2220",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image1.png",
+    "question": "The most inferior part of the brainstem, continuous with the spinal cord, is indicated by number 17. It is the:",
+    "options": [
+      "Pons",
+      "Midbrain",
+      "Cerebellum",
+      "Thalamus",
+      "Medulla"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2221",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page20_image1.png",
+    "question": "The neural structure continuous inferiorly with the medulla, indicated by number 18, is the:",
+    "options": [
+      "Pons",
+      "Cerebellum",
+      "Spinal cord",
+      "Cauda equina",
+      "Brainstem"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2222",
+    "topic": "SKULL",
+    "image_path": "media/page20_image2.png",
+    "question": "In this T2 sagittal MRI of the head, what are the air-filled spaces indicated by number 1?",
+    "options": [
+      "Sphenoid sinuses",
+      "Frontal sinuses",
+      "Ethmoid sinuses",
+      "Maxillary sinuses",
+      "Mastoid air cells"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2223",
+    "topic": "SKULL",
+    "image_path": "media/page20_image2.png",
+    "question": "What is the paranasal sinus indicated by number 2, which appears bright due to fluid or mucosal thickening in this T2 image?",
+    "options": [
+      "Frontal sinus",
+      "Sphenoid sinus",
+      "Ethmoid sinus",
+      "Maxillary sinus",
+      "Cavernous sinus"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2224",
+    "topic": "SKULL",
+    "image_path": "media/page20_image2.png",
+    "question": "The scroll-like bones within the nasal cavity, indicated by number 3, are the:",
+    "options": [
+      "Nasal septum",
+      "Vomer",
+      "Middle & inferior concha",
+      "Cribriform plate",
+      "Palatine bones"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2225",
+    "topic": "SKULL",
+    "image_path": "media/page20_image2.png",
+    "question": "The bony structure separating the nasal and oral cavities, indicated by number 4, is the:",
+    "options": [
+      "Soft palate",
+      "Tongue",
+      "Mandible",
+      "Hard palate",
+      "Uvula"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2226",
+    "topic": "SKULL",
+    "image_path": "media/page20_image2.png",
+    "question": "What is the bone that forms the lower jaw, indicated by number 5?",
+    "options": [
+      "Maxilla",
+      "Zygoma",
+      "Hyoid bone",
+      "Mandible",
+      "Palatine bone"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2227",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page20_image2.png",
+    "question": "The muscular organ occupying the floor of the mouth, indicated by number 6, is the:",
+    "options": [
+      "Hard palate",
+      "Soft palate",
+      "Epiglottis",
+      "Tongue",
+      "Mylohyoid muscle"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2228",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page20_image2.png",
+    "question": "What is the cartilaginous structure that guards the opening of the larynx, indicated by number 7?",
+    "options": [
+      "Thyroid cartilage",
+      "Cricoid cartilage",
+      "Epiglottis",
+      "Arytenoid cartilage",
+      "Uvula"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2229",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page20_image2.png",
+    "question": "The entrance to the larynx, superior to the vocal cords, is indicated by number 8. What is this space called?",
+    "options": [
+      "Piriform fossa",
+      "Vallecula",
+      "Vestibule of larynx",
+      "Trachea",
+      "Glottis"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2230",
+    "topic": "ANATOMY OF THE RESPIRATORY SYSTEM",
+    "image_path": "media/page20_image2.png",
+    "question": "The airway tube extending down into the thorax, indicated by number 9, is the:",
+    "options": [
+      "Oesophagus",
+      "Larynx",
+      "Pharynx",
+      "Trachea",
+      "Bronchus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2231",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page20_image2.png",
+    "question": "What part of the C1 vertebra is indicated by number 10?",
+    "options": [
+      "Posterior arch of atlas",
+      "Transverse process of atlas",
+      "Ant arch of atlas",
+      "Body of atlas",
+      "Lateral mass of atlas"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2232",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page20_image2.png",
+    "question": "The structure indicated by number 11 represents which parts of the C2 vertebra?",
+    "options": [
+      "Spinous process and lamina",
+      "Body and dens of axis",
+      "Transverse process and foramen",
+      "Pedicle and superior articular facet",
+      "Body and spinous process"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2233",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image2.png",
+    "question": "The outer, convoluted layer of the cerebrum is indicated by number 12. This is the:",
+    "options": [
+      "Corpus callosum",
+      "Basal ganglia",
+      "Thalamus",
+      "Parts of cerebral cortex",
+      "Cerebellum"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2234",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image2.png",
+    "question": "What is the most superior part of the brainstem, indicated by number 13?",
+    "options": [
+      "Pons",
+      "Medulla",
+      "Midbrain",
+      "Cerebellum",
+      "Thalamus"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2235",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image2.png",
+    "question": "The part of the brainstem anterior to the cerebellum, indicated by number 14, is the:",
+    "options": [
+      "Thalamus",
+      "Hypothalamus",
+      "Cerebellum",
+      "Pons",
+      "Spinal cord"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2236",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page20_image2.png",
+    "question": "The artery seen anterior to the pons, which appears as a dark circle (flow void), is indicated by number 15. This is the:",
+    "options": [
+      "Internal carotid artery",
+      "Vertebral artery",
+      "Basilar artery",
+      "Posterior cerebral artery",
+      "Anterior cerebral artery"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2237",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image2.png",
+    "question": "The structure indicated by number 16, located in the posterior cranial fossa, is the:",
+    "options": [
+      "Cerebral cortex",
+      "Thalamus",
+      "Cerebellum",
+      "Basal ganglia",
+      "Pons"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2238",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image2.png",
+    "question": "The CSF-filled space inferior to the cerebellum, which appears bright on this T2 image, is indicated by number 17. This is the:",
+    "options": [
+      "Fourth ventricle",
+      "Lateral ventricle",
+      "Cisterna magna",
+      "Quadrigeminal cistern",
+      "Interpeduncular cistern"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2239",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page20_image2.png",
+    "question": "The most inferior part of the brainstem, indicated by number 18, is the:",
+    "options": [
+      "Pons",
+      "Midbrain",
+      "Cerebellum",
+      "Thalamus",
+      "Medulla"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2240",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page20_image2.png",
+    "question": "The neural structure within the cervical vertebral canal, indicated by number 19, is the:",
+    "options": [
+      "Pons",
+      "Cerebellum",
+      "Spinal cord",
+      "Medulla",
+      "Brainstem"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2241",
+    "topic": "SKULL",
+    "image_path": "media/page21_image1.png",
+    "question": "In this axial MRI of the upper neck and oral cavity, what is the structure indicated by number 1?",
+    "options": [
+      "Tongue",
+      "Mandible",
+      "Palate",
+      "Maxilla",
+      "Uvula"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2242",
+    "topic": "SKULL",
+    "image_path": "media/page21_image1.png",
+    "question": "The structures embedded in the maxilla, indicated by number 2, are the:",
+    "options": [
+      "Lower jaw teeth",
+      "Upper jaw teeth",
+      "Gingiva",
+      "Palatine glands",
+      "Mandibular teeth"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2243",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page21_image1.png",
+    "question": "What is the fleshy extension at the back of the soft palate, indicated by number 3?",
+    "options": [
+      "Tonsil",
+      "Epiglottis",
+      "Uvula",
+      "Vocal fold",
+      "Tongue"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2244",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page21_image1.png",
+    "question": "The pharyngeal muscle that forms the back of the nasopharynx, indicated by number 4, is the:",
+    "options": [
+      "Middle constrictor",
+      "Inferior constrictor",
+      "Stylopharyngeus",
+      "Superior constrictor",
+      "Salpingopharyngeus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2245",
+    "topic": "SKULL",
+    "image_path": "media/page21_image1.png",
+    "question": "What part of the mandible is indicated by number 5?",
+    "options": [
+      "Body of mandible",
+      "Angle of mandible",
+      "Condylar process",
+      "Coronoid process",
+      "Ramus of mandible"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2246",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page21_image1.png",
+    "question": "The powerful muscle of mastication indicated by number 6 is the:",
+    "options": [
+      "Buccinator",
+      "Temporalis",
+      "Masseter",
+      "Medial pterygoid",
+      "Lateral pterygoid"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2247",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page21_image1.png",
+    "question": "The muscle of mastication located medial to the ramus of the mandible, indicated by number 7, is the:",
+    "options": [
+      "Masseter",
+      "Temporalis",
+      "Buccinator",
+      "Pterygoid muscle",
+      "Mylohyoid"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2248",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page21_image1.png",
+    "question": "What is the large salivary gland indicated by number 8?",
+    "options": [
+      "Submandibular gland",
+      "Sublingual gland",
+      "Parotid gland",
+      "Thyroid gland",
+      "Lacrimal gland"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2249",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page21_image1.png",
+    "question": "What part of the C1 vertebra is indicated by number 9?",
+    "options": [
+      "Posterior arch of atlas",
+      "Anterior arch of atlas",
+      "Transverse process of atlas",
+      "Lateral mass of atlas",
+      "Spinous process of atlas"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2250",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page21_image1.png",
+    "question": "The upward projection from the C2 vertebra, indicated by number 10, is the:",
+    "options": [
+      "Body of axis",
+      "Spinous process of axis",
+      "Odontoid process of axis",
+      "Transverse process of axis",
+      "Superior articular facet of axis"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2251",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page21_image1.png",
+    "question": "The ligament holding the odontoid process against the anterior arch of the atlas, indicated by number 11, is the:",
+    "options": [
+      "Alar ligament",
+      "Apical ligament",
+      "Anterior longitudinal ligament",
+      "Transverse ligament of atlas",
+      "Posterior longitudinal ligament"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2252",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page21_image1.png",
+    "question": "The vessels indicated by number 12, passing through the transverse foramina of the cervical vertebrae, are the:",
+    "options": [
+      "Internal carotid arteries",
+      "External carotid arteries",
+      "Vertebral arteries",
+      "Internal jugular veins",
+      "Basilar arteries"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2253",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page21_image1.png",
+    "question": "The structure containing cerebrospinal fluid that surrounds the spinal cord, indicated by number 13, is the:",
+    "options": [
+      "Epidural space",
+      "Pia mater",
+      "Dural/arachnoid sac",
+      "Subdural space",
+      "Spinal cord"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2254",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page21_image1.png",
+    "question": "The neural tissue structure within the vertebral foramen, indicated by number 14, is the:",
+    "options": [
+      "Medulla",
+      "Pons",
+      "Spinal cord",
+      "Cauda equina",
+      "Dural sac"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2255",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page21_image1.png",
+    "question": "What major artery is indicated by number 15?",
+    "options": [
+      "Vertebral artery",
+      "External carotid artery",
+      "Common carotid artery",
+      "Internal carotid artery",
+      "Basilar artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2256",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page21_image2.png",
+    "question": "In this coronal MRI, the parts of the cerebrum indicated by number 1 are the:",
+    "options": [
+      "Frontal lobes",
+      "Parietal lobes",
+      "Occipital lobes",
+      "Temporal lobes",
+      "Cerebellum"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2257",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page21_image2.png",
+    "question": "What is the structure indicated by number 2?",
+    "options": [
+      "Cerebellum",
+      "Thalamus",
+      "Brainstem",
+      "Spinal cord",
+      "Temporal lobe"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2258",
+    "topic": "SKULL",
+    "image_path": "media/page21_image2.png",
+    "question": "The dense part of the temporal bone containing the inner ear structures, indicated by number 3, is the:",
+    "options": [
+      "Mastoid process",
+      "Squamous part of temporal bone",
+      "Petrous temporal bone",
+      "Tympanic part of temporal bone",
+      "Styloid process"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2259",
+    "topic": "CRANIAL NERVES",
+    "image_path": "media/page21_image2.png",
+    "question": "The canal in the petrous temporal bone that transmits cranial nerves VII and VIII, indicated by number 4, is the:",
+    "options": [
+      "Foramen ovale",
+      "Jugular foramen",
+      "Internal acoustic meatus",
+      "Carotid canal",
+      "Foramen magnum"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2260",
+    "topic": "SKULL",
+    "image_path": "media/page21_image2.png",
+    "question": "The parts of the skull that articulate with the atlas (C1 vertebra), indicated by number 5, are the:",
+    "options": [
+      "Occipital condyles",
+      "Mastoid processes",
+      "Foramen magnum",
+      "External occipital protuberance",
+      "Styloid processes"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2261",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page21_image2.png",
+    "question": "The part of the C1 vertebra that articulates with the occipital condyle, indicated by number 6, is the:",
+    "options": [
+      "Anterior arch",
+      "Posterior arch",
+      "Lateral mass of atlas",
+      "Transverse process",
+      "Dens"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2262",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page21_image2.png",
+    "question": "What is the second cervical vertebra, indicated by number 7?",
+    "options": [
+      "Atlas",
+      "Axis",
+      "C3",
+      "C4",
+      "Vertebra prominens"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2263",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page21_image2.png",
+    "question": "The vertebral bodies indicated by number 8 belong to which segment of the spine?",
+    "options": [
+      "C1-C3",
+      "C3-C5",
+      "C5-C7",
+      "T1-T3",
+      "C2-C4"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2264",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page21_image2.png",
+    "question": "The group of muscles in the lateral neck, indicated by number 9, are the:",
+    "options": [
+      "Sternomastoid muscles",
+      "Trapezius muscles",
+      "Scalene muscles",
+      "Platysma muscles",
+      "Splenius capitis muscles"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2265",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page21_image2.png",
+    "question": "What is the large muscle of the neck indicated by number 10?",
+    "options": [
+      "Trapezius",
+      "Scalene",
+      "Platysma",
+      "Sternomastoid",
+      "Omohyoid"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2266",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page22_image1.png",
+    "question": "In this coronal MRI, what are the superior-most parts of the brain indicated by number 1?",
+    "options": [
+      "Temporal lobes",
+      "Parietal lobes",
+      "Frontal lobes",
+      "Occipital lobes",
+      "Cerebellum"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2267",
+    "topic": "ORBIT AND EYE",
+    "image_path": "media/page22_image1.png",
+    "question": "The structures indicated by number 2, including the eyeball and extraocular muscles, are contained within the:",
+    "options": [
+      "Nasal cavity",
+      "Maxillary sinus",
+      "Cranial fossa",
+      "Orbit",
+      "Ethmoid sinus"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2268",
+    "topic": "SKULL",
+    "image_path": "media/page22_image1.png",
+    "question": "The air-filled spaces located between the orbits, indicated by number 3, are the:",
+    "options": [
+      "Frontal sinuses",
+      "Sphenoid sinuses",
+      "Maxillary sinuses",
+      "Ethmoid air sinuses",
+      "Mastoid air cells"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2269",
+    "topic": "SKULL",
+    "image_path": "media/page22_image1.png",
+    "question": "The large paranasal sinuses located inferior to the orbits, indicated by number 4, are the:",
+    "options": [
+      "Frontal sinuses",
+      "Sphenoid sinuses",
+      "Maxillary sinuses",
+      "Ethmoid sinuses",
+      "Nasal cavity"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2270",
+    "topic": "SKULL",
+    "image_path": "media/page22_image1.png",
+    "question": "The structures within the nasal cavity, indicated by number 5, are the:",
+    "options": [
+      "Vomer and sphenoid",
+      "Nasal septum and conchae",
+      "Cribriform plate and crista galli",
+      "Frontal and maxillary sinuses",
+      "Olfactory bulbs"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2271",
+    "topic": "SKULL",
+    "image_path": "media/page22_image1.png",
+    "question": "The structure forming the floor of the nasal cavity, indicated by number 6, is the:",
+    "options": [
+      "Soft palate",
+      "Mandible",
+      "Tongue",
+      "Hard palate",
+      "Vomer"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2272",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page22_image1.png",
+    "question": "What is the large muscle forming the floor of the oral cavity, indicated by number 7?",
+    "options": [
+      "Masseter",
+      "Buccinator",
+      "Tongue",
+      "Hard palate",
+      "Mylohyoid"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2273",
+    "topic": "SKULL",
+    "image_path": "media/page22_image1.png",
+    "question": "The structures seen in the oral cavity, indicated by number 8, are the:",
+    "options": [
+      "Gums",
+      "Salivary glands",
+      "Teeth",
+      "Tonsils",
+      "Lips"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2274",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page22_image1.png",
+    "question": "The muscle forming the wall of the cheek, indicated by number 9, is the:",
+    "options": [
+      "Masseter",
+      "Buccinator",
+      "Temporalis",
+      "Pterygoid",
+      "Zygomaticus major"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2275",
+    "topic": "SKULL",
+    "image_path": "media/page22_image2.png",
+    "question": "In this axial MRI, what is the bone forming the arch indicated by number 1?",
+    "options": [
+      "Maxilla",
+      "Mandible",
+      "Hyoid bone",
+      "Zygoma",
+      "Palatine bone"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2276",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page22_image2.png",
+    "question": "The intrinsic and extrinsic muscles indicated by number 2 make up the:",
+    "options": [
+      "Pharynx",
+      "Larynx",
+      "Palate",
+      "Tongue muscles",
+      "Floor of mouth"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2277",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page22_image2.png",
+    "question": "The part of the pharynx posterior to the oral cavity, indicated by number 3, is the:",
+    "options": [
+      "Nasopharynx",
+      "Laryngopharynx",
+      "Oropharynx",
+      "Esophagus",
+      "Larynx"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2278",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page22_image2.png",
+    "question": "The neurovascular bundle indicated by number 4 is the:",
+    "options": [
+      "Vertebral artery and vein",
+      "Vessels in carotid sheath",
+      "External jugular vein and tributaries",
+      "Lingual artery and hypoglossal nerve",
+      "Facial artery and vein"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2279",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page22_image2.png",
+    "question": "The structure indicated by number 5 is the:",
+    "options": [
+      "Body and arch of cervical vertebra",
+      "Body of thoracic vertebra",
+      "Skull base",
+      "Hyoid bone",
+      "Clavicle"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2280",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page22_image2.png",
+    "question": "What is the vessel indicated by number 6, passing through the transverse foramen of the vertebra?",
+    "options": [
+      "Internal carotid artery",
+      "External carotid artery",
+      "Internal jugular vein",
+      "Vertebral artery",
+      "Basilar artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2281",
+    "topic": "VERTEBRAL COLUMN",
+    "image_path": "media/page22_image2.png",
+    "question": "The structure indicated by number 7, which contains the spinal cord and CSF, is the:",
+    "options": [
+      "Epidural space",
+      "Vertebral body",
+      "Dural/arachnoid sheath & spinal cord",
+      "Ligamentum flavum",
+      "Intervertebral disc"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2282",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page22_image2.png",
+    "question": "The large strap muscle located anterolaterally in the neck, indicated by number 8, is the:",
+    "options": [
+      "Trapezius",
+      "Platysma",
+      "Scalene",
+      "Sternomastoid",
+      "Splenius capitis"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2283",
+    "topic": "NECK ANATOMY",
+    "image_path": "media/page22_image2.png",
+    "question": "What is the most posterior muscle indicated by number 9?",
+    "options": [
+      "Sternomastoid",
+      "Splenius capitis",
+      "Trapezius",
+      "Levator scapulae",
+      "Scalene"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2284",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page23_image1.png",
+    "question": "In this axial MRA (Magnetic Resonance Angiogram), what artery is formed by the union of the two vertebral arteries?",
+    "options": [
+      "Internal carotid artery",
+      "Posterior cerebral artery",
+      "Anterior cerebral artery",
+      "Middle cerebral artery",
+      "Tip of basilar"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2285",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page23_image1.png",
+    "question": "What major artery supplying the brain is indicated by the label 'ICA'?",
+    "options": [
+      "Internal Carotid Artery",
+      "External Carotid Artery",
+      "Vertebral Artery",
+      "Basilar Artery",
+      "Anterior Communicating Artery"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2286",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page23_image2.png",
+    "question": "The artery labeled 'MCA', which supplies the lateral aspect of the cerebral hemispheres, is the:",
+    "options": [
+      "Anterior Cerebral Artery",
+      "Posterior Cerebral Artery",
+      "Middle Cerebral Artery",
+      "Internal Carotid Artery",
+      "Basilar Artery"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2287",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page23_image2.png",
+    "question": "The terminal branch of the basilar artery, labeled 'PCA', is the:",
+    "options": [
+      "Anterior Cerebral Artery",
+      "Middle Cerebral Artery",
+      "Posterior Cerebral Artery",
+      "Superior Cerebellar Artery",
+      "Anterior Inferior Cerebellar Artery"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2288",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page23_image3.png",
+    "question": "The artery labeled 'ACA', supplying the medial aspect of the frontal and parietal lobes, is the:",
+    "options": [
+      "Anterior Cerebral Artery",
+      "Middle Cerebral Artery",
+      "Posterior Cerebral Artery",
+      "Anterior Communicating Artery",
+      "Internal Carotid Artery"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2289",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page23_image3.png",
+    "question": "The large artery running in the lateral sulcus, labeled 'MCA', is the:",
+    "options": [
+      "Anterior Cerebral Artery",
+      "Posterior Cerebral Artery",
+      "Middle Cerebral Artery",
+      "Basilar Artery",
+      "Internal Carotid Artery"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2290",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page23_image4.png",
+    "question": "The vessel indicated by the label 'ACA' in the interhemispheric fissure is the:",
+    "options": [
+      "Middle Cerebral Artery",
+      "Posterior Cerebral Artery",
+      "Superior Sagittal Sinus",
+      "Anterior Cerebral Artery",
+      "Basilar Artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2291",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page24_image1.png",
+    "question": "The dark, CSF-filled spaces indicated by number 1 are parts of the:",
+    "options": [
+      "Third ventricle",
+      "Fourth ventricle",
+      "Lateral ventricles",
+      "Cerebral aqueduct",
+      "Subarachnoid space"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2292",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page24_image1.png",
+    "question": "The collection of deep grey matter nuclei indicated by number 2 is the:",
+    "options": [
+      "Thalamus",
+      "Basal ganglia",
+      "Insula",
+      "Hippocampus",
+      "Amygdala"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2293",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page24_image1.png",
+    "question": "The structure indicated by number 3, which acts as a relay station for sensory information, is the:",
+    "options": [
+      "Basal ganglia",
+      "Internal capsule",
+      "Insula",
+      "Thalamus",
+      "Corpus callosum"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2294",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page24_image1.png",
+    "question": "The white matter tract separating the basal ganglia and thalamus, indicated by number 4, is the:",
+    "options": [
+      "External capsule",
+      "Corpus callosum",
+      "Internal capsule",
+      "Fornix",
+      "Corona radiata"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2295",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page24_image1.png",
+    "question": "The region of cerebral cortex located deep within the lateral sulcus, indicated by number 5, is the:",
+    "options": [
+      "Temporal lobe",
+      "Parietal lobe",
+      "Cingulate gyrus",
+      "Insula",
+      "Frontal lobe"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2296",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page24_image2.png",
+    "question": "The structure in the posterior cranial fossa, indicated by number 1, is the:",
+    "options": [
+      "Pons",
+      "Cerebellum",
+      "Temporal lobe",
+      "Occipital lobe",
+      "Medulla"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2297",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page24_image2.png",
+    "question": "The part of the brainstem located anterior to the cerebellum, indicated by number 2, is the:",
+    "options": [
+      "Midbrain",
+      "Medulla",
+      "Thalamus",
+      "Pons",
+      "Spinal cord"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2298",
+    "topic": "GROSS FEATURES OF THE BRAIN",
+    "image_path": "media/page24_image2.png",
+    "question": "The most anterior and inferior part of the temporal lobe, indicated by number 3, is the:",
+    "options": [
+      "Temporal pole",
+      "Hippocampus",
+      "Amygdala",
+      "Uncus",
+      "Insula"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2299",
+    "topic": "SKULL",
+    "image_path": "media/page24_image2.png",
+    "question": "The dense bones indicated by number 4, which house the middle and inner ear, are the:",
+    "options": [
+      "Sphenoid bones",
+      "Zygomatic bones",
+      "Petrous temporal bones",
+      "Occipital bones",
+      "Mastoid processes"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2300",
+    "topic": "SKULL",
+    "image_path": "media/page24_image2.png",
+    "question": "The midline air-filled cavity indicated by number 5 is the:",
+    "options": [
+      "Ethmoid sinus",
+      "Sphenoid sinus",
+      "Frontal sinus",
+      "Maxillary sinus",
+      "Nasal cavity"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2301",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page25_image1.png",
+    "question": "In this lateral view of an internal carotid angiogram, the artery indicated by number 1, supplying the lateral surface of the cerebrum, is the:",
+    "options": [
+      "Anterior cerebral artery",
+      "Middle cerebral artery",
+      "Posterior cerebral artery",
+      "Basilar artery",
+      "Vertebral artery"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2302",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page25_image1.png",
+    "question": "In this lateral view of an internal carotid angiogram, the artery indicated by number 2, supplying the medial surface of the cerebrum, is the:",
+    "options": [
+      "Anterior cerebral artery",
+      "Middle cerebral artery",
+      "Posterior cerebral artery",
+      "Anterior communicating artery",
+      "Ophthalmic artery"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2303",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page25_image4.png",
+    "question": "In this antero-posterior view of a vertebral angiogram, the artery indicated by the lowest arrow (1) is the:",
+    "options": [
+      "Basilar artery",
+      "Posterior cerebral artery",
+      "Vertebral artery",
+      "Internal carotid artery",
+      "Posterior inferior cerebellar artery"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2304",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page25_image4.png",
+    "question": "The artery formed by the fusion of the two vertebral arteries, indicated by the middle arrow (2), is the:",
+    "options": [
+      "Posterior cerebral artery",
+      "Anterior inferior cerebellar artery",
+      "Superior cerebellar artery",
+      "Basilar artery",
+      "Posterior communicating artery"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2305",
+    "topic": "ANATOMY OF THE CARDIOVASCULAR SYSTEM",
+    "image_path": "media/page25_image4.png",
+    "question": "The terminal branches of the basilar artery, one of which is indicated by the top arrow (3), are the:",
+    "options": [
+      "Anterior cerebral arteries",
+      "Middle cerebral arteries",
+      "Posterior cerebral arteries",
+      "Superior cerebellar arteries",
+      "Anterior inferior cerebellar arteries"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2306",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page26_image1.png",
+    "question": "On this MR cholangiogram, the ducts indicated by number 1 are the:",
+    "options": [
+      "Cystic and common bile ducts",
+      "Main and accessory pancreatic ducts",
+      "Left, right, common hepatic ducts",
+      "Common bile and main pancreatic ducts",
+      "Intrahepatic bile ducts"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2307",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page26_image1.png",
+    "question": "The structures indicated by number 2 are the:",
+    "options": [
+      "Liver and right kidney",
+      "Gallbladder and cystic duct",
+      "Stomach and duodenum",
+      "Pancreas and pancreatic duct",
+      "Spleen and splenic vein"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2308",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page26_image1.png",
+    "question": "The duct formed by the union of the cystic duct and common hepatic duct, indicated by number 3, is the:",
+    "options": [
+      "Main pancreatic duct",
+      "Right hepatic duct",
+      "Common bile duct",
+      "Accessory pancreatic duct",
+      "Left hepatic duct"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2309",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page26_image1.png",
+    "question": "The duct draining the pancreas, indicated by number 4, is the:",
+    "options": [
+      "Common bile duct",
+      "Cystic duct",
+      "Common hepatic duct",
+      "Accessory pancreatic duct",
+      "Main pancreatic duct"
+    ],
+    "correct_answer_index": 4
+  },
+  {
+    "id": "q2310",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page26_image2.png",
+    "question": "In this ERCP image, the endoscope has been used to inject contrast into the duct indicated by number 3. What is this duct?",
+    "options": [
+      "Common bile duct",
+      "Cystic duct",
+      "Common hepatic duct",
+      "Pancreatic duct",
+      "Duodenal lumen"
+    ],
+    "correct_answer_index": 3
+  },
+  {
+    "id": "q2311",
+    "topic": "ANATOMY OF THE LIVER, BILIARY SYSTEM AND PANCREAS",
+    "image_path": "media/page26_image3.png",
+    "question": "In this ultrasound image, the large organ indicated by number 1 is the:",
+    "options": [
+      "Spleen",
+      "Right kidney",
+      "Liver",
+      "Pancreas",
+      "Stomach"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2312",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page26_image3.png",
+    "question": "The organ located inferior and posterior to the liver, indicated by number 2, is the:",
+    "options": [
+      "Gallbladder",
+      "Right kidney",
+      "Spleen",
+      "Adrenal gland",
+      "Duodenum"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2313",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page26_image4.png",
+    "question": "This 3-D reconstructed CT shows the kidneys. What part of the right kidney is indicated by the arrow at number 1?",
+    "options": [
+      "Renal pelvis",
+      "Major calyx",
+      "Renal cortex",
+      "Ureter",
+      "Renal artery"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2314",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page26_image5.png",
+    "question": "In this CT urogram, the structures that collect urine from the renal pyramids, indicated by number 2, are the:",
+    "options": [
+      "Renal pelvis",
+      "Minor calyces",
+      "Major calyces",
+      "Ureters",
+      "Renal cortex"
+    ],
+    "correct_answer_index": 2
+  },
+  {
+    "id": "q2315",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page26_image5.png",
+    "question": "The funnel-shaped structure that receives urine from the major calyces, indicated by number 3, is the:",
+    "options": [
+      "Ureter",
+      "Renal pelvis",
+      "Bladder",
+      "Minor calyx",
+      "Urethra"
+    ],
+    "correct_answer_index": 1
+  },
+  {
+    "id": "q2316",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page26_image5.png",
+    "question": "The tubes that carry urine from the kidneys to the bladder, indicated by number 4, show the:",
+    "options": [
+      "Course of ureter",
+      "Renal arteries",
+      "Renal veins",
+      "Gonadal vessels",
+      "Course of aorta"
+    ],
+    "correct_answer_index": 0
+  },
+  {
+    "id": "q2317",
+    "topic": "ANATOMY OF THE RENAL SYSTEM",
+    "image_path": "media/page26_image5.png",
+    "question": "The organ that stores urine, indicated by number 5, is the:",
+    "options": [
+      "Kidney",
+      "Ureter",
+      "Prostate",
+      "Bladder",
+      "Urethra"
+    ],
+    "correct_answer_index": 3
+  }
+]
