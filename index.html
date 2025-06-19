@@ -25,7 +25,6 @@
         <div class="mb-5">
             <label class="block text-gray-700 text-sm font-semibold mb-2">Filter by Topic:</label>
             <div id="topic-filters" class="grid grid-cols-1 sm:grid-cols-2 gap-3">
-                <!-- Topic checkboxes will be dynamically inserted here by JavaScript -->
                 <p class="text-gray-500">Loading topics...</p>
             </div>
         </div>
@@ -40,6 +39,16 @@
                 <label class="flex items-center text-gray-800 cursor-pointer">
                     <input type="checkbox" id="only-answered-wrong" class="form-checkbox h-4 w-4 text-blue-600 rounded focus:ring-blue-500">
                     <span class="ml-2">Only include questions I answered wrong previously <span id="wrong-count" class="text-gray-500 text-sm"></span></span>
+                </label>
+            </div>
+        </div>
+
+        <div class="mb-6">
+            <label class="block text-gray-700 text-sm font-semibold mb-2">Question Type Filters:</label>
+            <div class="space-y-2">
+                <label class="flex items-center text-gray-800 cursor-pointer">
+                    <input type="checkbox" id="only-image-questions" class="form-checkbox h-4 w-4 text-blue-600 rounded focus:ring-blue-500">
+                    <span class="ml-2">Only include image questions <span id="image-question-count" class="text-gray-500 text-sm"></span></span>
                 </label>
             </div>
         </div>
@@ -67,15 +76,13 @@
             <div class="mb-6">
                 <h3 class="text-lg font-semibold text-gray-700 mb-2">Overall Performance:</h3>
                 <div id="overall-performance-bar" class="progress-bar-container">
-                    <!-- Overall performance bar will be rendered here -->
-                </div>
+                    </div>
                 <div id="overall-performance-text" class="text-sm text-gray-600 mt-2 text-center"></div>
             </div>
 
             <div class="mb-6">
                 <h3 class="text-lg font-semibold text-gray-700 mb-2">Performance by Topic:</h3>
                 <div id="topic-performance-bars" class="space-y-4">
-                    <!-- Topic-specific performance bars will be rendered here -->
                     <p class="text-gray-500 text-center">Answer some questions to see performance by topic.</p>
                 </div>
             </div>
@@ -83,7 +90,6 @@
 
     </div>
 
-    <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     <script>
         tailwind.config = {

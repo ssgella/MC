@@ -1,7 +1,15 @@
 // app.js
 
 // --- Global Variables and Constants ---
-const QUESTIONS_FILE = './questions.json';
+// Dynamically determine BASE_URL for GitHub Pages subdirectory hosting
+// For a repo named 'MC' hosted at username.github.io/MC/
+// window.location.pathname might be '/MC/index.html' or '/MC/practice.html'
+// So we extract '/MC/'
+const BASE_URL = window.location.pathname.startsWith('/MC/') ? '/MC/' : '/';
+// If your repository name is different, change 'MC' in the line above.
+// For example, if your repo is 'my-anatomy-app', it would be '/my-anatomy-app/'
+
+const QUESTIONS_FILE = BASE_URL + 'questions.json'; // Use BASE_URL
 const LOCAL_STORAGE_KEY = 'anatomy_practice_performance'; // Key for storing performance data
 
 let allQuestions = []; // Stores all questions loaded from JSON
@@ -21,6 +29,7 @@ let reviewModeActive = false; // Tracks if the user is in session review mode
  */
 async function fetchQuestions() {
     try {
+        console.log("Attempting to fetch questions from:", QUESTIONS_FILE); // Debugging
         const response = await fetch(QUESTIONS_FILE);
         if (!response.ok) {
             throw new Error(`HTTP error! status: ${response.status}`);
@@ -96,6 +105,11 @@ function applyFilters(questionsToFilter, filters) {
         });
     }
 
+    // 4. Filter by "only image questions"
+    if (filters.onlyImageQuestions) {
+        filtered = filtered.filter(q => q.image_path && q.image_path.length > 0);
+    }
+
     return filtered;
 }
 
@@ -106,8 +120,11 @@ function updateFilterCounts() {
     const topicFiltersDiv = document.getElementById('topic-filters');
     const includeAnsweredCheckbox = document.getElementById('include-answered');
     const onlyAnsweredWrongCheckbox = document.getElementById('only-answered-wrong');
+    const onlyImageQuestionsCheckbox = document.getElementById('only-image-questions'); // New checkbox
+    
     const answeredCountSpan = document.getElementById('answered-count');
     const wrongCountSpan = document.getElementById('wrong-count');
+    const imageQuestionCountSpan = document.getElementById('image-question-count'); // New span
     const totalQuestionsCountSpan = document.getElementById('total-questions-count');
     const startPracticeBtn = document.getElementById('start-practice-btn');
 
@@ -123,13 +140,19 @@ function updateFilterCounts() {
     answeredCountSpan.textContent = `(${answeredQuestionsCount} questions)`;
     wrongCountSpan.textContent = `(${wrongAnsweredQuestionsCount} questions)`;
 
+    // Calculate image question count
+    const totalImageQuestions = allQuestions.filter(q => q.image_path && q.image_path.length > 0).length;
+    imageQuestionCountSpan.textContent = `(${totalImageQuestions} questions)`;
+
+
     // Get current filter selections
     const selectedTopics = Array.from(topicFiltersDiv.querySelectorAll('input[type="checkbox"]:checked'))
                                 .map(cb => cb.value);
     const includeAnswered = includeAnsweredCheckbox.checked;
     const onlyAnsweredWrong = onlyAnsweredWrongCheckbox.checked;
+    const onlyImageQuestions = onlyImageQuestionsCheckbox.checked; // Get new filter state
 
-    const currentFilters = { selectedTopics, includeAnswered, onlyAnsweredWrong };
+    const currentFilters = { selectedTopics, includeAnswered, onlyAnsweredWrong, onlyImageQuestions }; // Include new filter
     const availableQuestions = applyFilters(allQuestions, currentFilters);
     totalQuestionsCountSpan.textContent = availableQuestions.length;
 
@@ -149,12 +172,13 @@ function renderPerformanceBars() {
 
     // Clear previous bars
     overallPerformanceBarContainer.innerHTML = '';
+    overallPerformanceText.textContent = ''; // Clear text as well
     topicPerformanceBarsContainer.innerHTML = '';
+
 
     let totalAttempted = 0;
     let totalCorrect = 0;
     let totalIncorrect = 0;
-    let totalUnanswered = allQuestions.length; // Start with all questions as unanswered
 
     const topicStats = {}; // { 'Topic Name': { attempted: 0, correct: 0, incorrect: 0, unanswered: 0, totalQuestions: 0 } }
 
@@ -182,16 +206,16 @@ function renderPerformanceBars() {
     Object.keys(topicStats).forEach(topic => {
         topicStats[topic].unanswered = topicStats[topic].totalQuestions - topicStats[topic].attempted;
     });
-    totalUnanswered = allQuestions.length - totalAttempted;
+    let totalUnanswered = allQuestions.length - totalAttempted;
 
 
     // --- Render Overall Performance Bar ---
-    // Percentages are relative to total number of questions, not just attempted
-    const overallCorrectPct = allQuestions.length > 0 ? (totalCorrect / allQuestions.length) * 100 : 0;
-    const overallIncorrectPct = allQuestions.length > 0 ? (totalIncorrect / allQuestions.length) * 100 : 0;
-    const overallUnansweredPct = allQuestions.length > 0 ? (totalUnanswered / allQuestions.length) * 100 : 100;
-
     if (allQuestions.length > 0) {
+        // Percentages are relative to total number of questions, not just attempted
+        const overallCorrectPct = (totalCorrect / allQuestions.length) * 100;
+        const overallIncorrectPct = (totalIncorrect / allQuestions.length) * 100;
+        const overallUnansweredPct = (totalUnanswered / allQuestions.length) * 100;
+
         // Build segments
         const segments = [
             { className: 'correct-segment', width: overallCorrectPct },
@@ -217,7 +241,7 @@ function renderPerformanceBars() {
 
     // --- Render Topic-specific Performance Bars ---
     if (Object.keys(topicStats).length > 0 && totalAttempted > 0) { // Only show if at least one question answered
-        topicPerformanceBarsContainer.innerHTML = ''; // Clear "Answer some questions" message
+        topicPerformanceBarsContainer.innerHTML = ''; // Clear "Answer some questions" message if it was there
         Object.keys(topicStats).sort().forEach(topic => {
             const stats = topicStats[topic];
             if (stats.totalQuestions === 0) return; // Skip topics with no questions
@@ -281,7 +305,7 @@ function displayQuestion() {
     const currentQuestionNumSpan = document.getElementById('current-question-num');
     const totalSessionQuestionsSpan = document.getElementById('total-session-questions');
     const feedbackArea = document.getElementById('feedback-area');
-    // Removed submitBtn as it's no longer used or is hidden
+    const questionImageContainer = document.getElementById('question-image-container'); // Get image container
     const nextBtn = document.getElementById('next-question-btn');
     const prevBtn = document.getElementById('prev-question-btn');
 
@@ -293,6 +317,21 @@ function displayQuestion() {
     feedbackArea.innerHTML = ''; // Clear feedback content
     feedbackArea.classList.add('hidden'); // Hide feedback area by default
     feedbackArea.classList.remove('feedback-correct', 'feedback-incorrect', 'bg-yellow-100', 'text-yellow-800'); // Clean feedback styling
+    questionImageContainer.innerHTML = ''; // Clear previous image
+
+    // Add image if image_path exists
+    if (question.image_path) {
+        const imgElement = document.createElement('img');
+        imgElement.src = BASE_URL + question.image_path; // Use BASE_URL for image path
+        imgElement.alt = `Image for question: ${question.question}`;
+        imgElement.className = 'max-w-full h-auto rounded-md shadow-sm border border-gray-200 object-contain max-h-60 sm:max-h-80 lg:max-h-96'; // Responsive image styling
+        imgElement.onerror = () => {
+            console.error(`Failed to load image: ${imgElement.src}`);
+            imgElement.src = `https://placehold.co/400x200/cccccc/333333?text=Image+Load+Error`; // Placeholder on error
+            imgElement.alt = "Image not available";
+        };
+        questionImageContainer.appendChild(imgElement);
+    }
 
 
     nextBtn.textContent = 'Next'; // Reset button text for regular flow
@@ -352,7 +391,19 @@ function displayQuestion() {
         }
     } else {
         // Clear previous selected visual state if not answered
-        enableOptions(); // This will clear previous selection and enable
+        // This 'enableOptions' call is crucial for ensuring fresh state
+        // It clears previous selections and re-enables inputs
+        // It also clears any visual 'selected' class that might have been there
+        // This must be done after the initial rendering of options to not overwrite checked state
+        document.querySelectorAll('.option-label').forEach(label => {
+            const input = label.querySelector('input');
+            if (!isQuestionAnsweredInSession) { // Only enable/clear if not answered in session
+                input.disabled = false;
+                input.checked = false;
+                label.classList.remove('selected', 'correct-answer', 'incorrect-selected', 'cursor-default');
+                label.classList.add('hover:bg-gray-50', 'cursor-pointer');
+            }
+        });
     }
 
     updateNavigationButtons();
@@ -369,7 +420,6 @@ function handleSubmitAnswer() {
     const feedbackArea = document.getElementById('feedback-area');
 
     if (!selectedOption) {
-        // This case should ideally not happen if triggered by change event
         feedbackArea.className = 'mt-6 p-4 rounded-md bg-yellow-100 text-yellow-800';
         feedbackArea.innerHTML = '<p class="font-semibold">Please select an answer before submitting.</p>';
         feedbackArea.classList.remove('hidden');
@@ -384,7 +434,6 @@ function handleSubmitAnswer() {
          // Update visual selected state if user changes mind
         document.querySelectorAll('.option-label').forEach(label => label.classList.remove('selected'));
         selectedOption.closest('label').classList.add('selected');
-        // If immediate feedback is ON, re-show feedback
         if (immediateFeedbackEnabled) {
              showFeedbackAndHighlight(question, userAnswerIndex, isCorrect);
         }
@@ -439,7 +488,7 @@ function showFeedbackAndHighlight(question, userAnswerIndex, isCorrect) {
         feedbackArea.classList.add('feedback-correct');
         feedbackArea.innerHTML = '<p class="font-bold text-lg">Correct!</p>';
     } else {
-        feedbackArea.classList.add('feedback-incorrect');
+        feedbackArea.classList.add('incorrect-segment');
         feedbackArea.innerHTML = '<p class="font-bold text-lg">Incorrect.</p>';
     }
 
@@ -485,6 +534,7 @@ function disableOptions() {
 
 /**
  * Enables all radio button options and clears their visual state.
+ * This is primarily for resetting the options when a new, unanswered question is displayed.
  */
 function enableOptions() {
     const options = document.querySelectorAll('input[name="answer"]');
@@ -573,7 +623,7 @@ function moveToPreviousQuestion() {
 function updateNavigationButtons() {
     const prevBtn = document.getElementById('prev-question-btn');
     const nextBtn = document.getElementById('next-question-btn');
-    // Removed submitBtn as it's always hidden in immediate mode and not functional in non-immediate
+    // submitBtn is removed from HTML
     const endSessionBtn = document.getElementById('end-session-btn');
 
 
@@ -584,7 +634,6 @@ function updateNavigationButtons() {
 
     if (reviewModeActive) {
         // In review mode, hide submit and end session buttons
-        // submitBtn.classList.add('hidden'); // submitBtn already removed
         endSessionBtn.classList.add('hidden');
         nextBtn.textContent = 'Next Question (Review)';
         prevBtn.textContent = 'Previous Question (Review)';
@@ -593,8 +642,6 @@ function updateNavigationButtons() {
         // Event listeners are set globally on init, no need to reassign onclick
     } else {
         // Regular practice mode
-        // submitBtn.classList.add('hidden'); // Submit button is effectively removed/hidden
-
         if (immediateFeedbackEnabled) {
             nextBtn.classList.remove('hidden'); // Ensure next is visible
             endSessionBtn.classList.add('hidden'); // Ensure end session is hidden
@@ -606,7 +653,6 @@ function updateNavigationButtons() {
             }
         } else {
             // In results-at-end mode (non-immediate)
-            // submitBtn.classList.add('hidden'); // Submit button is effectively removed/hidden
             nextBtn.classList.remove('hidden'); // Ensure next is visible
             endSessionBtn.classList.add('hidden'); // Ensure end session is hidden
             prevBtn.classList.remove('hidden'); // Ensure prev is visible
@@ -685,7 +731,7 @@ function showSessionSummary() {
     // Bind event listeners for modal buttons
     document.getElementById('review-session-btn').onclick = startReviewMode;
     // Updated button to consistently go back to index
-    document.getElementById('start-new-session-modal-btn').onclick = () => window.location.href = 'index.html';
+    document.getElementById('start-new-session-modal-btn').onclick = () => window.location.href = BASE_URL + 'index.html'; // Use BASE_URL
     document.getElementById('start-new-session-modal-btn').textContent = 'Back to Setup / Start New Session';
 }
 
@@ -715,7 +761,8 @@ function hideConfirmModal() {
 
 // Function to run on `index.html` (setup page) load
 async function initializeSetupPage() {
-    if (window.location.pathname.endsWith('index.html') || window.location.pathname === '/') {
+    // Check if the current page is index.html (handles both root and subdirectory cases)
+    if (window.location.pathname.endsWith('index.html') || window.location.pathname === BASE_URL || window.location.pathname === BASE_URL.slice(0, -1) || window.location.pathname.endsWith('/')) {
         allQuestions = await fetchQuestions();
         userPerformance = loadUserPerformance();
 
@@ -754,6 +801,7 @@ async function initializeSetupPage() {
             }
             updateFilterCounts();
         });
+        document.getElementById('only-image-questions').addEventListener('change', updateFilterCounts); // New event listener
 
         updateFilterCounts(); // Initial update of counts
         renderPerformanceBars(); // Render performance bars on initial load of setup page
@@ -765,9 +813,10 @@ async function initializeSetupPage() {
                                        .map(cb => cb.value);
             const includeAnswered = document.getElementById('include-answered').checked;
             const onlyAnsweredWrong = document.getElementById('only-answered-wrong').checked;
+            const onlyImageQuestions = document.getElementById('only-image-questions').checked; // Get state of new checkbox
             immediateFeedbackEnabled = document.getElementById('immediate-feedback').checked; // Store this setting
 
-            const filters = { selectedTopics, includeAnswered, onlyAnsweredWrong };
+            const filters = { selectedTopics, includeAnswered, onlyAnsweredWrong, onlyImageQuestions }; // Pass new filter
             let questionsForSession = applyFilters(allQuestions, filters);
 
             // Shuffle questions
@@ -781,7 +830,7 @@ async function initializeSetupPage() {
             if (questionsForSession.length > 0) {
                 sessionStorage.setItem('sessionQuestions', JSON.stringify(questionsForSession));
                 sessionStorage.setItem('immediateFeedbackEnabled', JSON.stringify(immediateFeedbackEnabled));
-                window.location.href = 'practice.html'; // Redirect to practice page
+                window.location.href = BASE_URL + 'practice.html'; // Use BASE_URL for redirection
             } else {
                 // This should be handled by disabling the button, but as a fallback
                 console.warn("Attempted to start session with 0 questions. Button should have been disabled.");
@@ -792,13 +841,14 @@ async function initializeSetupPage() {
 
 // Function to run on `practice.html` (session page) load
 function initializePracticePage() {
-    if (window.location.pathname.endsWith('practice.html')) {
+    // Check if the current page is practice.html (handles both direct filename and full path with BASE_URL)
+    if (window.location.pathname.endsWith('practice.html') || window.location.pathname === BASE_URL + 'practice.html') {
         const storedQuestions = sessionStorage.getItem('sessionQuestions');
         const storedFeedbackSetting = sessionStorage.getItem('immediateFeedbackEnabled');
 
         if (!storedQuestions) {
             console.error("No session questions found. Redirecting to setup.");
-            window.location.href = 'index.html';
+            window.location.href = BASE_URL + 'index.html'; // Use BASE_URL for redirection
             return;
         }
 
@@ -821,7 +871,7 @@ function initializePracticePage() {
         // Back to Setup button logic
         document.getElementById('back-to-setup-btn').addEventListener('click', showConfirmModal);
         document.getElementById('confirm-yes-btn').addEventListener('click', () => {
-            window.location.href = 'index.html';
+            window.location.href = BASE_URL + 'index.html'; // Use BASE_URL for redirection
         });
         document.getElementById('confirm-no-btn').addEventListener('click', hideConfirmModal);
     }
@@ -829,9 +879,14 @@ function initializePracticePage() {
 
 // Determine which initialization function to call based on the current page
 document.addEventListener('DOMContentLoaded', () => {
-    if (window.location.pathname.endsWith('index.html') || window.location.pathname === '/') {
+    // Determine the base path for local serving vs GitHub Pages
+    // If hosting locally, window.location.pathname will likely be '/' or '/index.html'
+    // If hosting on GitHub Pages in 'MC' repo, it will be '/MC/' or '/MC/index.html'
+    // The BASE_URL constant at the top of the file should correctly handle this.
+    // We explicitly check for both simple filename and full path with BASE_URL
+    if (window.location.pathname.endsWith('index.html') || window.location.pathname === BASE_URL || window.location.pathname === BASE_URL.slice(0, -1) || window.location.pathname.endsWith('/')) {
         initializeSetupPage();
-    } else if (window.location.pathname.endsWith('practice.html')) {
+    } else if (window.location.pathname.endsWith('practice.html') || window.location.pathname === BASE_URL + 'practice.html') {
         initializePracticePage();
     }
 });
