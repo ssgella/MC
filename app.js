@@ -488,7 +488,7 @@ function showFeedbackAndHighlight(question, userAnswerIndex, isCorrect) {
         feedbackArea.classList.add('feedback-correct');
         feedbackArea.innerHTML = '<p class="font-bold text-lg">Correct!</p>';
     } else {
-        feedbackArea.classList.add('incorrect-segment');
+        feedbackArea.classList.add('feedback-incorrect'); // <<< FIXED: Changed from 'incorrect-segment'
         feedbackArea.innerHTML = '<p class="font-bold text-lg">Incorrect.</p>';
     }
 
@@ -623,7 +623,6 @@ function moveToPreviousQuestion() {
 function updateNavigationButtons() {
     const prevBtn = document.getElementById('prev-question-btn');
     const nextBtn = document.getElementById('next-question-btn');
-    // submitBtn is removed from HTML
     const endSessionBtn = document.getElementById('end-session-btn');
 
 
